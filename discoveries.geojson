@@ -5,16 +5,20 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "PLACEHOLDER — delete me",
+        "name": "KOMPASS Agent Online",
         "type": "discovery",
-        "status": "placeholder",
-        "note": "Placeholder so Felt can read layer schema",
-        "date": "2026-05-11",
-        "zone": "none"
+        "status": "new",
+        "note": "Hetzner server HEL1 operational. Claude Code v2.1.139 installed. GitHub pusher tested and working.",
+        "zone": "infrastructure",
+        "source": "J-002 validation",
+        "date": "2026-05-11"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [13.2957, 52.5208]
+        "coordinates": [
+          24.9384,
+          60.1699
+        ]
       }
     }
   ]
