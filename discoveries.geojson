@@ -1,5 +1,21 @@
 {
   "type": "FeatureCollection",
   "name": "KARTE — Discoveries",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PLACEHOLDER — delete me",
+        "type": "discovery",
+        "status": "placeholder",
+        "note": "Placeholder so Felt can read layer schema",
+        "date": "2026-05-11",
+        "zone": "none"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.2957, 52.5208]
+      }
+    }
+  ]
 }
