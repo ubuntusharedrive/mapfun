@@ -20,6 +20,25 @@
           60.1699
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KOMPASS Agent - kompass@hetzner",
+        "type": "discovery",
+        "status": "new",
+        "note": "Server hostname kompass. Claude Code running as kompass user. All systems operational.",
+        "zone": "infrastructure",
+        "source": "J-004 validation",
+        "date": "2026-05-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9384,
+          60.1699
+        ]
+      }
     }
   ]
 }
