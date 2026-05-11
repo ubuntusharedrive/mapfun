@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "name": "KARTE — Base Point",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charlottenburg Palace",
+        "type": "base_point",
+        "note": "All KARTE distances measured from here"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2957,
+          52.5208
+        ]
+      }
+    }
+  ]
+}
