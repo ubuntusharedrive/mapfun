@@ -3,867 +3,272 @@
   "features": [
     {
       "type": "Feature",
+      "properties": {
+        "id": "Z01", "name": "Uckermark-Kernland", "wedge": "NE",
+        "score": 7.65, "rank": 1, "tag": "active", "tag_label": "Active hunting zone",
+        "fill_color": "#1D9E75", "fill_opacity": 0.35,
+        "nature_water": 9, "access": 6, "community": 7, "risk": 8, "supply": 7,
+        "budget_flags": "$ to $$$", "version": "v1.0", "scored_date": "2026-05-12",
+        "notes": "Lakes, forests, remote, genuine rural Brandenburg. Prenzlau/Angermunde area."
+      },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              13.5,
-              52.949999999999996
-            ],
-            [
-              14.2,
-              52.949999999999996
-            ],
-            [
-              14.2,
-              53.65
-            ],
-            [
-              13.5,
-              53.65
-            ],
-            [
-              13.5,
-              52.949999999999996
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "Z01",
-        "name": "Uckermark-Kernland",
-        "wedge": "NE",
-        "score": 7.65,
-        "rank": 1,
-        "tag": "active",
-        "tag_label": "Active hunting zone",
-        "fill_color": "#1D9E75",
-        "nature_water": 9,
-        "access": 6,
-        "community": 7,
-        "risk": 8,
-        "supply": 7,
-        "notes": "Lakes, forests, remote, genuine rural Brandenburg. Prenzlau/Angermunde area.",
-        "version": "v1.0",
-        "scored_date": "2026-05-12"
+        "coordinates": [[[13.50,53.00],[14.20,53.00],[14.20,53.55],[13.50,53.55],[13.50,53.00]]]
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "id": "Z02", "name": "Uckermark-West", "wedge": "N",
+        "score": 7.55, "rank": 3, "tag": "active", "tag_label": "Active hunting zone",
+        "fill_color": "#1D9E75", "fill_opacity": 0.35,
+        "nature_water": 8, "access": 7, "community": 7, "risk": 8, "supply": 7,
+        "budget_flags": "$ to $$$", "version": "v1.0", "scored_date": "2026-05-12",
+        "notes": "Lychen/Templin area. More accessible than Kernland, still strong water and forest."
+      },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              12.85,
-              52.75
-            ],
-            [
-              13.549999999999999,
-              52.75
-            ],
-            [
-              13.549999999999999,
-              53.45
-            ],
-            [
-              12.85,
-              53.45
-            ],
-            [
-              12.85,
-              52.75
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "Z02",
-        "name": "Uckermark-West",
-        "wedge": "NE",
-        "score": 7.55,
-        "rank": 3,
-        "tag": "active",
-        "tag_label": "Active hunting zone",
-        "fill_color": "#1D9E75",
-        "nature_water": 8,
-        "access": 6,
-        "community": 7,
-        "risk": 8,
-        "supply": 7,
-        "notes": "Western Uckermark, quieter than Z01, good value potential.",
-        "version": "v1.0",
-        "scored_date": "2026-05-12"
+        "coordinates": [[[12.90,52.95],[13.50,52.95],[13.50,53.45],[12.90,53.45],[12.90,52.95]]]
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "id": "Z03", "name": "Meckl. Seenplatte-Sud", "wedge": "N",
+        "score": 6.95, "rank": 7, "tag": "top_shelf", "tag_label": "Top Shelf",
+        "fill_color": "#FAC775", "fill_opacity": 0.40,
+        "nature_water": 10, "access": 4, "community": 6, "risk": 8, "supply": 5,
+        "budget_flags": "$$$$", "version": "v1.0", "scored_date": "2026-05-12",
+        "notes": "Southern fringe of lake district. Neustrelitz area. Exceptional nature, pushes 120km limit."
+      },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              12.75,
-              53.199999999999996
-            ],
-            [
-              13.45,
-              53.199999999999996
-            ],
-            [
-              13.45,
-              53.9
-            ],
-            [
-              12.75,
-              53.9
-            ],
-            [
-              12.75,
-              53.199999999999996
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "Z03",
-        "name": "Meckl. Seenplatte-Sud",
-        "wedge": "NW",
-        "score": 6.95,
-        "rank": 7,
-        "tag": "top_shelf",
-        "tag_label": "Top shelf zone",
-        "fill_color": "#FAC775",
-        "nature_water": 10,
-        "access": 5,
-        "community": 6,
-        "risk": 7,
-        "supply": 6,
-        "notes": "Mecklenburg lake district border zone, scenic, just outside Brandenburg.",
-        "version": "v1.0",
-        "scored_date": "2026-05-12"
+        "coordinates": [[[12.80,53.45],[13.60,53.45],[13.60,53.80],[12.80,53.80],[12.80,53.45]]]
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "id": "Z04", "name": "Rheinsberger Seenland", "wedge": "NW",
+        "score": 7.60, "rank": 2, "tag": "active", "tag_label": "Active hunting zone",
+        "fill_color": "#1D9E75", "fill_opacity": 0.35,
+        "nature_water": 8, "access": 7, "community": 7, "risk": 9, "supply": 6,
+        "budget_flags": "$ to $$$", "version": "v1.0", "scored_date": "2026-05-12",
+        "notes": "Rheinsberg area. Lakes, quiet, under the radar. Good distance from Berlin."
+      },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              12.55,
-              52.75
-            ],
-            [
-              13.25,
-              52.75
-            ],
-            [
-              13.25,
-              53.45
-            ],
-            [
-              12.55,
-              53.45
-            ],
-            [
-              12.55,
-              52.75
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "Z04",
-        "name": "Rheinsberger Seenland",
-        "wedge": "NW",
-        "score": 7.6,
-        "rank": 2,
-        "tag": "active",
-        "tag_label": "Active hunting zone",
-        "fill_color": "#1D9E75",
-        "nature_water": 9,
-        "access": 7,
-        "community": 7,
-        "risk": 8,
-        "supply": 7,
-        "notes": "Rheinsberger Seenland, lakes and forest, well-regarded area.",
-        "version": "v1.0",
-        "scored_date": "2026-05-12"
+        "coordinates": [[[12.55,52.85],[12.95,52.85],[12.95,53.20],[12.55,53.20],[12.55,52.85]]]
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "id": "Z05", "name": "Ruppiner Land", "wedge": "NW",
+        "score": 7.20, "rank": 4, "tag": "active", "tag_label": "Active hunting zone",
+        "fill_color": "#1D9E75", "fill_opacity": 0.35,
+        "nature_water": 7, "access": 7, "community": 7, "risk": 8, "supply": 7,
+        "budget_flags": "$ to $$$", "version": "v1.0", "scored_date": "2026-05-12",
+        "notes": "Neuruppin area. Rolling, accessible, some tourism but real community."
+      },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              12.450000000000001,
-              52.6
-            ],
-            [
-              13.15,
-              52.6
-            ],
-            [
-              13.15,
-              53.300000000000004
-            ],
-            [
-              12.450000000000001,
-              53.300000000000004
-            ],
-            [
-              12.450000000000001,
-              52.6
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "Z05",
-        "name": "Ruppiner Land",
-        "wedge": "NW",
-        "score": 7.2,
-        "rank": 4,
-        "tag": "active",
-        "tag_label": "Active hunting zone",
-        "fill_color": "#1D9E75",
-        "nature_water": 8,
-        "access": 7,
-        "community": 7,
-        "risk": 7,
-        "supply": 7,
-        "notes": "Ruppiner Land around Neuruppin, good access via A24.",
-        "version": "v1.0",
-        "scored_date": "2026-05-12"
+        "coordinates": [[[12.40,52.65],[12.90,52.65],[12.90,52.95],[12.40,52.95],[12.40,52.65]]]
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "id": "Z06", "name": "Prignitz-Ost", "wedge": "NW",
+        "score": 5.70, "rank": 15, "tag": "possible", "tag_label": "Possible zone",
+        "fill_color": "#EF9F27", "fill_opacity": 0.30,
+        "nature_water": 6, "access": 5, "community": 5, "risk": 8, "supply": 4,
+        "budget_flags": "$ to $$", "version": "v1.0", "scored_date": "2026-05-12",
+        "notes": "Wittstock/Kyritz area. Very remote, very cheap, thin market."
+      },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              11.950000000000001,
-              52.75
-            ],
-            [
-              12.65,
-              52.75
-            ],
-            [
-              12.65,
-              53.45
-            ],
-            [
-              11.950000000000001,
-              53.45
-            ],
-            [
-              11.950000000000001,
-              52.75
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "Z06",
-        "name": "Prignitz-Ost",
-        "wedge": "NW",
-        "score": 5.7,
-        "rank": 15,
-        "tag": "possible",
-        "tag_label": "Possible zone",
-        "fill_color": "#EF9F27",
-        "nature_water": 6,
-        "access": 5,
-        "community": 5,
-        "risk": 6,
-        "supply": 5,
-        "notes": "Prignitz eastern edge, affordable but thin supply.",
-        "version": "v1.0",
-        "scored_date": "2026-05-12"
+        "coordinates": [[[12.00,52.95],[12.55,52.95],[12.55,53.35],[12.00,53.35],[12.00,52.95]]]
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "id": "Z07", "name": "Prignitz-West", "wedge": "W",
+        "score": 5.15, "rank": 18, "tag": "possible", "tag_label": "Possible zone",
+        "fill_color": "#EF9F27", "fill_opacity": 0.30,
+        "nature_water": 5, "access": 4, "community": 5, "risk": 8, "supply": 4,
+        "budget_flags": "$ to $$", "version": "v1.0", "scored_date": "2026-05-12",
+        "notes": "Perleberg/Pritzwalk. Deep rural, affordable, low supply."
+      },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              11.450000000000001,
-              52.699999999999996
-            ],
-            [
-              12.15,
-              52.699999999999996
-            ],
-            [
-              12.15,
-              53.4
-            ],
-            [
-              11.450000000000001,
-              53.4
-            ],
-            [
-              11.450000000000001,
-              52.699999999999996
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "Z07",
-        "name": "Prignitz-West",
-        "wedge": "NW",
-        "score": 5.15,
-        "rank": 18,
-        "tag": "possible",
-        "tag_label": "Possible zone",
-        "fill_color": "#EF9F27",
-        "nature_water": 6,
-        "access": 4,
-        "community": 4,
-        "risk": 6,
-        "supply": 4,
-        "notes": "Western Prignitz, very remote, low prices but limited infrastructure.",
-        "version": "v1.0",
-        "scored_date": "2026-05-12"
+        "coordinates": [[[11.50,52.95],[12.00,52.95],[12.00,53.35],[11.50,53.35],[11.50,52.95]]]
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "id": "Z08", "name": "Havelland-Flaming-Ubergang", "wedge": "W",
+        "score": 6.40, "rank": 14, "tag": "avoid", "tag_label": "Avoid",
+        "fill_color": "#E24B4A", "fill_opacity": 0.25,
+        "nature_water": 5, "access": 8, "community": 7, "risk": 7, "supply": 6,
+        "budget_flags": "$$$ to $$$$", "version": "v1.0", "scored_date": "2026-05-12",
+        "notes": "Transition zone west of Berlin. Prices driven by Berlin proximity, not quality."
+      },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              12.15,
-              52.199999999999996
-            ],
-            [
-              12.85,
-              52.199999999999996
-            ],
-            [
-              12.85,
-              52.9
-            ],
-            [
-              12.15,
-              52.9
-            ],
-            [
-              12.15,
-              52.199999999999996
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "Z08",
-        "name": "Havelland-Flaming-Uberg",
-        "wedge": "NW",
-        "score": 6.4,
-        "rank": 14,
-        "tag": "avoid",
-        "tag_label": "Avoid zone",
-        "fill_color": "#E24B4A",
-        "nature_water": 6,
-        "access": 7,
-        "community": 6,
-        "risk": 5,
-        "supply": 7,
-        "notes": "Havelland/Flaming transition, too suburban, avoid.",
-        "version": "v1.0",
-        "scored_date": "2026-05-12"
+        "coordinates": [[[12.20,52.35],[12.85,52.35],[12.85,52.65],[12.20,52.65],[12.20,52.35]]]
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "id": "Z09", "name": "Hoher Flaming", "wedge": "SW",
+        "score": 7.20, "rank": 5, "tag": "active", "tag_label": "Active hunting zone",
+        "fill_color": "#1D9E75", "fill_opacity": 0.35,
+        "nature_water": 7, "access": 7, "community": 7, "risk": 9, "supply": 6,
+        "budget_flags": "$ to $$$", "version": "v1.0", "scored_date": "2026-05-12",
+        "notes": "Belzig/Bad Belzig area. Hills, quiet, genuinely underrated. Best balance zone SW."
+      },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              12.200000000000001,
-              51.75
-            ],
-            [
-              12.9,
-              51.75
-            ],
-            [
-              12.9,
-              52.45
-            ],
-            [
-              12.200000000000001,
-              52.45
-            ],
-            [
-              12.200000000000001,
-              51.75
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "Z09",
-        "name": "Hoher Flaming",
-        "wedge": "SW",
-        "score": 7.2,
-        "rank": 5,
-        "tag": "active",
-        "tag_label": "Active hunting zone",
-        "fill_color": "#1D9E75",
-        "nature_water": 8,
-        "access": 6,
-        "community": 7,
-        "risk": 7,
-        "supply": 6,
-        "notes": "Hoher Flaming nature park, quiet south zone, strong nature score.",
-        "version": "v1.0",
-        "scored_date": "2026-05-12"
+        "coordinates": [[[12.15,51.90],[12.75,51.90],[12.75,52.25],[12.15,52.25],[12.15,51.90]]]
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "id": "Z10", "name": "Flaming-Sud", "wedge": "S",
+        "score": 6.85, "rank": 8, "tag": "possible", "tag_label": "Possible zone",
+        "fill_color": "#EF9F27", "fill_opacity": 0.30,
+        "nature_water": 6, "access": 7, "community": 7, "risk": 9, "supply": 6,
+        "budget_flags": "$ to $$$", "version": "v1.0", "scored_date": "2026-05-12",
+        "notes": "Juterbog/Luckenwalde area. Flatter, more farmland, less dramatic than Hoher Flaming."
+      },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              12.450000000000001,
-              51.6
-            ],
-            [
-              13.15,
-              51.6
-            ],
-            [
-              13.15,
-              52.300000000000004
-            ],
-            [
-              12.450000000000001,
-              52.300000000000004
-            ],
-            [
-              12.450000000000001,
-              51.6
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "Z10",
-        "name": "Flaming-Sud",
-        "wedge": "SW",
-        "score": 6.85,
-        "rank": 8,
-        "tag": "possible",
-        "tag_label": "Possible zone",
-        "fill_color": "#EF9F27",
-        "nature_water": 7,
-        "access": 6,
-        "community": 6,
-        "risk": 7,
-        "supply": 6,
-        "notes": "Southern Flaming, affordable, thin listings.",
-        "version": "v1.0",
-        "scored_date": "2026-05-12"
+        "coordinates": [[[12.75,51.75],[13.35,51.75],[13.35,52.10],[12.75,52.10],[12.75,51.75]]]
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "id": "Z11", "name": "Niederlausitz-West", "wedge": "S",
+        "score": 5.30, "rank": 16, "tag": "possible", "tag_label": "Possible zone",
+        "fill_color": "#EF9F27", "fill_opacity": 0.30,
+        "nature_water": 5, "access": 5, "community": 5, "risk": 7, "supply": 5,
+        "budget_flags": "$ to $$", "version": "v1.0", "scored_date": "2026-05-12",
+        "notes": "Doberlug area. Affordable, recovering post-lignite, interesting future upside."
+      },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              13.05,
-              51.35
-            ],
-            [
-              13.75,
-              51.35
-            ],
-            [
-              13.75,
-              52.050000000000004
-            ],
-            [
-              13.05,
-              52.050000000000004
-            ],
-            [
-              13.05,
-              51.35
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "Z11",
-        "name": "Niederlausitz-West",
-        "wedge": "SE",
-        "score": 5.3,
-        "rank": 16,
-        "tag": "possible",
-        "tag_label": "Possible zone",
-        "fill_color": "#EF9F27",
-        "nature_water": 6,
-        "access": 5,
-        "community": 5,
-        "risk": 6,
-        "supply": 5,
-        "notes": "Niederlausitz west, far south, limited rural supply.",
-        "version": "v1.0",
-        "scored_date": "2026-05-12"
+        "coordinates": [[[13.35,51.55],[14.00,51.55],[14.00,51.90],[13.35,51.90],[13.35,51.55]]]
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "id": "Z12", "name": "Spreewald", "wedge": "SE",
+        "score": 6.50, "rank": 13, "tag": "possible", "tag_label": "Possible zone",
+        "fill_color": "#EF9F27", "fill_opacity": 0.30,
+        "nature_water": 8, "access": 6, "community": 5, "risk": 7, "supply": 5,
+        "budget_flags": "$$ to $$$", "version": "v1.0", "scored_date": "2026-05-12",
+        "notes": "Lubben/Lubbenau. Unique landscape, water everywhere, heavily tourist-oriented."
+      },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              13.55,
-              51.6
-            ],
-            [
-              14.25,
-              51.6
-            ],
-            [
-              14.25,
-              52.300000000000004
-            ],
-            [
-              13.55,
-              52.300000000000004
-            ],
-            [
-              13.55,
-              51.6
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "Z12",
-        "name": "Spreewald",
-        "wedge": "SE",
-        "score": 6.5,
-        "rank": 13,
-        "tag": "possible",
-        "tag_label": "Possible zone",
-        "fill_color": "#EF9F27",
-        "nature_water": 9,
-        "access": 6,
-        "community": 6,
-        "risk": 6,
-        "supply": 6,
-        "notes": "Spreewald UNESCO biosphere, scenic but restricted building rules.",
-        "version": "v1.0",
-        "scored_date": "2026-05-12"
+        "coordinates": [[[13.70,51.80],[14.20,51.80],[14.20,52.20],[13.70,52.20],[13.70,51.80]]]
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "id": "Z13", "name": "Oder-Spree-Seen", "wedge": "SE",
+        "score": 6.75, "rank": 10, "tag": "top_shelf", "tag_label": "Top Shelf",
+        "fill_color": "#FAC775", "fill_opacity": 0.40,
+        "nature_water": 7, "access": 7, "community": 6, "risk": 7, "supply": 6,
+        "budget_flags": "$$$ to $$$$", "version": "v1.0", "scored_date": "2026-05-12",
+        "notes": "Storkow/Wendisch Rietz area. Lakes, popular, prices rising fast."
+      },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              13.6,
-              51.9
-            ],
-            [
-              14.299999999999999,
-              51.9
-            ],
-            [
-              14.299999999999999,
-              52.6
-            ],
-            [
-              13.6,
-              52.6
-            ],
-            [
-              13.6,
-              51.9
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "Z13",
-        "name": "Oder-Spree-Seen",
-        "wedge": "SE",
-        "score": 6.75,
-        "rank": 10,
-        "tag": "top_shelf",
-        "tag_label": "Top shelf zone",
-        "fill_color": "#FAC775",
-        "nature_water": 9,
-        "access": 7,
-        "community": 6,
-        "risk": 6,
-        "supply": 7,
-        "notes": "Oder-Spree lakes, eastern charm, growing interest.",
-        "version": "v1.0",
-        "scored_date": "2026-05-12"
+        "coordinates": [[[13.85,52.10],[14.35,52.10],[14.35,52.45],[13.85,52.45],[13.85,52.10]]]
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "id": "Z14", "name": "Markische Schweiz", "wedge": "E",
+        "score": 6.85, "rank": 9, "tag": "top_shelf", "tag_label": "Top Shelf",
+        "fill_color": "#FAC775", "fill_opacity": 0.40,
+        "nature_water": 7, "access": 8, "community": 6, "risk": 8, "supply": 3,
+        "budget_flags": "$$$ to $$$$", "version": "v1.0", "scored_date": "2026-05-12",
+        "notes": "Buckow area. Small, beautiful, close to Berlin. Prices high, supply tiny."
+      },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              13.700000000000001,
-              52.199999999999996
-            ],
-            [
-              14.4,
-              52.199999999999996
-            ],
-            [
-              14.4,
-              52.9
-            ],
-            [
-              13.700000000000001,
-              52.9
-            ],
-            [
-              13.700000000000001,
-              52.199999999999996
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "Z14",
-        "name": "Markische Schweiz",
-        "wedge": "NE",
-        "score": 6.85,
-        "rank": 9,
-        "tag": "top_shelf",
-        "tag_label": "Top shelf zone",
-        "fill_color": "#FAC775",
-        "nature_water": 8,
-        "access": 7,
-        "community": 7,
-        "risk": 7,
-        "supply": 7,
-        "notes": "Markische Schweiz, hilly, scenic, commutable via S-Bahn periphery.",
-        "version": "v1.0",
-        "scored_date": "2026-05-12"
+        "coordinates": [[[14.00,52.45],[14.40,52.45],[14.40,52.75],[14.00,52.75],[14.00,52.45]]]
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "id": "Z15", "name": "Oderbruch", "wedge": "E",
+        "score": 5.20, "rank": 17, "tag": "risk_flag", "tag_label": "Risk flag — verify before JAGD",
+        "fill_color": "#E24B4A", "fill_opacity": 0.25,
+        "nature_water": 5, "access": 6, "community": 6, "risk": 4, "supply": 5,
+        "budget_flags": "$ to $$", "version": "v1.0", "scored_date": "2026-05-12",
+        "notes": "Oder valley. Flood risk must be verified against LGB Brandenburg before any JAGD activity."
+      },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              13.950000000000001,
-              52.3
-            ],
-            [
-              14.65,
-              52.3
-            ],
-            [
-              14.65,
-              53.0
-            ],
-            [
-              13.950000000000001,
-              53.0
-            ],
-            [
-              13.950000000000001,
-              52.3
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "Z15",
-        "name": "Oderbruch",
-        "wedge": "NE",
-        "score": 5.2,
-        "rank": 17,
-        "tag": "risk_flag",
-        "tag_label": "Risk flag zone",
-        "fill_color": "#E24B4A",
-        "nature_water": 8,
-        "access": 6,
-        "community": 5,
-        "risk": 2,
-        "supply": 5,
-        "notes": "Oderbruch floodplain. HQ100 flood risk flagged. Research required before any buy.",
-        "version": "v1.0",
-        "scored_date": "2026-05-12",
-        "risk_flag": true
+        "coordinates": [[[14.20,52.45],[14.65,52.45],[14.65,52.85],[14.20,52.85],[14.20,52.45]]]
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "id": "Z16", "name": "Schorfheide-Sud", "wedge": "NE",
+        "score": 7.15, "rank": 6, "tag": "active", "tag_label": "Active hunting zone",
+        "fill_color": "#1D9E75", "fill_opacity": 0.35,
+        "nature_water": 7, "access": 7, "community": 7, "risk": 8, "supply": 6,
+        "budget_flags": "$ to $$$", "version": "v1.0", "scored_date": "2026-05-12",
+        "notes": "South of Schorfheide forest. Eberswalde area. Nature reserve proximity, real year-round community."
+      },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              13.25,
-              52.5
-            ],
-            [
-              13.95,
-              52.5
-            ],
-            [
-              13.95,
-              53.2
-            ],
-            [
-              13.25,
-              53.2
-            ],
-            [
-              13.25,
-              52.5
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "Z16",
-        "name": "Schorfheide-Sud",
-        "wedge": "NE",
-        "score": 7.15,
-        "rank": 6,
-        "tag": "active",
-        "tag_label": "Active hunting zone",
-        "fill_color": "#1D9E75",
-        "nature_water": 8,
-        "access": 7,
-        "community": 7,
-        "risk": 7,
-        "supply": 7,
-        "notes": "Schorfheide-Sud, between S-Bahn and forest, balanced zone.",
-        "version": "v1.0",
-        "scored_date": "2026-05-12"
+        "coordinates": [[[13.55,52.65],[14.00,52.65],[14.00,52.98],[13.55,52.98],[13.55,52.65]]]
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "id": "Z17", "name": "Barnim-Nord", "wedge": "NE",
+        "score": 6.65, "rank": 11, "tag": "possible", "tag_label": "Possible zone",
+        "fill_color": "#EF9F27", "fill_opacity": 0.30,
+        "nature_water": 6, "access": 7, "community": 7, "risk": 7, "supply": 6,
+        "budget_flags": "$$ to $$$", "version": "v1.0", "scored_date": "2026-05-12",
+        "notes": "North Barnim, away from suburban fringe. More affordable than South Barnim."
+      },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              13.4,
-              52.55
-            ],
-            [
-              14.1,
-              52.55
-            ],
-            [
-              14.1,
-              53.25
-            ],
-            [
-              13.4,
-              53.25
-            ],
-            [
-              13.4,
-              52.55
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "Z17",
-        "name": "Barnim-Nord",
-        "wedge": "NE",
-        "score": 6.65,
-        "rank": 11,
-        "tag": "possible",
-        "tag_label": "Possible zone",
-        "fill_color": "#EF9F27",
-        "nature_water": 7,
-        "access": 7,
-        "community": 7,
-        "risk": 7,
-        "supply": 7,
-        "notes": "Barnim Nord, near Schorfheide, good value overlap with Z16.",
-        "version": "v1.0",
-        "scored_date": "2026-05-12"
+        "coordinates": [[[13.55,52.45],[14.00,52.45],[14.00,52.65],[13.55,52.65],[13.55,52.45]]]
       }
     },
     {
       "type": "Feature",
+      "properties": {
+        "id": "Z18", "name": "Flaming-Mitte", "wedge": "SW",
+        "score": 6.60, "rank": 12, "tag": "possible", "tag_label": "Possible zone",
+        "fill_color": "#EF9F27", "fill_opacity": 0.30,
+        "nature_water": 6, "access": 7, "community": 6, "risk": 9, "supply": 5,
+        "budget_flags": "$ to $$$", "version": "v1.0", "scored_date": "2026-05-12",
+        "notes": "Niemegk/Treuenbrietzen area. Quiet, affordable, underexplored."
+      },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              12.35,
-              51.699999999999996
-            ],
-            [
-              13.049999999999999,
-              51.699999999999996
-            ],
-            [
-              13.049999999999999,
-              52.4
-            ],
-            [
-              12.35,
-              52.4
-            ],
-            [
-              12.35,
-              51.699999999999996
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "id": "Z18",
-        "name": "Flaming-Mitte",
-        "wedge": "SW",
-        "score": 6.6,
-        "rank": 12,
-        "tag": "possible",
-        "tag_label": "Possible zone",
-        "fill_color": "#EF9F27",
-        "nature_water": 7,
-        "access": 6,
-        "community": 6,
-        "risk": 7,
-        "supply": 6,
-        "notes": "Flaming-Mitte, central Flaming, quiet farming area.",
-        "version": "v1.0",
-        "scored_date": "2026-05-12"
+        "coordinates": [[[12.15,52.15],[12.75,52.15],[12.75,52.45],[12.15,52.45],[12.15,52.15]]]
       }
     }
   ]
