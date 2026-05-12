@@ -1,6 +1,5 @@
 {
   "type": "FeatureCollection",
-  "name": "KARTE — Discoveries",
   "features": [
     {
       "type": "Feature",
@@ -38,6 +37,1766 @@
           24.9384,
           60.1699
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3122,
+          53.3442
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3291805793",
+        "price": 159000,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "2 Einfamilienhäuser in Nadrense zu verkaufen, weitere Bilder",
+        "location": "17329 Nadrensee",
+        "label": "$ · 159k · Z01",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3291805793"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3122,
+          53.3442
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3312509421",
+        "price": 150000,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "Stilvolle, möblierte Wohnimmobilie mit Gewerbefläche",
+        "location": "17329 Nadrensee",
+        "label": "$ · 150k · Z01",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3312509421"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3122,
+          53.3442
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3355474039",
+        "price": 550000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z01",
+        "title": "Pomellen Alleinlage + 4.858 m² – selten! prov-frei für 159.0",
+        "location": "17329 Nadrensee",
+        "label": "$$$$ · 550k · Z01",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3355474039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3122,
+          53.3442
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3024933373",
+        "price": 159000,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "Endlich genug Platz: Das ideale Zuhause für Ihre große Famil",
+        "location": "17329 Krackow (6 km)",
+        "label": "$ · 159k · Z01",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3024933373"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2116,
+          53.2941
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-2994237718",
+        "price": 159000,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "Für Macher und Wagemutige - Projekt zwischen Berlin und Stet",
+        "location": "17328 Penkun (8 km)",
+        "label": "$ · 159k · Z01",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/2994237718"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2116,
+          53.2941
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3264088385",
+        "price": 159000,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "HORN IMMOBILIEN ++ Doppelhaushälfte bei Penkun im großen Gru",
+        "location": "17328 Penkun (8 km)",
+        "label": "$ · 159k · Z01",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3264088385"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2116,
+          53.2941
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3024934272",
+        "price": 159000,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "Trendhaus fix und fertig inkl. Grundstück",
+        "location": "17328 Penkun (8 km)",
+        "label": "$ · 159k · Z01",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3024934272"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2116,
+          53.2941
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3379911592",
+        "price": 306000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z01",
+        "title": "Haus alleinstehend, Penkun Wald See Ruhe Jagd Urlaub Pferd A",
+        "location": "17328 Penkun (8 km)",
+        "label": "$$$$ · 306k · Z01",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3379911592"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2116,
+          53.2941
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3382348523",
+        "price": 199600,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "Gepflegtes Einfamilienhaus in Sommersdorf bei Penkun",
+        "location": "17328 Penkun (8 km)",
+        "label": "$ · 199k · Z01",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3382348523"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2116,
+          53.2941
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3339747657",
+        "price": 110000,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "Charmantes Bauernhaus mit großem Grundstück &amp; viel Poten",
+        "location": "17328 Penkun (8 km)",
+        "label": "$ · 110k · Z01",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3339747657"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2116,
+          53.2941
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-2744084868",
+        "price": 373000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z01",
+        "title": "Hier werden Träume wahr! Wunderschönes Seehaus bei Penkun !",
+        "location": "17328 Penkun (9 km)",
+        "label": "$$$$ · 373k · Z01",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/2744084868"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2116,
+          53.2941
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3360399027",
+        "price": 220000,
+        "budget_flag": "$$",
+        "zone_id": "Z01",
+        "title": "Haus in Polen zu verkaufen 30 km von Kolberg",
+        "location": "17328 Wollin (9 km)",
+        "label": "$$ · 220k · Z01",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3360399027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3578,
+          53.249
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3365897667",
+        "price": 149000,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "Verkaufe Haushälfte in Tantow",
+        "location": "16307 Tantow (7 km)",
+        "label": "$ · 149k · Z01",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3365897667"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3122,
+          53.3442
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3291805793",
+        "price": 159000,
+        "budget_flag": "$",
+        "zone_id": "Z02",
+        "title": "2 Einfamilienhäuser in Nadrense zu verkaufen, weitere Bilder",
+        "location": "17329 Nadrensee",
+        "label": "$ · 159k · Z02",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3291805793"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3122,
+          53.3442
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3312509421",
+        "price": 150000,
+        "budget_flag": "$",
+        "zone_id": "Z02",
+        "title": "Stilvolle, möblierte Wohnimmobilie mit Gewerbefläche",
+        "location": "17329 Nadrensee",
+        "label": "$ · 150k · Z02",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3312509421"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3122,
+          53.3442
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3355474039",
+        "price": 550000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z02",
+        "title": "Pomellen Alleinlage + 4.858 m² – selten! prov-frei für 159.0",
+        "location": "17329 Nadrensee",
+        "label": "$$$$ · 550k · Z02",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3355474039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3122,
+          53.3442
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3024933373",
+        "price": 159000,
+        "budget_flag": "$",
+        "zone_id": "Z02",
+        "title": "Endlich genug Platz: Das ideale Zuhause für Ihre große Famil",
+        "location": "17329 Krackow (6 km)",
+        "label": "$ · 159k · Z02",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3024933373"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2116,
+          53.2941
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-2994237718",
+        "price": 159000,
+        "budget_flag": "$",
+        "zone_id": "Z02",
+        "title": "Für Macher und Wagemutige - Projekt zwischen Berlin und Stet",
+        "location": "17328 Penkun (8 km)",
+        "label": "$ · 159k · Z02",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/2994237718"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2116,
+          53.2941
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3264088385",
+        "price": 159000,
+        "budget_flag": "$",
+        "zone_id": "Z02",
+        "title": "HORN IMMOBILIEN ++ Doppelhaushälfte bei Penkun im großen Gru",
+        "location": "17328 Penkun (8 km)",
+        "label": "$ · 159k · Z02",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3264088385"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2116,
+          53.2941
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3024934272",
+        "price": 159000,
+        "budget_flag": "$",
+        "zone_id": "Z02",
+        "title": "Trendhaus fix und fertig inkl. Grundstück",
+        "location": "17328 Penkun (8 km)",
+        "label": "$ · 159k · Z02",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3024934272"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2116,
+          53.2941
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3379911592",
+        "price": 306000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z02",
+        "title": "Haus alleinstehend, Penkun Wald See Ruhe Jagd Urlaub Pferd A",
+        "location": "17328 Penkun (8 km)",
+        "label": "$$$$ · 306k · Z02",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3379911592"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2116,
+          53.2941
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3382348523",
+        "price": 199600,
+        "budget_flag": "$",
+        "zone_id": "Z02",
+        "title": "Gepflegtes Einfamilienhaus in Sommersdorf bei Penkun",
+        "location": "17328 Penkun (8 km)",
+        "label": "$ · 199k · Z02",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3382348523"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2116,
+          53.2941
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3339747657",
+        "price": 110000,
+        "budget_flag": "$",
+        "zone_id": "Z02",
+        "title": "Charmantes Bauernhaus mit großem Grundstück &amp; viel Poten",
+        "location": "17328 Penkun (8 km)",
+        "label": "$ · 110k · Z02",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3339747657"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2116,
+          53.2941
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-2744084868",
+        "price": 373000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z02",
+        "title": "Hier werden Träume wahr! Wunderschönes Seehaus bei Penkun !",
+        "location": "17328 Penkun (9 km)",
+        "label": "$$$$ · 373k · Z02",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/2744084868"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2116,
+          53.2941
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3360399027",
+        "price": 220000,
+        "budget_flag": "$$",
+        "zone_id": "Z02",
+        "title": "Haus in Polen zu verkaufen 30 km von Kolberg",
+        "location": "17328 Wollin (9 km)",
+        "label": "$$ · 220k · Z02",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3360399027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3578,
+          53.249
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3365897667",
+        "price": 149000,
+        "budget_flag": "$",
+        "zone_id": "Z02",
+        "title": "Verkaufe Haushälfte in Tantow",
+        "location": "16307 Tantow (7 km)",
+        "label": "$ · 149k · Z02",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3365897667"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8891,
+          53.0124
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3401265110",
+        "price": 69900,
+        "budget_flag": "$",
+        "zone_id": "Z04",
+        "title": "Auswandern nach Schweden? 2 Häuser + 8.000m2 in Süd-Lappland",
+        "location": "80469 Isarvorstadt",
+        "label": "$ · 69k · Z04",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3401265110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.995,
+          53.1068
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3384531506",
+        "price": 900000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z04",
+        "title": "Finca, Paradies La Gomera, Verkauf oder Investment",
+        "location": "80469 Isarvorstadt",
+        "label": "$$$$ · 900k · Z04",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3384531506"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.964,
+          52.9814
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3404847055",
+        "price": 900000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z04",
+        "title": "Haus zum Kauf gesucht",
+        "location": "80469 Isarvorstadt (0.0 km)",
+        "label": "$$$$ · 900k · Z04",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3404847055"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9675,
+          52.9859
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-2371455638",
+        "price": 350000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z04",
+        "title": "RMH DHH EFH zum Verkauf gesucht",
+        "location": "80469 Altstadt-&#8203Lehel (0.0 km)",
+        "label": "$$$$ · 350k · Z04",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/2371455638"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8127,
+          53.0309
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3377584475",
+        "price": 350000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z04",
+        "title": "Berghütte oder Freizeitgrundstück gesucht",
+        "location": "80469 Altstadt-&#8203Lehel (0.0 km)",
+        "label": "$$$$ · 350k · Z04",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3377584475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9708,
+          52.9824
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3395133181",
+        "price": 23800,
+        "budget_flag": "$",
+        "zone_id": "Z04",
+        "title": "Musterhaus - Holzhaus, Tiny House, Minihaus, Ferienhaus",
+        "location": "80337 Isarvorstadt (0.8 km)",
+        "label": "$ · 23k · Z04",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3395133181"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7876,
+          53.0085
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3400350052",
+        "price": 684000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z04",
+        "title": "Ich verkaufe eine freistehende Villa in Trentino-Südtirol",
+        "location": "80331 Altstadt-&#8203Lehel (0.8 km)",
+        "label": "$$$$ · 684k · Z04",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3400350052"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8404,
+          53.0632
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3398848526",
+        "price": 120000,
+        "budget_flag": "$",
+        "zone_id": "Z04",
+        "title": "Haus mit Nebengebäuden und großem Grundstück, Kroatien (Care",
+        "location": "80331 Altstadt-&#8203Lehel (0.8 km)",
+        "label": "$ · 120k · Z04",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3398848526"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8302,
+          53.1583
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3405178343",
+        "price": 380000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z04",
+        "title": "Familienhaus in Costa Rica",
+        "location": "80331 Altstadt-&#8203Lehel (0.8 km)",
+        "label": "$$$$ · 380k · Z04",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3405178343"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.84,
+          53.2151
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3057336996",
+        "price": 750000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z04",
+        "title": "Gehobene Immobilie mit Reitsportbezug",
+        "location": "80331 Altstadt-&#8203Lehel (0.8 km)",
+        "label": "$$$$ · 750k · Z04",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3057336996"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9034,
+          53.0775
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3280391144",
+        "price": 450000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z04",
+        "title": "Renaissance‑Schloss – gute Anbindung an München (&lt; 1h übe",
+        "location": "80331 Altstadt-&#8203Lehel (0.8 km)",
+        "label": "$$$$ · 450k · Z04",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3280391144"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7891,
+          52.8624
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3401265110",
+        "price": 69900,
+        "budget_flag": "$",
+        "zone_id": "Z05",
+        "title": "Auswandern nach Schweden? 2 Häuser + 8.000m2 in Süd-Lappland",
+        "location": "80469 Isarvorstadt",
+        "label": "$ · 69k · Z05",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3401265110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.895,
+          52.9568
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3384531506",
+        "price": 900000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z05",
+        "title": "Finca, Paradies La Gomera, Verkauf oder Investment",
+        "location": "80469 Isarvorstadt",
+        "label": "$$$$ · 900k · Z05",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3384531506"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.864,
+          52.8314
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3404847055",
+        "price": 900000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z05",
+        "title": "Haus zum Kauf gesucht",
+        "location": "80469 Isarvorstadt (0.0 km)",
+        "label": "$$$$ · 900k · Z05",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3404847055"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8675,
+          52.8359
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-2371455638",
+        "price": 350000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z05",
+        "title": "RMH DHH EFH zum Verkauf gesucht",
+        "location": "80469 Altstadt-&#8203Lehel (0.0 km)",
+        "label": "$$$$ · 350k · Z05",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/2371455638"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7127,
+          52.8809
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3377584475",
+        "price": 350000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z05",
+        "title": "Berghütte oder Freizeitgrundstück gesucht",
+        "location": "80469 Altstadt-&#8203Lehel (0.0 km)",
+        "label": "$$$$ · 350k · Z05",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3377584475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8708,
+          52.8324
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3395133181",
+        "price": 23800,
+        "budget_flag": "$",
+        "zone_id": "Z05",
+        "title": "Musterhaus - Holzhaus, Tiny House, Minihaus, Ferienhaus",
+        "location": "80337 Isarvorstadt (0.8 km)",
+        "label": "$ · 23k · Z05",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3395133181"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6876,
+          52.8585
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3400350052",
+        "price": 684000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z05",
+        "title": "Ich verkaufe eine freistehende Villa in Trentino-Südtirol",
+        "location": "80331 Altstadt-&#8203Lehel (0.8 km)",
+        "label": "$$$$ · 684k · Z05",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3400350052"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7404,
+          52.9132
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3398848526",
+        "price": 120000,
+        "budget_flag": "$",
+        "zone_id": "Z05",
+        "title": "Haus mit Nebengebäuden und großem Grundstück, Kroatien (Care",
+        "location": "80331 Altstadt-&#8203Lehel (0.8 km)",
+        "label": "$ · 120k · Z05",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3398848526"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7302,
+          53.0083
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3405178343",
+        "price": 380000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z05",
+        "title": "Familienhaus in Costa Rica",
+        "location": "80331 Altstadt-&#8203Lehel (0.8 km)",
+        "label": "$$$$ · 380k · Z05",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3405178343"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.74,
+          53.0651
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3057336996",
+        "price": 750000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z05",
+        "title": "Gehobene Immobilie mit Reitsportbezug",
+        "location": "80331 Altstadt-&#8203Lehel (0.8 km)",
+        "label": "$$$$ · 750k · Z05",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3057336996"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8034,
+          52.9275
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3280391144",
+        "price": 450000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z05",
+        "title": "Renaissance‑Schloss – gute Anbindung an München (&lt; 1h übe",
+        "location": "80331 Altstadt-&#8203Lehel (0.8 km)",
+        "label": "$$$$ · 450k · Z05",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3280391144"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1583,
+          53.3863
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3331584791",
+        "price": 417000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z09",
+        "title": "Dein Zuhause, Dein Stil - Wir bauen Deine Wünsche",
+        "location": "17326 Prenzlau",
+        "label": "$$$$ · 417k · Z09",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3331584791"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1583,
+          53.3863
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3367752633",
+        "price": 163000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "HORN IMMOBILIEN ++ großes Einfamilienhaus in Brüssow bei Löc",
+        "location": "17326 Prenzlau",
+        "label": "$ · 163k · Z09",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3367752633"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1583,
+          53.3863
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3349004678",
+        "price": 308500,
+        "budget_flag": "$$$$",
+        "zone_id": "Z09",
+        "title": "Energieeffiziente Immobilie in wunderschöner Südlage",
+        "location": "17326 Prenzlau",
+        "label": "$$$$ · 308k · Z09",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3349004678"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1583,
+          53.3863
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3392296150",
+        "price": 85500,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "2-Familienhaus ! Nur 357.100,-EUR je Familie/Haushälfte/Grun",
+        "location": "17326 Prenzlau",
+        "label": "$ · 85k · Z09",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3392296150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1583,
+          53.3863
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3156054562",
+        "price": 714200,
+        "budget_flag": "$$$$",
+        "zone_id": "Z09",
+        "title": "HORN IMMOBILIEN ++ ein Haus bei Brüssow, mit viel Platz und ",
+        "location": "17326 Prenzlau",
+        "label": "$$$$ · 714k · Z09",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3156054562"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1583,
+          53.3863
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3369792430",
+        "price": 74000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Bye-bye, Miethai!",
+        "location": "17326 Prenzlau",
+        "label": "$ · 74k · Z09",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3369792430"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1583,
+          53.3863
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3125128455",
+        "price": 383000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z09",
+        "title": "Traumhaus mit großem Garten in Brüssow",
+        "location": "17326 Prenzlau",
+        "label": "$$$$ · 383k · Z09",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3125128455"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1583,
+          53.3863
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3364542154",
+        "price": 346000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z09",
+        "title": "Gemütliches Zuhause mit viel Platz in und um das Haus",
+        "location": "17326 Prenzlau",
+        "label": "$$$$ · 346k · Z09",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3364542154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1583,
+          53.3863
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3392376501",
+        "price": 139000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Alles aus einer Hand - wir begleiten Dich Schritt für Schrit",
+        "location": "17326 Prenzlau",
+        "label": "$ · 139k · Z09",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3392376501"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1583,
+          53.3863
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-2984701231",
+        "price": 487543,
+        "budget_flag": "$$$$",
+        "zone_id": "Z09",
+        "title": "Ruheoase Uckermark",
+        "location": "17326 Prenzlau",
+        "label": "$$$$ · 487k · Z09",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/2984701231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0089,
+          53.5196
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3399528088",
+        "price": 196000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Rarität in grüner Landschaft",
+        "location": "17309 Fahrenwalde (7 km)",
+        "label": "$ · 196k · Z09",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3399528088"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0089,
+          53.5196
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3088332236",
+        "price": 199000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "GROSSZÜGIGES WOHNEN im Doppelhaus",
+        "location": "17309 Fahrenwalde (7 km)",
+        "label": "$ · 199k · Z09",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3088332236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2722,
+          53.457
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3217410278",
+        "price": 179000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "HORN IMMOBILIEN++ Doppelhaushälfte in Rossow, sanierungsbedü",
+        "location": "17322 Rossow (9 km)",
+        "label": "$ · 179k · Z09",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3217410278"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3122,
+          53.3442
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3024933373",
+        "price": 429000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z09",
+        "title": "Endlich genug Platz: Das ideale Zuhause für Ihre große Famil",
+        "location": "17329 Krackow (10 km)",
+        "label": "$$$$ · 429k · Z09",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3024933373"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2116,
+          53.2941
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3360399027",
+        "price": 49000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Haus in Polen zu verkaufen 30 km von Kolberg",
+        "location": "17328 Wollin (11 km)",
+        "label": "$ · 49k · Z09",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3360399027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8697,
+          53.3057
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3205424017",
+        "price": 306000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z09",
+        "title": "HORN IMMOBILIEN ++ großes Haus bei Carmzow bei Prenzlau, seh",
+        "location": "17291 Randowtal (Ziemkendorf) (11 km)",
+        "label": "$$$$ · 306k · Z09",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3205424017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8697,
+          53.3057
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3334601823",
+        "price": 159000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "großzügiges Wohnen zwischen Prenzlau und Stettin",
+        "location": "17291 Randowtal (Schmölln) (11 km)",
+        "label": "$ · 159k · Z09",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3334601823"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8697,
+          53.3057
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3195754214",
+        "price": 69000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "REDUZIERT - Uckermark - Großzügiges Einfamilienhaus mit Kami",
+        "location": "17291 Randowtal (Schmölln) (11 km)",
+        "label": "$ · 69k · Z09",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3195754214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2414,
+          53.4811
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3176653447",
+        "price": 329000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z09",
+        "title": "BePe-Immobilien- Haus mit Garten, Wohnen im Herzen von Löckn",
+        "location": "17321 Löcknitz (8 km)",
+        "label": "$$$$ · 329k · Z09",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3176653447"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2116,
+          53.2941
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-2744084868",
+        "price": 265000,
+        "budget_flag": "$$$",
+        "zone_id": "Z09",
+        "title": "Hier werden Träume wahr! Wunderschönes Seehaus bei Penkun !",
+        "location": "17328 Penkun (11 km)",
+        "label": "$$$ · 265k · Z09",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/2744084868"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6606,
+          52.8318
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3395961755",
+        "price": 535000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z16",
+        "title": "&#034; FAMILIENGLÜCK IN KINDERFREUNDLICHER WOHNGEGEND ! &#03",
+        "location": "83395 Freilassing",
+        "label": "$$$$ · 535k · Z16",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3395961755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5288,
+          52.7667
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3405470105",
+        "price": 50000,
+        "budget_flag": "$",
+        "zone_id": "Z16",
+        "title": "Außergewöhnliches Einfamilienhaus im Industrial-Loftstil – D",
+        "location": "83395 Freilassing",
+        "label": "$ · 50k · Z16",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3405470105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5596,
+          52.7708
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3276393327",
+        "price": 395000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z16",
+        "title": "4 Zimmer-Etagen-Wohnung zum Wohlfühlen!",
+        "location": "83395 Freilassing",
+        "label": "$$$$ · 395k · Z16",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3276393327"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7117,
+          52.8309
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3365096004",
+        "price": 190000,
+        "budget_flag": "$",
+        "zone_id": "Z16",
+        "title": "Mehrparteienhaus in St. Georgen bei Salzburg (Grenzlage Lauf",
+        "location": "83395 Freilassing",
+        "label": "$ · 190k · Z16",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3365096004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6474,
+          52.8741
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3350516396",
+        "price": 250000,
+        "budget_flag": "$$",
+        "zone_id": "Z16",
+        "title": "Ein Haus, drei Einheiten – wohnen, vermieten, entfalten",
+        "location": "83404 Ainring (4 km)",
+        "label": "$$ · 250k · Z16",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3350516396"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5487,
+          52.908
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3402468052",
+        "price": 300000,
+        "budget_flag": "$$$",
+        "zone_id": "Z16",
+        "title": "Villa am Meer",
+        "location": "83404 Ainring (4 km)",
+        "label": "$$$ · 300k · Z16",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3402468052"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6294,
+          52.7786
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3092357332",
+        "price": 295000,
+        "budget_flag": "$$$",
+        "zone_id": "Z16",
+        "title": "Zuhause gesucht, Haus / DHH / Grundstück",
+        "location": "83404 Ainring (4 km)",
+        "label": "$$$ · 295k · Z16",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3092357332"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6613,
+          52.8045
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3404827294",
+        "price": 510000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z16",
+        "title": "Haus / Mehrfamilienhaus zum Kauf gesucht - Surheim und Umgeb",
+        "location": "83416 Saaldorf-&#8203Surheim (5 km)",
+        "label": "$$$$ · 510k · Z16",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3404827294"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5376,
+          52.7584
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3225809596",
+        "price": 299000,
+        "budget_flag": "$$$",
+        "zone_id": "Z16",
+        "title": "Traumhaftes historisches Anwesen - ländlicher Charme der auf",
+        "location": "83416 Saaldorf-&#8203Surheim (5 km)",
+        "label": "$$$ · 299k · Z16",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3225809596"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.683,
+          52.8861
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3405897334",
+        "price": 418000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z16",
+        "title": "Haus zu verkaufen",
+        "location": "83451 Piding (ca. 10 km)",
+        "label": "$$$$ · 418k · Z16",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3405897334"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7105,
+          52.9647
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3402038394",
+        "price": 710000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z16",
+        "title": "Haus, Teil oder Vollverkauf und Baugrundstück zu verkaufen",
+        "location": "83451 Piding (ca. 10 km)",
+        "label": "$$$$ · 710k · Z16",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3402038394"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6664,
+          52.8309
+        ]
+      },
+      "properties": {
+        "listing_id": "KA-3235682953",
+        "price": 650000,
+        "budget_flag": "$$$$",
+        "zone_id": "Z16",
+        "title": "Reiheneckhaus in Piding als Kapitalanlage zu kaufen / ruhige",
+        "location": "83451 Piding (ca. 10 km)",
+        "label": "$$$$ · 650k · Z16",
+        "date_scraped": "2026-05-12",
+        "source": "kleinanzeigen.de",
+        "url": "https://www.kleinanzeigen.de/s-anzeige/3235682953"
       }
     }
   ]
