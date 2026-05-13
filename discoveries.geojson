@@ -4478,6 +4478,106 @@
         "source": "IS24",
         "url": "https://www.immobilienscout24.de/expose/166511667"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.72727,
+          52.96602
+        ]
+      },
+      "properties": {
+        "kompass_id": "KP-0001",
+        "name": "Joachimsthal EFH — €150k",
+        "note": "EFH freistehend, 70m², 672m² plot, 1960, Z16 Schorfheide",
+        "zone": "Z16",
+        "source": "IS24_memo23_J011v3",
+        "url": "https://www.immobilienscout24.de/expose/167686124",
+        "date": "2026-05-12",
+        "status": "pending_review"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.28812,
+          52.52322
+        ]
+      },
+      "properties": {
+        "kompass_id": "KP-0002",
+        "name": "Nennhausen EFH — €235k",
+        "note": "EFH freistehend, 109m², 3149m² plot, 1989, Havelland (outside active zones)",
+        "zone": "D",
+        "source": "IS24_memo23_J011v3",
+        "url": "https://www.immobilienscout24.de/expose/167477178",
+        "date": "2026-05-12",
+        "status": "pending_review"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.28812,
+          52.52322
+        ]
+      },
+      "properties": {
+        "kompass_id": "KP-0003",
+        "name": "Kotzen EFH — €69k",
+        "note": "EFH 1890, 90m², 650m² plot + Baugrundstück, Havelland (outside active zones)",
+        "zone": "D",
+        "source": "IS24_memo23_J011v3",
+        "url": "https://www.immobilienscout24.de/expose/167683823",
+        "date": "2026-05-12",
+        "status": "pending_review"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.27927,
+          52.18442
+        ]
+      },
+      "properties": {
+        "kompass_id": "KP-0006",
+        "name": "Rietz-Neuendorf EFH — €50k",
+        "note": "EFH 1920, 97m², 16724m² plot, Oder-Spree, foreclosure likely",
+        "zone": "B",
+        "source": "IS24_memo23_J011v3",
+        "url": "https://www.immobilienscout24.de/expose/167679383",
+        "date": "2026-05-12",
+        "status": "pending_review"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28507,
+          53.06066
+        ]
+      },
+      "properties": {
+        "kompass_id": "KP-0009",
+        "name": "Fürstenberg/Havel EFH — €179k",
+        "note": "EFH freistehend, 865m² plot, Z02 Uckermark-West, lakeside town",
+        "zone": "Z02",
+        "source": "IS24_memo23_J011v3",
+        "url": "https://www.immobilienscout24.de/expose/167676197",
+        "date": "2026-05-12",
+        "status": "pending_review"
+      }
     }
   ]
 }
