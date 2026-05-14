@@ -596,6 +596,4704 @@
         "source": "J-019",
         "run_date": "2026-05-14"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6865525,
+          52.1860725
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0173",
+        "expose_id": "167713085",
+        "title": "Heidesee — €430.000",
+        "price": 430000,
+        "plot_sqm": 1580,
+        "score": 7.6,
+        "score_label": "🟡 Solid candidate",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z13",
+        "zone_name": "Oder-Spree-Seen",
+        "karte_score": 6.75,
+        "is24_link": "https://www.immobilienscout24.de/expose/167713085",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.192221991051454,
+          52.86877657718121
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0035",
+        "expose_id": "167700780",
+        "title": "Löwenberger Land — €849.000",
+        "price": 849000,
+        "plot_sqm": 10000,
+        "score": 7.3,
+        "score_label": "🟡 Solid candidate",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z04",
+        "zone_name": "Rheinsberger Seenland",
+        "karte_score": 7.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167700780",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.044767029702971,
+          52.24998283828383
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0161",
+        "expose_id": "167519003",
+        "title": "Bad Saarow — €820.000",
+        "price": 820000,
+        "plot_sqm": 8700,
+        "score": 7.3,
+        "score_label": "🟡 Solid candidate",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z14",
+        "zone_name": "Märkische Schweiz",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167519003",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.064598776041668,
+          52.828923515625
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0151",
+        "expose_id": "167699046",
+        "title": "Oderaue — €175.000",
+        "price": 175000,
+        "plot_sqm": 4182,
+        "score": 7.1,
+        "score_label": "🟡 Solid candidate",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z14",
+        "zone_name": "Märkische Schweiz",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167699046",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.144502724935732,
+          52.44221377892031
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0157",
+        "expose_id": "167645434",
+        "title": "Langewahl — €215.000",
+        "price": 215000,
+        "plot_sqm": 1885,
+        "score": 7.1,
+        "score_label": "🟡 Solid candidate",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z14",
+        "zone_name": "Märkische Schweiz",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167645434",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.859005,
+          52.8463997
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0039",
+        "expose_id": "167592211",
+        "title": "Märkisch Linden — €550.000",
+        "price": 550000,
+        "plot_sqm": 4129,
+        "score": 6.9,
+        "score_label": "🟡 Solid candidate",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z04",
+        "zone_name": "Rheinsberger Seenland",
+        "karte_score": 7.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167592211",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52748519736842,
+          53.101003684210525
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0004",
+        "expose_id": "167550565",
+        "title": "Boitzenburger Land — €890.000",
+        "price": 890000,
+        "plot_sqm": 3842,
+        "score": 6.8,
+        "score_label": "🟡 Solid candidate",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "karte_score": 7.65,
+        "is24_link": "https://www.immobilienscout24.de/expose/167550565",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.105326511627908,
+          52.03563993355482
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0135",
+        "expose_id": "167439377",
+        "title": "Jüterbog — €580.000",
+        "price": 580000,
+        "plot_sqm": 4603,
+        "score": 6.8,
+        "score_label": "🟡 Solid candidate",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z10",
+        "zone_name": "Fläming-Süd",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167439377",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.064598776041668,
+          52.828923515625
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0165",
+        "expose_id": "164138878",
+        "title": "Neulewin — €195.000",
+        "price": 195000,
+        "plot_sqm": 1380,
+        "score": 6.8,
+        "score_label": "🟡 Solid candidate",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z14",
+        "zone_name": "Märkische Schweiz",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/164138878",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.01076615,
+          52.2095487
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0179",
+        "expose_id": "167522645",
+        "title": "Wendisch Rietz — €899.000",
+        "price": 899000,
+        "plot_sqm": 14354,
+        "score": 6.8,
+        "score_label": "🟡 Solid candidate",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z13",
+        "zone_name": "Oder-Spree-Seen",
+        "karte_score": 6.75,
+        "is24_link": "https://www.immobilienscout24.de/expose/167522645",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.484831391304347,
+          52.73653747826087
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0081",
+        "expose_id": "167669644",
+        "title": "Marienwerder — €160.000",
+        "price": 160000,
+        "plot_sqm": 2740,
+        "score": 6.7,
+        "score_label": "🟡 Solid candidate",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "karte_score": 7.15,
+        "is24_link": "https://www.immobilienscout24.de/expose/167669644",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.551388418972333,
+          52.484638577075096
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0229",
+        "expose_id": "167359380",
+        "title": "Roskow — €535.000",
+        "price": 535000,
+        "plot_sqm": 2862,
+        "score": 6.6,
+        "score_label": "🟡 Solid candidate",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z08",
+        "zone_name": "Havelland-Fläming-Überg.",
+        "karte_score": 6.4,
+        "is24_link": "https://www.immobilienscout24.de/expose/167359380",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.856817772727272,
+          53.336586090909094
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0005",
+        "expose_id": "167592821",
+        "title": "Nordwestuckermark — €950.000",
+        "price": 950000,
+        "plot_sqm": 4205,
+        "score": 6.5,
+        "score_label": "🟡 Solid candidate",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "karte_score": 7.65,
+        "is24_link": "https://www.immobilienscout24.de/expose/167592821",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52748519736842,
+          53.101003684210525
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0026",
+        "expose_id": "167101815",
+        "title": "Boitzenburger Land — €620.000",
+        "price": 620000,
+        "plot_sqm": 3794,
+        "score": 6.5,
+        "score_label": "🟡 Solid candidate",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "karte_score": 7.65,
+        "is24_link": "https://www.immobilienscout24.de/expose/167101815",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.192221991051454,
+          52.86877657718121
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0047",
+        "expose_id": "167371266",
+        "title": "Großwoltersdorf — €890.000",
+        "price": 890000,
+        "plot_sqm": 4300,
+        "score": 6.5,
+        "score_label": "🟡 Solid candidate",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z04",
+        "zone_name": "Rheinsberger Seenland",
+        "karte_score": 7.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167371266",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.863173943661971,
+          52.22736929577464
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0067",
+        "expose_id": "167675261",
+        "title": "Borkwalde — €295.000",
+        "price": 295000,
+        "plot_sqm": 2675,
+        "score": 6.5,
+        "score_label": "🟡 Solid candidate",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z09",
+        "zone_name": "Hoher Fläming",
+        "karte_score": 7.2,
+        "is24_link": "https://www.immobilienscout24.de/expose/167675261",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.616122380952381,
+          51.9711322077922
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0122",
+        "expose_id": "167645937",
+        "title": "Golßen — €299.999",
+        "price": 299999,
+        "plot_sqm": 5232,
+        "score": 6.5,
+        "score_label": "🟡 Solid candidate",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z10",
+        "zone_name": "Fläming-Süd",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167645937",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.20084,
+          52.0797125
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0147",
+        "expose_id": "167262282",
+        "title": "Nuthe-Urstromtal — €220.000",
+        "price": 220000,
+        "plot_sqm": 1141,
+        "score": 6.5,
+        "score_label": "🟡 Solid candidate",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z10",
+        "zone_name": "Fläming-Süd",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167262282",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.044767029702971,
+          52.24998283828383
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0162",
+        "expose_id": "167516642",
+        "title": "Bad Saarow — €1.100.000",
+        "price": 1100000,
+        "plot_sqm": 1232,
+        "score": 6.5,
+        "score_label": "🟡 Solid candidate",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z14",
+        "zone_name": "Märkische Schweiz",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167516642",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.209363480392156,
+          52.61059137254902
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0171",
+        "expose_id": "167543585",
+        "title": "Neuhardenberg — €180.000",
+        "price": 180000,
+        "plot_sqm": 1358,
+        "score": 6.5,
+        "score_label": "🟡 Solid candidate",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z14",
+        "zone_name": "Märkische Schweiz",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167543585",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.85847359375,
+          52.62286015625
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0217",
+        "expose_id": "167657792",
+        "title": "Paulinenaue — €249.000",
+        "price": 249000,
+        "plot_sqm": 1070,
+        "score": 6.5,
+        "score_label": "🟡 Solid candidate",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z08",
+        "zone_name": "Havelland-Fläming-Überg.",
+        "karte_score": 6.4,
+        "is24_link": "https://www.immobilienscout24.de/expose/167657792",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.159824641148326,
+          52.81913004784689
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0221",
+        "expose_id": "167524159",
+        "title": "Havelberg — €339.000",
+        "price": 339000,
+        "plot_sqm": 10533,
+        "score": 6.5,
+        "score_label": "🟡 Solid candidate",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z08",
+        "zone_name": "Havelland-Fläming-Überg.",
+        "karte_score": 6.4,
+        "is24_link": "https://www.immobilienscout24.de/expose/167524159",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.76805463414634,
+          52.778142317073176
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0040",
+        "expose_id": "167581340",
+        "title": "Fehrbellin — €250.000",
+        "price": 250000,
+        "plot_sqm": 1700,
+        "score": 6.4,
+        "score_label": "🟡 Solid candidate",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z04",
+        "zone_name": "Rheinsberger Seenland",
+        "karte_score": 7.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167581340",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.863173943661971,
+          52.22736929577464
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0077",
+        "expose_id": "167569065",
+        "title": "Planebruch — €265.000",
+        "price": 265000,
+        "plot_sqm": 1472,
+        "score": 6.4,
+        "score_label": "🟡 Solid candidate",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z09",
+        "zone_name": "Hoher Fläming",
+        "karte_score": 7.2,
+        "is24_link": "https://www.immobilienscout24.de/expose/167569065",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.585269433962264,
+          52.89722
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0091",
+        "expose_id": "167620485",
+        "title": "Schorfheide — €220.000",
+        "price": 220000,
+        "plot_sqm": 1600,
+        "score": 6.4,
+        "score_label": "🟡 Solid candidate",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "karte_score": 7.15,
+        "is24_link": "https://www.immobilienscout24.de/expose/167620485",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.044767029702971,
+          52.24998283828383
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0159",
+        "expose_id": "167579621",
+        "title": "Bad Saarow — €925.000",
+        "price": 925000,
+        "plot_sqm": 1405,
+        "score": 6.4,
+        "score_label": "🟡 Solid candidate",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z14",
+        "zone_name": "Märkische Schweiz",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167579621",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52748519736842,
+          53.101003684210525
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0009",
+        "expose_id": "167445722",
+        "title": "Milmersdorf — €135.000",
+        "price": 135000,
+        "plot_sqm": 3300,
+        "score": 6.3,
+        "score_label": "🟡 Solid candidate",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "karte_score": 7.65,
+        "is24_link": "https://www.immobilienscout24.de/expose/167445722",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.76805463414634,
+          52.778142317073176
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0041",
+        "expose_id": "167592176",
+        "title": "Fehrbellin — €599.000",
+        "price": 599000,
+        "plot_sqm": 4300,
+        "score": 6.3,
+        "score_label": "🟡 Solid candidate",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z04",
+        "zone_name": "Rheinsberger Seenland",
+        "karte_score": 7.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167592176",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.27926837962963,
+          52.1844249537037
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0163",
+        "expose_id": "167323096",
+        "title": "Rietz-Neuendorf — €295.000",
+        "price": 295000,
+        "plot_sqm": 3867,
+        "score": 6.3,
+        "score_label": "🟡 Solid candidate",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z14",
+        "zone_name": "Märkische Schweiz",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167323096",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.403343689320389,
+          52.55517932038835
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0170",
+        "expose_id": "167327358",
+        "title": "Gusow-Platkow — €240.000",
+        "price": 240000,
+        "plot_sqm": 3018,
+        "score": 6.3,
+        "score_label": "🟡 Solid candidate",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z14",
+        "zone_name": "Märkische Schweiz",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167327358",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.28812,
+          52.5232238016529
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0213",
+        "expose_id": "167477178",
+        "title": "Nennhausen — €235.000",
+        "price": 235000,
+        "plot_sqm": 3149,
+        "score": 6.3,
+        "score_label": "🟡 Solid candidate",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z08",
+        "zone_name": "Havelland-Fläming-Überg.",
+        "karte_score": 6.4,
+        "is24_link": "https://www.immobilienscout24.de/expose/167477178",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.28812,
+          52.5232238016529
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0216",
+        "expose_id": "167672446",
+        "title": "Stechow-Ferchesar — €249.000",
+        "price": 249000,
+        "plot_sqm": 3000,
+        "score": 6.3,
+        "score_label": "🟡 Solid candidate",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z08",
+        "zone_name": "Havelland-Fläming-Überg.",
+        "karte_score": 6.4,
+        "is24_link": "https://www.immobilienscout24.de/expose/167672446",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52748519736842,
+          53.101003684210525
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0023",
+        "expose_id": "157706343",
+        "title": "Mittenwalde — €1.450.000",
+        "price": 1450000,
+        "plot_sqm": 7700,
+        "score": 6.2,
+        "score_label": "🟡 Solid candidate",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "karte_score": 7.65,
+        "is24_link": "https://www.immobilienscout24.de/expose/157706343",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.689087841945287,
+          52.32434151975684
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0075",
+        "expose_id": "167591061",
+        "title": "Kloster Lehnin — €449.000",
+        "price": 449000,
+        "plot_sqm": 1698,
+        "score": 6.2,
+        "score_label": "🟡 Solid candidate",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z09",
+        "zone_name": "Hoher Fläming",
+        "karte_score": 7.2,
+        "is24_link": "https://www.immobilienscout24.de/expose/167591061",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.01076615,
+          52.2095487
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0181",
+        "expose_id": "167479666",
+        "title": "Diensdorf-Radlow — €2.100.000",
+        "price": 2100000,
+        "plot_sqm": 1600,
+        "score": 6.2,
+        "score_label": "🟡 Solid candidate",
+        "tier": "dream",
+        "marker-color": "#9b59b6",
+        "zone_id": "Z13",
+        "zone_name": "Oder-Spree-Seen",
+        "karte_score": 6.75,
+        "is24_link": "https://www.immobilienscout24.de/expose/167479666",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.98990841025641,
+          52.98346794871795
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0038",
+        "expose_id": "167646397",
+        "title": "Lindow (Mark) — €399.000",
+        "price": 399000,
+        "plot_sqm": 1626,
+        "score": 6.1,
+        "score_label": "🟡 Solid candidate",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z04",
+        "zone_name": "Rheinsberger Seenland",
+        "karte_score": 7.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167646397",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.500381818181818,
+          52.72426
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0083",
+        "expose_id": "167684973",
+        "title": "Bernau bei Berlin — €429.000",
+        "price": 429000,
+        "plot_sqm": 1124,
+        "score": 6.1,
+        "score_label": "🟡 Solid candidate",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "karte_score": 7.15,
+        "is24_link": "https://www.immobilienscout24.de/expose/167684973",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.585269433962264,
+          52.89722
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0089",
+        "expose_id": "167645956",
+        "title": "Schorfheide — €409.000",
+        "price": 409000,
+        "plot_sqm": 1220,
+        "score": 6.1,
+        "score_label": "🟡 Solid candidate",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "karte_score": 7.15,
+        "is24_link": "https://www.immobilienscout24.de/expose/167645956",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.484831391304347,
+          52.73653747826087
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0092",
+        "expose_id": "167642828",
+        "title": "Marienwerder — €399.000",
+        "price": 399000,
+        "plot_sqm": 1447,
+        "score": 6.1,
+        "score_label": "🟡 Solid candidate",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "karte_score": 7.15,
+        "is24_link": "https://www.immobilienscout24.de/expose/167642828",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.484831391304347,
+          52.73653747826087
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0102",
+        "expose_id": "167383220",
+        "title": "Wandlitz — €479.000",
+        "price": 479000,
+        "plot_sqm": 1467,
+        "score": 6.1,
+        "score_label": "🟡 Solid candidate",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "karte_score": 7.15,
+        "is24_link": "https://www.immobilienscout24.de/expose/167383220",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.044767029702971,
+          52.24998283828383
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0158",
+        "expose_id": "167644489",
+        "title": "Bad Saarow — €648.000",
+        "price": 648000,
+        "plot_sqm": 1807,
+        "score": 6.1,
+        "score_label": "🟡 Solid candidate",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z14",
+        "zone_name": "Märkische Schweiz",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167644489",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6865525,
+          52.1860725
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0184",
+        "expose_id": "167385892",
+        "title": "Heidesee — €365.000",
+        "price": 365000,
+        "plot_sqm": 1155,
+        "score": 6.1,
+        "score_label": "🟡 Solid candidate",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z13",
+        "zone_name": "Oder-Spree-Seen",
+        "karte_score": 6.75,
+        "is24_link": "https://www.immobilienscout24.de/expose/167385892",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.727265652173912,
+          52.96601996376812
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0096",
+        "expose_id": "167605801",
+        "title": "Joachimsthal — €845.000",
+        "price": 845000,
+        "plot_sqm": 3800,
+        "score": 6.0,
+        "score_label": "🟡 Solid candidate",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "karte_score": 7.15,
+        "is24_link": "https://www.immobilienscout24.de/expose/167605801",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.374806574074073,
+          52.68025358024692
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0152",
+        "expose_id": "167676559",
+        "title": "Letschin — €450.000",
+        "price": 450000,
+        "plot_sqm": 2350,
+        "score": 6.0,
+        "score_label": "🟡 Solid candidate",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z14",
+        "zone_name": "Märkische Schweiz",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167676559",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.044767029702971,
+          52.24998283828383
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0187",
+        "expose_id": "167333178",
+        "title": "Bad Saarow — €899.900",
+        "price": 899900,
+        "plot_sqm": 1466,
+        "score": 6.0,
+        "score_label": "🟡 Solid candidate",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z13",
+        "zone_name": "Oder-Spree-Seen",
+        "karte_score": 6.75,
+        "is24_link": "https://www.immobilienscout24.de/expose/167333178",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.510312807017545,
+          52.443273903508775
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0222",
+        "expose_id": "165950503",
+        "title": "Brandenburg an der Havel — €249.000",
+        "price": 249000,
+        "plot_sqm": 2500,
+        "score": 6.0,
+        "score_label": "🟡 Solid candidate",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z08",
+        "zone_name": "Havelland-Fläming-Überg.",
+        "karte_score": 6.4,
+        "is24_link": "https://www.immobilienscout24.de/expose/165950503",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.895278983050847,
+          52.900218453389826
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0087",
+        "expose_id": "167646359",
+        "title": "Melchow — €714.000",
+        "price": 714000,
+        "plot_sqm": 1191,
+        "score": 5.9,
+        "score_label": "🟠 Marginal",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "karte_score": 7.15,
+        "is24_link": "https://www.immobilienscout24.de/expose/167646359",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.07177,
+          52.28810202346041
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0064",
+        "expose_id": "167684836",
+        "title": "Michendorf — €835.000",
+        "price": 835000,
+        "plot_sqm": 1235,
+        "score": 5.8,
+        "score_label": "🟠 Marginal",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z09",
+        "zone_name": "Hoher Fläming",
+        "karte_score": 7.2,
+        "is24_link": "https://www.immobilienscout24.de/expose/167684836",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.894722925531916,
+          52.396701489361696
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0065",
+        "expose_id": "167677114",
+        "title": "Werder (Havel) — €600.000",
+        "price": 600000,
+        "plot_sqm": 1060,
+        "score": 5.8,
+        "score_label": "🟠 Marginal",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z09",
+        "zone_name": "Hoher Fläming",
+        "karte_score": 7.2,
+        "is24_link": "https://www.immobilienscout24.de/expose/167677114",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.662104810126582,
+          51.94281
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0069",
+        "expose_id": "167338753",
+        "title": "Straach — €259.000",
+        "price": 259000,
+        "plot_sqm": 24000,
+        "score": 5.8,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z09",
+        "zone_name": "Hoher Fläming",
+        "karte_score": 7.2,
+        "is24_link": "https://www.immobilienscout24.de/expose/167338753",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.532881866666667,
+          52.643666966666665
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0082",
+        "expose_id": "167667056",
+        "title": "Panketal — €490.000",
+        "price": 490000,
+        "plot_sqm": 1212,
+        "score": 5.8,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "karte_score": 7.15,
+        "is24_link": "https://www.immobilienscout24.de/expose/167667056",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.064598776041668,
+          52.828923515625
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0098",
+        "expose_id": "167516486",
+        "title": "Falkenberg — €900.000",
+        "price": 900000,
+        "plot_sqm": 2900,
+        "score": 5.8,
+        "score_label": "🟠 Marginal",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "karte_score": 7.15,
+        "is24_link": "https://www.immobilienscout24.de/expose/167516486",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.409913611111111,
+          51.88758895833334
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0126",
+        "expose_id": "167522481",
+        "title": "Dahmetal — €160.000",
+        "price": 160000,
+        "plot_sqm": 1591,
+        "score": 5.8,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z10",
+        "zone_name": "Fläming-Süd",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167522481",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.199057,
+          52.068776
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0132",
+        "expose_id": "167725137",
+        "title": "Luckenwalde — €220.000",
+        "price": 220000,
+        "plot_sqm": 847,
+        "score": 5.8,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z10",
+        "zone_name": "Fläming-Süd",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167725137",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.199057,
+          52.068776
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0133",
+        "expose_id": "167436088",
+        "title": "Luckenwalde — €220.000",
+        "price": 220000,
+        "plot_sqm": 847,
+        "score": 5.8,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z10",
+        "zone_name": "Fläming-Süd",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167436088",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.755920952380952,
+          52.41034757936508
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0160",
+        "expose_id": "167522338",
+        "title": "Grünheide (Mark) — €1.060.000",
+        "price": 1060000,
+        "plot_sqm": 2023,
+        "score": 5.8,
+        "score_label": "🟠 Marginal",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z14",
+        "zone_name": "Märkische Schweiz",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167522338",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.192221991051454,
+          52.86877657718121
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0052",
+        "expose_id": "167333555",
+        "title": "Löwenberger Land — €279.000",
+        "price": 279000,
+        "plot_sqm": 840,
+        "score": 5.7,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z04",
+        "zone_name": "Rheinsberger Seenland",
+        "karte_score": 7.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167333555",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.07177,
+          52.28810202346041
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0068",
+        "expose_id": "167661515",
+        "title": "Michendorf — €229.000",
+        "price": 229000,
+        "plot_sqm": 849,
+        "score": 5.7,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z09",
+        "zone_name": "Hoher Fläming",
+        "karte_score": 7.2,
+        "is24_link": "https://www.immobilienscout24.de/expose/167661515",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.727265652173912,
+          52.96601996376812
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0080",
+        "expose_id": "167686124",
+        "title": "Joachimsthal — €150.000",
+        "price": 150000,
+        "plot_sqm": 672,
+        "score": 5.7,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "karte_score": 7.15,
+        "is24_link": "https://www.immobilienscout24.de/expose/167686124",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.438951333333332,
+          52.219054691358025
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0148",
+        "expose_id": "167259161",
+        "title": "Zossen — €250.000",
+        "price": 250000,
+        "plot_sqm": 870,
+        "score": 5.7,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z10",
+        "zone_name": "Fläming-Süd",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167259161",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.403343689320389,
+          52.55517932038835
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0149",
+        "expose_id": "167722822",
+        "title": "Seelow — €318.000",
+        "price": 318000,
+        "plot_sqm": 1793,
+        "score": 5.7,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z14",
+        "zone_name": "Märkische Schweiz",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167722822",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.072334631578947,
+          52.56646863157895
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0168",
+        "expose_id": "167400144",
+        "title": "Oberbarnim — €238.000",
+        "price": 238000,
+        "plot_sqm": 666,
+        "score": 5.7,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z14",
+        "zone_name": "Märkische Schweiz",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167400144",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.523062921348314,
+          52.43218179775281
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0172",
+        "expose_id": "167646373",
+        "title": "Lebus — €306.000",
+        "price": 306000,
+        "plot_sqm": 920,
+        "score": 5.7,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z14",
+        "zone_name": "Märkische Schweiz",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167646373",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.92444625,
+          52.200966171875
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0175",
+        "expose_id": "167667116",
+        "title": "Storkow (Mark) — €360.000",
+        "price": 360000,
+        "plot_sqm": 987,
+        "score": 5.7,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z13",
+        "zone_name": "Oder-Spree-Seen",
+        "karte_score": 6.75,
+        "is24_link": "https://www.immobilienscout24.de/expose/167667116",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3205136,
+          52.61792093333333
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0220",
+        "expose_id": "167619288",
+        "title": "Rathenow — €235.000",
+        "price": 235000,
+        "plot_sqm": 1790,
+        "score": 5.7,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z08",
+        "zone_name": "Havelland-Fläming-Überg.",
+        "karte_score": 6.4,
+        "is24_link": "https://www.immobilienscout24.de/expose/167619288",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.93904776,
+          52.33675276
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0059",
+        "expose_id": "167724729",
+        "title": "Schwielowsee — €285.000",
+        "price": 285000,
+        "plot_sqm": 615,
+        "score": 5.6,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z09",
+        "zone_name": "Hoher Fläming",
+        "karte_score": 7.2,
+        "is24_link": "https://www.immobilienscout24.de/expose/167724729",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.500381818181818,
+          52.72426
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0090",
+        "expose_id": "167611034",
+        "title": "Bernau bei Berlin — €850.000",
+        "price": 850000,
+        "plot_sqm": 1052,
+        "score": 5.6,
+        "score_label": "🟠 Marginal",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "karte_score": 7.15,
+        "is24_link": "https://www.immobilienscout24.de/expose/167611034",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.595363292682926,
+          52.59735048780488
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0095",
+        "expose_id": "155928601",
+        "title": "Werneuchen — €450.000",
+        "price": 450000,
+        "plot_sqm": 1845,
+        "score": 5.6,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "karte_score": 7.15,
+        "is24_link": "https://www.immobilienscout24.de/expose/155928601",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.500381818181818,
+          52.72426
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0099",
+        "expose_id": "167493898",
+        "title": "Bernau bei Berlin — €349.000",
+        "price": 349000,
+        "plot_sqm": 1003,
+        "score": 5.6,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "karte_score": 7.15,
+        "is24_link": "https://www.immobilienscout24.de/expose/167493898",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.199057,
+          52.068776
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0140",
+        "expose_id": "167344311",
+        "title": "Luckenwalde — €595.000",
+        "price": 595000,
+        "plot_sqm": 1568,
+        "score": 5.6,
+        "score_label": "🟠 Marginal",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z10",
+        "zone_name": "Fläming-Süd",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167344311",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.199057,
+          52.068776
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0142",
+        "expose_id": "167655214",
+        "title": "Luckenwalde — €595.000",
+        "price": 595000,
+        "plot_sqm": 1568,
+        "score": 5.6,
+        "score_label": "🟠 Marginal",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z10",
+        "zone_name": "Fläming-Süd",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167655214",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.662104810126582,
+          51.94281
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0195",
+        "expose_id": "167646480",
+        "title": "Lutherstadt Wittenberg — €225.500",
+        "price": 225500,
+        "plot_sqm": 4900,
+        "score": 5.6,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "karte_score": 6.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167646480",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.856817772727272,
+          53.336586090909094
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0011",
+        "expose_id": "167409275",
+        "title": "Gramzow — €215.000",
+        "price": 215000,
+        "plot_sqm": 3120,
+        "score": 5.5,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "karte_score": 7.65,
+        "is24_link": "https://www.immobilienscout24.de/expose/167409275",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.35239233463035,
+          52.82781447470818
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0048",
+        "expose_id": "167299834",
+        "title": "Wusterhausen/Dosse — €130.000",
+        "price": 130000,
+        "plot_sqm": 2453,
+        "score": 5.5,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z04",
+        "zone_name": "Rheinsberger Seenland",
+        "karte_score": 7.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167299834",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.192221991051454,
+          52.86877657718121
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0050",
+        "expose_id": "167346266",
+        "title": "Stechlin — €479.000",
+        "price": 479000,
+        "plot_sqm": 700,
+        "score": 5.5,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z04",
+        "zone_name": "Rheinsberger Seenland",
+        "karte_score": 7.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167346266",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.192221991051454,
+          52.86877657718121
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0051",
+        "expose_id": "167655611",
+        "title": "Stechlin — €479.000",
+        "price": 479000,
+        "plot_sqm": 700,
+        "score": 5.5,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z04",
+        "zone_name": "Rheinsberger Seenland",
+        "karte_score": 7.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167655611",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.07177,
+          52.28810202346041
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0061",
+        "expose_id": "167714137",
+        "title": "Michendorf — €799.000",
+        "price": 799000,
+        "plot_sqm": 1124,
+        "score": 5.5,
+        "score_label": "🟠 Marginal",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z09",
+        "zone_name": "Hoher Fläming",
+        "karte_score": 7.2,
+        "is24_link": "https://www.immobilienscout24.de/expose/167714137",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.500381818181818,
+          52.72426
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0088",
+        "expose_id": "167645651",
+        "title": "Bernau bei Berlin — €1.150.000",
+        "price": 1150000,
+        "plot_sqm": 1449,
+        "score": 5.5,
+        "score_label": "🟠 Marginal",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "karte_score": 7.15,
+        "is24_link": "https://www.immobilienscout24.de/expose/167645651",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.409913611111111,
+          51.88758895833334
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0129",
+        "expose_id": "167478272",
+        "title": "Dahme/Mark — €130.000",
+        "price": 130000,
+        "plot_sqm": 1498,
+        "score": 5.5,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z10",
+        "zone_name": "Fläming-Süd",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167478272",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.199057,
+          52.068776
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0139",
+        "expose_id": "167654594",
+        "title": "Luckenwalde — €359.000",
+        "price": 359000,
+        "plot_sqm": 657,
+        "score": 5.5,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z10",
+        "zone_name": "Fläming-Süd",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167654594",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.199057,
+          52.068776
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0141",
+        "expose_id": "167331724",
+        "title": "Luckenwalde — €359.000",
+        "price": 359000,
+        "plot_sqm": 657,
+        "score": 5.5,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z10",
+        "zone_name": "Fläming-Süd",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167331724",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.586145887096775,
+          52.56767612903226
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0155",
+        "expose_id": "167646400",
+        "title": "Alt Tucheband — €380.000",
+        "price": 380000,
+        "plot_sqm": 3679,
+        "score": 5.5,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z14",
+        "zone_name": "Märkische Schweiz",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167646400",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.054307,
+          52.339748
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0164",
+        "expose_id": "167491314",
+        "title": "Fürstenwalde/Spree — €748.500",
+        "price": 748500,
+        "plot_sqm": 615,
+        "score": 5.5,
+        "score_label": "🟠 Marginal",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z14",
+        "zone_name": "Märkische Schweiz",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167491314",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6865525,
+          52.1860725
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0183",
+        "expose_id": "167356857",
+        "title": "Heidesee — €92.000",
+        "price": 92000,
+        "plot_sqm": 744,
+        "score": 5.5,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z13",
+        "zone_name": "Oder-Spree-Seen",
+        "karte_score": 6.75,
+        "is24_link": "https://www.immobilienscout24.de/expose/167356857",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.693127552447553,
+          52.06855671328671
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0206",
+        "expose_id": "167443769",
+        "title": "Rabenstein/Fläming — €68.500",
+        "price": 68500,
+        "plot_sqm": 1543,
+        "score": 5.5,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "karte_score": 6.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167443769",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.856817772727272,
+          53.336586090909094
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0017",
+        "expose_id": "167294432",
+        "title": "Randowtal — €119.000",
+        "price": 119000,
+        "plot_sqm": 1200,
+        "score": 5.4,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "karte_score": 7.65,
+        "is24_link": "https://www.immobilienscout24.de/expose/167294432",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.249583375,
+          52.28934375
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0076",
+        "expose_id": "167569089",
+        "title": "Ludwigsfelde — €480.000",
+        "price": 480000,
+        "plot_sqm": 1007,
+        "score": 5.4,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z09",
+        "zone_name": "Hoher Fläming",
+        "karte_score": 7.2,
+        "is24_link": "https://www.immobilienscout24.de/expose/167569089",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.782328530259365,
+          52.433974668587894
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0071",
+        "expose_id": "167645622",
+        "title": "Groß Kreutz (Havel) — €680.000",
+        "price": 680000,
+        "plot_sqm": 625,
+        "score": 5.3,
+        "score_label": "🟠 Marginal",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z09",
+        "zone_name": "Hoher Fläming",
+        "karte_score": 7.2,
+        "is24_link": "https://www.immobilienscout24.de/expose/167645622",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.629542549019607,
+          52.77528056022409
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0079",
+        "expose_id": "167692024",
+        "title": "Biesenthal — €459.000",
+        "price": 459000,
+        "plot_sqm": 1003,
+        "score": 5.3,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "karte_score": 7.15,
+        "is24_link": "https://www.immobilienscout24.de/expose/167692024",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.409913611111111,
+          51.88758895833334
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0123",
+        "expose_id": "167645903",
+        "title": "Dahme/Mark — €236.999",
+        "price": 236999,
+        "plot_sqm": 1016,
+        "score": 5.3,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z10",
+        "zone_name": "Fläming-Süd",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167645903",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.995557650727651,
+          52.06747569646569
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0185",
+        "expose_id": "161977835",
+        "title": "Märkische Heide",
+        "price": null,
+        "plot_sqm": 8500,
+        "score": 5.3,
+        "score_label": "🟠 Marginal",
+        "tier": "unknown",
+        "marker-color": "#95a5a6",
+        "zone_id": "Z13",
+        "zone_name": "Oder-Spree-Seen",
+        "karte_score": 6.75,
+        "is24_link": "https://www.immobilienscout24.de/expose/161977835",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.27926837962963,
+          52.1844249537037
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0188",
+        "expose_id": "167296552",
+        "title": "Beeskow — €550.000",
+        "price": 550000,
+        "plot_sqm": 2598,
+        "score": 5.3,
+        "score_label": "🟠 Marginal",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z13",
+        "zone_name": "Oder-Spree-Seen",
+        "karte_score": 6.75,
+        "is24_link": "https://www.immobilienscout24.de/expose/167296552",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.510312807017545,
+          52.443273903508775
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0218",
+        "expose_id": "167594260",
+        "title": "Brandenburg an der Havel — €350.000",
+        "price": 350000,
+        "plot_sqm": 1087,
+        "score": 5.3,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z08",
+        "zone_name": "Havelland-Fläming-Überg.",
+        "karte_score": 6.4,
+        "is24_link": "https://www.immobilienscout24.de/expose/167594260",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.856817772727272,
+          53.336586090909094
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0014",
+        "expose_id": "167348436",
+        "title": "Nordwestuckermark — €158.000",
+        "price": 158000,
+        "plot_sqm": 1955,
+        "score": 5.2,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "karte_score": 7.65,
+        "is24_link": "https://www.immobilienscout24.de/expose/167348436",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.524037428571429,
+          53.17914821428572
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0046",
+        "expose_id": "167390043",
+        "title": "Heiligengrabe — €99.000",
+        "price": 99000,
+        "plot_sqm": 2531,
+        "score": 5.2,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z04",
+        "zone_name": "Rheinsberger Seenland",
+        "karte_score": 7.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167390043",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.894722925531916,
+          52.396701489361696
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0060",
+        "expose_id": "167724047",
+        "title": "Werder (Havel) — €2.900.000",
+        "price": 2900000,
+        "plot_sqm": 1007,
+        "score": 5.2,
+        "score_label": "🟠 Marginal",
+        "tier": "dream",
+        "marker-color": "#9b59b6",
+        "zone_id": "Z09",
+        "zone_name": "Hoher Fläming",
+        "karte_score": 7.2,
+        "is24_link": "https://www.immobilienscout24.de/expose/167724047",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.07177,
+          52.28810202346041
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0070",
+        "expose_id": "167658155",
+        "title": "Michendorf — €249.000",
+        "price": 249000,
+        "plot_sqm": 691,
+        "score": 5.2,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z09",
+        "zone_name": "Hoher Fläming",
+        "karte_score": 7.2,
+        "is24_link": "https://www.immobilienscout24.de/expose/167658155",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.725617074468085,
+          52.839072872340424
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0084",
+        "expose_id": "167663017",
+        "title": "Eberswalde — €149.000",
+        "price": 149000,
+        "plot_sqm": 656,
+        "score": 5.2,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "karte_score": 7.15,
+        "is24_link": "https://www.immobilienscout24.de/expose/167663017",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.438951333333332,
+          52.219054691358025
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0137",
+        "expose_id": "167353987",
+        "title": "Zossen — €198.500",
+        "price": 198500,
+        "plot_sqm": 991,
+        "score": 5.2,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z10",
+        "zone_name": "Fläming-Süd",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167353987",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.27926837962963,
+          52.1844249537037
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0182",
+        "expose_id": "167439166",
+        "title": "Ragow-Merz — €126.000",
+        "price": 126000,
+        "plot_sqm": 1114,
+        "score": 5.2,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z13",
+        "zone_name": "Oder-Spree-Seen",
+        "karte_score": 6.75,
+        "is24_link": "https://www.immobilienscout24.de/expose/167439166",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.436901641791046,
+          51.92302522388059
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0190",
+        "expose_id": "167722683",
+        "title": "Coswig (Anhalt) — €60.000",
+        "price": 60000,
+        "plot_sqm": 1306,
+        "score": 5.2,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "karte_score": 6.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167722683",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.421400364583334,
+          52.07719111979167
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0203",
+        "expose_id": "167518958",
+        "title": "Wiesenburg/Mark — €235.000",
+        "price": 235000,
+        "plot_sqm": 2560,
+        "score": 5.2,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "karte_score": 6.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167518958",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.545753021276596,
+          52.383625829787235
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0214",
+        "expose_id": "167675356",
+        "title": "Brandenburg an der Havel — €398.000",
+        "price": 398000,
+        "plot_sqm": 767,
+        "score": 5.2,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z08",
+        "zone_name": "Havelland-Fläming-Überg.",
+        "karte_score": 6.4,
+        "is24_link": "https://www.immobilienscout24.de/expose/167675356",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.28812,
+          52.5232238016529
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0215",
+        "expose_id": "167683823",
+        "title": "Kotzen — €69.000",
+        "price": 69000,
+        "plot_sqm": 650,
+        "score": 5.2,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z08",
+        "zone_name": "Havelland-Fläming-Überg.",
+        "karte_score": 6.4,
+        "is24_link": "https://www.immobilienscout24.de/expose/167683823",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3205136,
+          52.61792093333333
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0225",
+        "expose_id": "167466724",
+        "title": "Rathenow — €167.000",
+        "price": 167000,
+        "plot_sqm": 866,
+        "score": 5.2,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z08",
+        "zone_name": "Havelland-Fläming-Überg.",
+        "karte_score": 6.4,
+        "is24_link": "https://www.immobilienscout24.de/expose/167466724",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.524037428571429,
+          53.17914821428572
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0034",
+        "expose_id": "167712497",
+        "title": "Heiligengrabe — €249.000",
+        "price": 249000,
+        "plot_sqm": 3990,
+        "score": 5.1,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z04",
+        "zone_name": "Rheinsberger Seenland",
+        "karte_score": 7.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167712497",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.188936666666667,
+          51.67558516129032
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0130",
+        "expose_id": "167445849",
+        "title": "Herzberg/Elster — €130.000",
+        "price": 130000,
+        "plot_sqm": 3600,
+        "score": 5.1,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z10",
+        "zone_name": "Fläming-Süd",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167445849",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.363647743589743,
+          52.15697071794872
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0136",
+        "expose_id": "167359156",
+        "title": "Am Mellensee — €530.000",
+        "price": 530000,
+        "plot_sqm": 710,
+        "score": 5.1,
+        "score_label": "🟠 Marginal",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z10",
+        "zone_name": "Fläming-Süd",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167359156",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.363647743589743,
+          52.15697071794872
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0138",
+        "expose_id": "167373004",
+        "title": "Am Mellensee — €499.000",
+        "price": 499000,
+        "plot_sqm": 655,
+        "score": 5.1,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z10",
+        "zone_name": "Fläming-Süd",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167373004",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52748519736842,
+          53.101003684210525
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0024",
+        "expose_id": "167154198",
+        "title": "Milmersdorf — €220.000",
+        "price": 220000,
+        "plot_sqm": 890,
+        "score": 5.0,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "karte_score": 7.65,
+        "is24_link": "https://www.immobilienscout24.de/expose/167154198",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.77844034883721,
+          53.45208348837209
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0027",
+        "expose_id": "167074036",
+        "title": "Uckerland — €139.000",
+        "price": 139000,
+        "plot_sqm": 5002,
+        "score": 5.0,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "karte_score": 7.65,
+        "is24_link": "https://www.immobilienscout24.de/expose/167074036",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.427039897959185,
+          52.98532401360544
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0036",
+        "expose_id": "167663728",
+        "title": "Kyritz — €420.000",
+        "price": 420000,
+        "plot_sqm": 795,
+        "score": 5.0,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z04",
+        "zone_name": "Rheinsberger Seenland",
+        "karte_score": 7.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167663728",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.89982182389937,
+          53.1277889308176
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0043",
+        "expose_id": "167440823",
+        "title": "Rheinsberg — €1.795.000",
+        "price": 1795000,
+        "plot_sqm": 3600,
+        "score": 5.0,
+        "score_label": "🟠 Marginal",
+        "tier": "dream",
+        "marker-color": "#9b59b6",
+        "zone_id": "Z04",
+        "zone_name": "Rheinsberger Seenland",
+        "karte_score": 7.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167440823",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.93904776,
+          52.33675276
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0063",
+        "expose_id": "167679283",
+        "title": "Schwielowsee — €1.894.000",
+        "price": 1894000,
+        "plot_sqm": 1650,
+        "score": 5.0,
+        "score_label": "🟠 Marginal",
+        "tier": "dream",
+        "marker-color": "#9b59b6",
+        "zone_id": "Z09",
+        "zone_name": "Hoher Fläming",
+        "karte_score": 7.2,
+        "is24_link": "https://www.immobilienscout24.de/expose/167679283",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.894722925531916,
+          52.396701489361696
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0072",
+        "expose_id": "167656066",
+        "title": "Werder (Havel) — €1.150.000",
+        "price": 1150000,
+        "plot_sqm": 1100,
+        "score": 5.0,
+        "score_label": "🟠 Marginal",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z09",
+        "zone_name": "Hoher Fläming",
+        "karte_score": 7.2,
+        "is24_link": "https://www.immobilienscout24.de/expose/167656066",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.894722925531916,
+          52.396701489361696
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0073",
+        "expose_id": "167625436",
+        "title": "Werder (Havel) — €1.150.000",
+        "price": 1150000,
+        "plot_sqm": 1100,
+        "score": 5.0,
+        "score_label": "🟠 Marginal",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z09",
+        "zone_name": "Hoher Fläming",
+        "karte_score": 7.2,
+        "is24_link": "https://www.immobilienscout24.de/expose/167625436",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.289326112412178,
+          53.47115393442623
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0118",
+        "expose_id": "167516468",
+        "title": "Plau am See — €799.000",
+        "price": 799000,
+        "plot_sqm": 1213,
+        "score": 5.0,
+        "score_label": "🟠 Marginal",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z03",
+        "zone_name": "Meckl. Seenplatte-Süd",
+        "karte_score": 6.95,
+        "is24_link": "https://www.immobilienscout24.de/expose/167516468",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.996329166666667,
+          53.596986333333334
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0120",
+        "expose_id": "167508872",
+        "title": "Wolde — €199.000",
+        "price": 199000,
+        "plot_sqm": 20312,
+        "score": 5.0,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z03",
+        "zone_name": "Meckl. Seenplatte-Süd",
+        "karte_score": 6.95,
+        "is24_link": "https://www.immobilienscout24.de/expose/167508872",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.523062921348314,
+          52.43218179775281
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0156",
+        "expose_id": "167645925",
+        "title": "Lebus — €399.000",
+        "price": 399000,
+        "plot_sqm": 811,
+        "score": 5.0,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z14",
+        "zone_name": "Märkische Schweiz",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167645925",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.27926837962963,
+          52.1844249537037
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0177",
+        "expose_id": "167664292",
+        "title": "Tauche — €205.000",
+        "price": 205000,
+        "plot_sqm": 699,
+        "score": 5.0,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z13",
+        "zone_name": "Oder-Spree-Seen",
+        "karte_score": 6.75,
+        "is24_link": "https://www.immobilienscout24.de/expose/167664292",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.35825172043011,
+          52.376393870967746
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0212",
+        "expose_id": "167714980",
+        "title": "Wusterwitz — €795.000",
+        "price": 795000,
+        "plot_sqm": 1638,
+        "score": 5.0,
+        "score_label": "🟠 Marginal",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z08",
+        "zone_name": "Havelland-Fläming-Überg.",
+        "karte_score": 6.4,
+        "is24_link": "https://www.immobilienscout24.de/expose/167714980",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.427039897959185,
+          52.98532401360544
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0053",
+        "expose_id": "167268483",
+        "title": "Kyritz — €259.000",
+        "price": 259000,
+        "plot_sqm": 1620,
+        "score": 4.9,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z04",
+        "zone_name": "Rheinsberger Seenland",
+        "karte_score": 7.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167268483",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.199057,
+          52.068776
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0062",
+        "expose_id": "167715898",
+        "title": "Luckenwalde — €510.000",
+        "price": 510000,
+        "plot_sqm": 763,
+        "score": 4.9,
+        "score_label": "🟠 Marginal",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z09",
+        "zone_name": "Hoher Fläming",
+        "karte_score": 7.2,
+        "is24_link": "https://www.immobilienscout24.de/expose/167715898",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.532881866666667,
+          52.643666966666665
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0100",
+        "expose_id": "167480043",
+        "title": "Panketal — €395.000",
+        "price": 395000,
+        "plot_sqm": 886,
+        "score": 4.9,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "karte_score": 7.15,
+        "is24_link": "https://www.immobilienscout24.de/expose/167480043",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.064598776041668,
+          52.828923515625
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0101",
+        "expose_id": "167453302",
+        "title": "Höhenland — €390.000",
+        "price": 390000,
+        "plot_sqm": 611,
+        "score": 4.9,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "karte_score": 7.15,
+        "is24_link": "https://www.immobilienscout24.de/expose/167453302",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.071332911392405,
+          52.48556911392405
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0223",
+        "expose_id": "167645593",
+        "title": "Wulkow — €285.000",
+        "price": 285000,
+        "plot_sqm": 2763,
+        "score": 4.9,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z08",
+        "zone_name": "Havelland-Fläming-Überg.",
+        "karte_score": 6.4,
+        "is24_link": "https://www.immobilienscout24.de/expose/167645593",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.89982182389937,
+          53.1277889308176
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0049",
+        "expose_id": "167383597",
+        "title": "Rheinsberg — €72.000",
+        "price": 72000,
+        "plot_sqm": 620,
+        "score": 4.8,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z04",
+        "zone_name": "Rheinsberger Seenland",
+        "karte_score": 7.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167383597",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.577707133757961,
+          52.180462197452236
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0066",
+        "expose_id": "167641470",
+        "title": "Belzig — €598.000",
+        "price": 598000,
+        "plot_sqm": 2640,
+        "score": 4.8,
+        "score_label": "🟠 Marginal",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z09",
+        "zone_name": "Hoher Fläming",
+        "karte_score": 7.2,
+        "is24_link": "https://www.immobilienscout24.de/expose/167641470",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.536305238095238,
+          53.536621011904764
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0121",
+        "expose_id": "167483214",
+        "title": "Grabowhöfe — €199.900",
+        "price": 199900,
+        "plot_sqm": 3965,
+        "score": 4.8,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z03",
+        "zone_name": "Meckl. Seenplatte-Süd",
+        "karte_score": 6.95,
+        "is24_link": "https://www.immobilienscout24.de/expose/167483214",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.768147295081967,
+          51.82730803278689
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0128",
+        "expose_id": "167517184",
+        "title": "Luckau — €349.000",
+        "price": 349000,
+        "plot_sqm": 1068,
+        "score": 4.8,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z10",
+        "zone_name": "Fläming-Süd",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167517184",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.586145887096775,
+          52.56767612903226
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0153",
+        "expose_id": "167646406",
+        "title": "Golzow — €485.000",
+        "price": 485000,
+        "plot_sqm": 1400,
+        "score": 4.8,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z14",
+        "zone_name": "Märkische Schweiz",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167646406",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.77844034883721,
+          53.45208348837209
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0032",
+        "expose_id": "166916780",
+        "title": "Uckerland — €150.000",
+        "price": 150000,
+        "plot_sqm": 2179,
+        "score": 4.7,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "karte_score": 7.65,
+        "is24_link": "https://www.immobilienscout24.de/expose/166916780",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.990887983870968,
+          51.71253282258065
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0143",
+        "expose_id": "167330105",
+        "title": "Annaburg — €19.500",
+        "price": 19500,
+        "plot_sqm": 1000,
+        "score": 4.7,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z10",
+        "zone_name": "Fläming-Süd",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167330105",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.28812,
+          52.5232238016529
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0219",
+        "expose_id": "167646358",
+        "title": "Milower Land — €363.000",
+        "price": 363000,
+        "plot_sqm": 785,
+        "score": 4.7,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z08",
+        "zone_name": "Havelland-Fläming-Überg.",
+        "karte_score": 6.4,
+        "is24_link": "https://www.immobilienscout24.de/expose/167646358",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.396524672897197,
+          53.32255448598131
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0029",
+        "expose_id": "167062621",
+        "title": "Feldberger Seenlandschaft — €299.000",
+        "price": 299000,
+        "plot_sqm": 1370,
+        "score": 4.6,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "karte_score": 7.65,
+        "is24_link": "https://www.immobilienscout24.de/expose/167062621",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.856817772727272,
+          53.336586090909094
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0030",
+        "expose_id": "167042404",
+        "title": "Oberuckersee — €280.000",
+        "price": 280000,
+        "plot_sqm": 1114,
+        "score": 4.6,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "karte_score": 7.65,
+        "is24_link": "https://www.immobilienscout24.de/expose/167042404",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.524037428571429,
+          53.17914821428572
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0057",
+        "expose_id": "167240020",
+        "title": "Wittstock/Dosse — €376.000",
+        "price": 376000,
+        "plot_sqm": 1150,
+        "score": 4.6,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z04",
+        "zone_name": "Rheinsberger Seenland",
+        "karte_score": 7.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167240020",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.753920366300367,
+          53.559237545787546
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0006",
+        "expose_id": "167525880",
+        "title": "Strasburg (Uckermark) — €244.000",
+        "price": 244000,
+        "plot_sqm": 2622,
+        "score": 4.5,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "karte_score": 7.65,
+        "is24_link": "https://www.immobilienscout24.de/expose/167525880",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.536305238095238,
+          53.536621011904764
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0113",
+        "expose_id": "166969542",
+        "title": "Grabowhöfe — €275.000",
+        "price": 275000,
+        "plot_sqm": 9526,
+        "score": 4.5,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z03",
+        "zone_name": "Meckl. Seenplatte-Süd",
+        "karte_score": 6.95,
+        "is24_link": "https://www.immobilienscout24.de/expose/166969542",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.910741376811593,
+          53.70715913043478
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0116",
+        "expose_id": "167608496",
+        "title": "Bredenfelde — €98.700",
+        "price": 98700,
+        "plot_sqm": 2164,
+        "score": 4.5,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z03",
+        "zone_name": "Meckl. Seenplatte-Süd",
+        "karte_score": 6.95,
+        "is24_link": "https://www.immobilienscout24.de/expose/167608496",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.470702105263157,
+          51.72494368421052
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0198",
+        "expose_id": "167602331",
+        "title": "Gräfenhainichen — €65.000",
+        "price": 65000,
+        "plot_sqm": 1009,
+        "score": 4.5,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "karte_score": 6.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167602331",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.806837435897435,
+          52.22106474358974
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0200",
+        "expose_id": "167523727",
+        "title": "Möckern — €119.000",
+        "price": 119000,
+        "plot_sqm": 2500,
+        "score": 4.5,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "karte_score": 6.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167523727",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.470702105263157,
+          51.72494368421052
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0207",
+        "expose_id": "167354284",
+        "title": "Gräfenhainichen — €420.000",
+        "price": 420000,
+        "plot_sqm": 6597,
+        "score": 4.5,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "karte_score": 6.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167354284",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.420477993827161,
+          52.41859157407408
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0226",
+        "expose_id": "167415387",
+        "title": "Brandenburg an der Havel — €160.000",
+        "price": 160000,
+        "plot_sqm": 664,
+        "score": 4.5,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z08",
+        "zone_name": "Havelland-Fläming-Überg.",
+        "karte_score": 6.4,
+        "is24_link": "https://www.immobilienscout24.de/expose/167415387",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2475,
+          53.33467714285714
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0022",
+        "expose_id": "167132406",
+        "title": "Penkun — €199.600",
+        "price": 199600,
+        "plot_sqm": 3287,
+        "score": 4.3,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "karte_score": 7.65,
+        "is24_link": "https://www.immobilienscout24.de/expose/167132406",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.998483245614034,
+          53.24903929824561
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0105",
+        "expose_id": "160930011",
+        "title": "Wesenberg — €65.000",
+        "price": 65000,
+        "plot_sqm": 889,
+        "score": 4.3,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z03",
+        "zone_name": "Meckl. Seenplatte-Süd",
+        "karte_score": 6.95,
+        "is24_link": "https://www.immobilienscout24.de/expose/160930011",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.063394038461537,
+          53.51731932692307
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0115",
+        "expose_id": "167545986",
+        "title": "Penzlin — €189.000",
+        "price": 189000,
+        "plot_sqm": 3560,
+        "score": 4.3,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z03",
+        "zone_name": "Meckl. Seenplatte-Süd",
+        "karte_score": 6.95,
+        "is24_link": "https://www.immobilienscout24.de/expose/167545986",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.151200909090909,
+          51.893046363636365
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0196",
+        "expose_id": "167650928",
+        "title": "Dessau-Roßlau — €100.000",
+        "price": 100000,
+        "plot_sqm": 3000,
+        "score": 4.3,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "karte_score": 6.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167650928",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.77844034883721,
+          53.45208348837209
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0012",
+        "expose_id": "167364131",
+        "title": "Uckerland — €249.000",
+        "price": 249000,
+        "plot_sqm": 1881,
+        "score": 4.2,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "karte_score": 7.65,
+        "is24_link": "https://www.immobilienscout24.de/expose/167364131",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2475,
+          53.33467714285714
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0013",
+        "expose_id": "167300282",
+        "title": "Penkun — €389.000",
+        "price": 389000,
+        "plot_sqm": 2652,
+        "score": 4.2,
+        "score_label": "🔴 Weak",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "karte_score": 7.65,
+        "is24_link": "https://www.immobilienscout24.de/expose/167300282",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.008336788990825,
+          53.51518
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0033",
+        "expose_id": "167655544",
+        "title": "Papendorf — €209.000",
+        "price": 209000,
+        "plot_sqm": 1062,
+        "score": 4.2,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "karte_score": 7.65,
+        "is24_link": "https://www.immobilienscout24.de/expose/167655544",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.768229516129033,
+          53.15948387096774
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0042",
+        "expose_id": "167552193",
+        "title": "Rheinsberg — €229.000",
+        "price": 229000,
+        "plot_sqm": 861,
+        "score": 4.2,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z04",
+        "zone_name": "Rheinsberger Seenland",
+        "karte_score": 7.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167552193",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.595327536231883,
+          53.775378043478256
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0108",
+        "expose_id": "167663799",
+        "title": "Teterow — €189.000",
+        "price": 189000,
+        "plot_sqm": 1641,
+        "score": 4.2,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z03",
+        "zone_name": "Meckl. Seenplatte-Süd",
+        "karte_score": 6.95,
+        "is24_link": "https://www.immobilienscout24.de/expose/167663799",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.595327536231883,
+          53.775378043478256
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0112",
+        "expose_id": "167621119",
+        "title": "Teterow — €149.000",
+        "price": 149000,
+        "plot_sqm": 1108,
+        "score": 4.2,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z03",
+        "zone_name": "Meckl. Seenplatte-Süd",
+        "karte_score": 6.95,
+        "is24_link": "https://www.immobilienscout24.de/expose/167621119",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.378091368421053,
+          51.717401105263164
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0127",
+        "expose_id": "167518562",
+        "title": "Schlieben — €250.000",
+        "price": 250000,
+        "plot_sqm": 823,
+        "score": 4.2,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z10",
+        "zone_name": "Fläming-Süd",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167518562",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.662104810126582,
+          51.94281
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0209",
+        "expose_id": "167452804",
+        "title": "Straach — €249.900",
+        "price": 249900,
+        "plot_sqm": 783,
+        "score": 4.2,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "karte_score": 6.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167452804",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.188936666666667,
+          51.67558516129032
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0124",
+        "expose_id": "167645594",
+        "title": "Schönewalde — €345.000",
+        "price": 345000,
+        "plot_sqm": 721,
+        "score": 4.0,
+        "score_label": "🔴 Weak",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z10",
+        "zone_name": "Fläming-Süd",
+        "karte_score": 6.85,
+        "is24_link": "https://www.immobilienscout24.de/expose/167645594",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.510840588235295,
+          52.24422047058824
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0178",
+        "expose_id": "167645638",
+        "title": "Brieskow-Finkenheerd — €125.000",
+        "price": 125000,
+        "plot_sqm": 923,
+        "score": 4.0,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z13",
+        "zone_name": "Oder-Spree-Seen",
+        "karte_score": 6.75,
+        "is24_link": "https://www.immobilienscout24.de/expose/167645638",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.696184074074074,
+          51.912264444444446
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0192",
+        "expose_id": "167689141",
+        "title": "Lutherstadt Wittenberg — €174.000",
+        "price": 174000,
+        "plot_sqm": 956,
+        "score": 4.0,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "karte_score": 6.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167689141",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.176103560209425,
+          51.85193335078534
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0197",
+        "expose_id": "167630867",
+        "title": "Dessau-Roßlau — €290.000",
+        "price": 290000,
+        "plot_sqm": 699,
+        "score": 3.9,
+        "score_label": "🔴 Weak",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "karte_score": 6.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167630867",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.577707133757961,
+          52.180462197452236
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0201",
+        "expose_id": "167524408",
+        "title": "Belzig — €550.000",
+        "price": 550000,
+        "plot_sqm": 673,
+        "score": 3.9,
+        "score_label": "🔴 Weak",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "karte_score": 6.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167524408",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.753920366300367,
+          53.559237545787546
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0031",
+        "expose_id": "166941126",
+        "title": "Strasburg (Uckermark) — €135.000",
+        "price": 135000,
+        "plot_sqm": 947,
+        "score": 3.8,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "karte_score": 7.65,
+        "is24_link": "https://www.immobilienscout24.de/expose/166941126",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.008336788990825,
+          53.51518
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0008",
+        "expose_id": "167445715",
+        "title": "Fahrenwalde — €179.000",
+        "price": 179000,
+        "plot_sqm": 1176,
+        "score": 3.7,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "karte_score": 7.65,
+        "is24_link": "https://www.immobilienscout24.de/expose/167445715",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.806837435897435,
+          52.22106474358974
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0202",
+        "expose_id": "167523796",
+        "title": "Schopsdorf",
+        "price": null,
+        "plot_sqm": 640,
+        "score": 3.7,
+        "score_label": "🔴 Weak",
+        "tier": "unknown",
+        "marker-color": "#95a5a6",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "karte_score": 6.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167523796",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.537822505910166,
+          53.43338260047281
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0016",
+        "expose_id": "167224631",
+        "title": "Woldegk — €625.000",
+        "price": 625000,
+        "plot_sqm": 1180,
+        "score": 3.6,
+        "score_label": "🔴 Weak",
+        "tier": "premium",
+        "marker-color": "#e67e22",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "karte_score": 7.65,
+        "is24_link": "https://www.immobilienscout24.de/expose/167224631",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.008336788990825,
+          53.51518
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0007",
+        "expose_id": "167526283",
+        "title": "Papendorf — €249.000",
+        "price": 249000,
+        "plot_sqm": 765,
+        "score": 3.5,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "karte_score": 7.65,
+        "is24_link": "https://www.immobilienscout24.de/expose/167526283",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.856817772727272,
+          53.336586090909094
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0021",
+        "expose_id": "167207606",
+        "title": "Oberuckersee — €250.000",
+        "price": 250000,
+        "plot_sqm": 892,
+        "score": 3.5,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "karte_score": 7.65,
+        "is24_link": "https://www.immobilienscout24.de/expose/167207606",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.599036315789474,
+          53.38162549707603
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0103",
+        "expose_id": "167725585",
+        "title": "Röbel/Müritz — €234.000",
+        "price": 234000,
+        "plot_sqm": 601,
+        "score": 3.5,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z03",
+        "zone_name": "Meckl. Seenplatte-Süd",
+        "karte_score": 6.95,
+        "is24_link": "https://www.immobilienscout24.de/expose/167725585",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.923392547169811,
+          53.54357858490565
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0114",
+        "expose_id": "167584959",
+        "title": "Möllenhagen — €279.000",
+        "price": 279000,
+        "plot_sqm": 953,
+        "score": 3.5,
+        "score_label": "🔴 Weak",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z03",
+        "zone_name": "Meckl. Seenplatte-Süd",
+        "karte_score": 6.95,
+        "is24_link": "https://www.immobilienscout24.de/expose/167584959",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.308696815068494,
+          53.47705647260274
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0117",
+        "expose_id": "167544747",
+        "title": "Groß Nemerow — €79.500",
+        "price": 79500,
+        "plot_sqm": 839,
+        "score": 3.5,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "marker-color": "#2ecc71",
+        "zone_id": "Z03",
+        "zone_name": "Meckl. Seenplatte-Süd",
+        "karte_score": 6.95,
+        "is24_link": "https://www.immobilienscout24.de/expose/167544747",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.536305238095238,
+          53.536621011904764
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0104",
+        "expose_id": "167659840",
+        "title": "Grabowhöfe — €419.000",
+        "price": 419000,
+        "plot_sqm": 739,
+        "score": 3.1,
+        "score_label": "🔴 Weak",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z03",
+        "zone_name": "Meckl. Seenplatte-Süd",
+        "karte_score": 6.95,
+        "is24_link": "https://www.immobilienscout24.de/expose/167659840",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.086952294372294,
+          51.974325411255414
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0199",
+        "expose_id": "167595312",
+        "title": "Zerbst/Anhalt — €255.000",
+        "price": 255000,
+        "plot_sqm": 625,
+        "score": 3.1,
+        "score_label": "🔴 Weak",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "karte_score": 6.6,
+        "is24_link": "https://www.immobilienscout24.de/expose/167595312",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.308696815068494,
+          53.47705647260274
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0106",
+        "expose_id": "162077529",
+        "title": "Burg Stargard — €325.000",
+        "price": 325000,
+        "plot_sqm": 916,
+        "score": 3.0,
+        "score_label": "🔴 Weak",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z03",
+        "zone_name": "Meckl. Seenplatte-Süd",
+        "karte_score": 6.95,
+        "is24_link": "https://www.immobilienscout24.de/expose/162077529",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.41109109090909,
+          53.47103793939394
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0107",
+        "expose_id": "167269559",
+        "title": "Malchow — €495.000",
+        "price": 495000,
+        "plot_sqm": 635,
+        "score": 2.9,
+        "score_label": "🔴 Weak",
+        "tier": "mid",
+        "marker-color": "#f1c40f",
+        "zone_id": "Z03",
+        "zone_name": "Meckl. Seenplatte-Süd",
+        "karte_score": 6.95,
+        "is24_link": "https://www.immobilienscout24.de/expose/167269559",
+        "source": "J-020",
+        "run_date": "2026-05-14"
+      }
     }
   ]
 }
