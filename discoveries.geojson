@@ -5365,6 +5365,150 @@
         "is24_link": "https://www.immowelt.de/expose/f06d223a-e913-4e13-8780-3f2f8d6d65ce",
         "run_date": "2026-05-14"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.369323772321428,
+          52.991473683035714
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0056",
+        "title": "Zehdenick — €149.000",
+        "price": 149000,
+        "plot_sqm": 697,
+        "score": 5.6,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "zone_id": "Z02",
+        "zone_name": "Uckermark-West",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/166945354",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52748519736842,
+          53.101003684210525
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0055",
+        "title": "Milmersdorf — €220.000",
+        "price": 220000,
+        "plot_sqm": 890,
+        "score": 4.3,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "zone_id": "Z02",
+        "zone_name": "Uckermark-West",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167154198",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.856817772727272,
+          53.336586090909094
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0054",
+        "title": "Oberuckersee — €250.000",
+        "price": 250000,
+        "plot_sqm": 892,
+        "score": 2.6,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "zone_id": "Z02",
+        "zone_name": "Uckermark-West",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167207606",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.727265652173912,
+          52.96601996376812
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0058",
+        "title": "Friedrichswalde — €1.670.000",
+        "price": 1670000,
+        "plot_sqm": 4401,
+        "score": 6.5,
+        "score_label": "🟡 Solid candidate",
+        "tier": "dream",
+        "zone_id": "Z02",
+        "zone_name": "Uckermark-West",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167690947",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5877784,
+          53.1478433
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0078",
+        "title": "Templin — €599.000",
+        "price": 599000,
+        "plot_sqm": 2419,
+        "score": 5.8,
+        "score_label": "🟠 Marginal",
+        "tier": "premium",
+        "zone_id": "Z02",
+        "zone_name": "Uckermark-West",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/6ee6e440-b0bc-47ac-ac5d-e9b8f2a89df1",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5877784,
+          53.1478433
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0074",
+        "title": "Templin — €535.000",
+        "price": 535000,
+        "plot_sqm": 1005,
+        "score": 4.8,
+        "score_label": "🟠 Marginal",
+        "tier": "premium",
+        "zone_id": "Z02",
+        "zone_name": "Uckermark-West",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/ac8c92bf-29ed-40c4-9fe7-1d56919b2275",
+        "run_date": "2026-05-14"
+      }
     }
   ]
 }
