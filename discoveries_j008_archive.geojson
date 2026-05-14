@@ -1,0 +1,4583 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KOMPASS Agent Online",
+        "type": "discovery",
+        "status": "new",
+        "note": "Hetzner server HEL1 operational. Claude Code v2.1.139 installed. GitHub pusher tested and working.",
+        "zone": "infrastructure",
+        "source": "J-002 validation",
+        "date": "2026-05-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9384,
+          60.1699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KOMPASS Agent - kompass@hetzner",
+        "type": "discovery",
+        "status": "new",
+        "note": "Server hostname kompass. Claude Code running as kompass user. All systems operational.",
+        "zone": "infrastructure",
+        "source": "J-004 validation",
+        "date": "2026-05-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9384,
+          60.1699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6992,
+          53.226
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-162289116",
+        "price": 163000,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "Historisches Feldsteinhaus in Mitten der Seenlandschaft",
+        "location": "Feldberger Seenlandschaft, Mecklenburgische Seenpl",
+        "label": "$ · 163k · Z01",
+        "rooms": 3,
+        "living_sqm": 109.1,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/162289116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1657,
+          53.1381
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167650422",
+        "price": 212000,
+        "budget_flag": "$$",
+        "zone_id": "Z02",
+        "title": "2-Familienhaus auf großzügigem Grundstück mit vielfältigen N",
+        "location": "34.33 km | Angermünder Ende XXX, Schöneberg, Ucker",
+        "label": "$$ · 212k · Z02",
+        "rooms": 10,
+        "living_sqm": 259.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167650422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2909,
+          52.9203
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167648558",
+        "price": 82400,
+        "budget_flag": "$",
+        "zone_id": "Z02",
+        "title": "Mehrfamilienhaus mit Nebengebäuden",
+        "location": "29.06 km | Kunower Straße XXX, Casekow, Uckermark ",
+        "label": "$ · 82k · Z02",
+        "rooms": 3,
+        "living_sqm": 240.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167648558"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7114,
+          53.23
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167648559",
+        "price": 135000,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "2-Familienhaus nebst Pferdestall",
+        "location": "18.8 km | Lemmersdorf XXX, Uckerland, Uckermark (K",
+        "label": "$ · 135k · Z01",
+        "rooms": 3,
+        "living_sqm": 197.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167648559"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8773,
+          53.4261
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167647426",
+        "price": 40200,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "Einfamilien-Reihenendhaus nebst Schuppen",
+        "location": "31.83 km | Dorfstraße XXX, Ramin, Vorpommern-Greif",
+        "label": "$ · 40k · Z01",
+        "rooms": 3,
+        "living_sqm": 89.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167647426"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3566,
+          53.1799
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167655544",
+        "price": 209000,
+        "budget_flag": "$$",
+        "zone_id": "Z02",
+        "title": "Sie werden es lieben - Jung, mit Kamin, Terrasse, voll unter",
+        "location": "Papendorf, Vorpommern-Greifswald (Kreis)",
+        "label": "$$ · 209k · Z02",
+        "rooms": 4,
+        "living_sqm": 114.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167655544"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.898,
+          53.3956
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166215449",
+        "price": 69500,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "Doppelhaushälfte zur Selbstverwirklichung in ruhiger, idylli",
+        "location": "Groß Miltzow, Mecklenburgische Seenplatte (Kreis)",
+        "label": "$ · 69k · Z01",
+        "rooms": 6,
+        "living_sqm": 120.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166215449"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2669,
+          52.9703
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167587799",
+        "price": 175000,
+        "budget_flag": "$",
+        "zone_id": "Z02",
+        "title": "Der Traum vom Bauernhof - Wohnhaus, Nebengelasse, viel Land!",
+        "location": "Casekow, Uckermark (Kreis)",
+        "label": "$ · 175k · Z02",
+        "rooms": 7,
+        "living_sqm": 130.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167587799"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9569,
+          53.178
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-165963943",
+        "price": 120000,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "DHH mit Veranda zu verkaufen",
+        "location": "Angermünde, Uckermark (Kreis)",
+        "label": "$ · 120k · Z01",
+        "rooms": 4,
+        "living_sqm": 90.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/165963943"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2816,
+          53.0794
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166061670",
+        "price": 149000,
+        "budget_flag": "$",
+        "zone_id": "Z02",
+        "title": "DHH mit Carport zu verkaufen",
+        "location": "Angermünde, Uckermark (Kreis)",
+        "label": "$ · 149k · Z02",
+        "rooms": 3,
+        "living_sqm": 120.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166061670"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9542,
+          53.3786
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166117344",
+        "price": 165900,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "Ihr Rückzugsort zum Wohlfühlen – Ihr Traumhaus in ruhiger La",
+        "location": "Schönfeld, Uckermark (Kreis)",
+        "label": "$ · 165k · Z01",
+        "rooms": 6,
+        "living_sqm": 160.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166117344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1269,
+          53.1326
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167526283",
+        "price": 249000,
+        "budget_flag": "$$",
+        "zone_id": "Z02",
+        "title": "Grüne Idylle am Dorfrand - Papendorf",
+        "location": "Papendorf, Vorpommern-Greifswald (Kreis)",
+        "label": "$$ · 249k · Z02",
+        "rooms": 4,
+        "living_sqm": 103.56,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167526283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7176,
+          53.3922
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-162139264",
+        "price": 175000,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "Der Traum vom Bauernhof - Wohnhaus, Nebengelasse, viel Land!",
+        "location": "Casekow, Uckermark (Kreis)",
+        "label": "$ · 175k · Z01",
+        "rooms": 7,
+        "living_sqm": 130.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/162139264"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2496,
+          52.9267
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-149333079",
+        "price": 41200,
+        "budget_flag": "$",
+        "zone_id": "Z02",
+        "title": "Landleben in der Uckermark:\nHandwerkerhaus mit Stallgebäude",
+        "location": "Casekow, Uckermark (Kreis)",
+        "label": "$ · 41k · Z02",
+        "rooms": 12,
+        "living_sqm": 124.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/149333079"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7607,
+          53.2192
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166718799",
+        "price": 196000,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "Potential vielversprechend - EFH mit Doppelgarage/Nebengelas",
+        "location": "25.22 km | Zur Feldscheune 7, Passow, Uckermark (K",
+        "label": "$ · 196k · Z01",
+        "rooms": 4,
+        "living_sqm": 128.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166718799"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.226,
+          53.1022
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166031167",
+        "price": 82500,
+        "budget_flag": "$",
+        "zone_id": "Z02",
+        "title": "DHH mit Nebengebäude zu verkaufen",
+        "location": "Nordwestuckermark, Uckermark (Kreis)",
+        "label": "$ · 82k · Z02",
+        "rooms": 4,
+        "living_sqm": 117.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166031167"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7879,
+          53.3573
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167445715",
+        "price": 179000,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "Rarität in grüner Landschaft",
+        "location": "Fahrenwalde, Vorpommern-Greifswald (Kreis)",
+        "label": "$ · 179k · Z01",
+        "rooms": 6,
+        "living_sqm": 195.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167445715"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0857,
+          53.0606
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167437847",
+        "price": 82400,
+        "budget_flag": "$",
+        "zone_id": "Z02",
+        "title": "Mehrfamilienhaus mit Nebengebäuden",
+        "location": "29.06 km | Kunower Straße xxxx, Casekow, Uckermark",
+        "label": "$ · 82k · Z02",
+        "rooms": 3,
+        "living_sqm": 240.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167437847"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7988,
+          53.4439
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167437512",
+        "price": 164000,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "Freistehendes Einfamilienhaus mit großem Garten und 3er Carp",
+        "location": "34.07 km | Ausbau-Heinrichshof xxxx, Gartz (Oder),",
+        "label": "$ · 164k · Z01",
+        "rooms": 3,
+        "living_sqm": 134.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167437512"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3113,
+          53.2692
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167436319",
+        "price": 212000,
+        "budget_flag": "$$",
+        "zone_id": "Z02",
+        "title": "2-Familienhaus auf großzügigem Grundstück mit vielfältigen N",
+        "location": "34.33 km | Angermünder Ende xxxx, Schöneberg, Ucke",
+        "label": "$$ · 212k · Z02",
+        "rooms": 10,
+        "living_sqm": 259.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167436319"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0481,
+          53.0334
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167431925",
+        "price": 135000,
+        "budget_flag": "$",
+        "zone_id": "Z02",
+        "title": "2-Familienhaus nebst Pferdestall",
+        "location": "18.8 km | Lemmersdorf xxxx, Uckerland, Uckermark (",
+        "label": "$ · 135k · Z02",
+        "rooms": 3,
+        "living_sqm": 197.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167431925"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7885,
+          53.3591
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167428821",
+        "price": 40200,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "Einfamilien-Reihenendhaus nebst Schuppen",
+        "location": "31.83 km | Dorfstraße xxxx, Ramin, Vorpommern-Grei",
+        "label": "$ · 40k · Z01",
+        "rooms": 3,
+        "living_sqm": 89.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167428821"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2742,
+          53.2214
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167348436",
+        "price": 158000,
+        "budget_flag": "$",
+        "zone_id": "Z02",
+        "title": "Bungalow zu verkaufen",
+        "location": "Nordwestuckermark, Uckermark (Kreis)",
+        "label": "$ · 158k · Z02",
+        "rooms": 4,
+        "living_sqm": 95.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167348436"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6993,
+          53.2715
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166713760",
+        "price": 189000,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "Mit der Gemütlichkeit von heute, bereit für das Morgen",
+        "location": "Jatznick, Vorpommern-Greifswald (Kreis)",
+        "label": "$ · 189k · Z01",
+        "rooms": 5,
+        "living_sqm": 114.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166713760"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2033,
+          53.0967
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-164768529",
+        "price": 145000,
+        "budget_flag": "$",
+        "zone_id": "Z02",
+        "title": "Einfamilienhaus / ehemaliges Praxisgebäude in ruhiger Lage",
+        "location": "33.13 km | Lange Straße 9, Viereck, Vorpommern-Gre",
+        "label": "$ · 145k · Z02",
+        "rooms": 9,
+        "living_sqm": 180.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/164768529"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9963,
+          53.2744
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166916780",
+        "price": 150000,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "Einfamilienhaus mit Garage, 2000m² Grundstück, Stall, Werkst",
+        "location": "Uckerland, Uckermark (Kreis)",
+        "label": "$ · 150k · Z01",
+        "rooms": 5,
+        "living_sqm": 96.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166916780"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1487,
+          53.2079
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166985044",
+        "price": 209999,
+        "budget_flag": "$$",
+        "zone_id": "Z02",
+        "title": "Provisionsfrei - Doppelhaushälfte in Waldnähe",
+        "location": "Milmersdorf, Uckermark (Kreis)",
+        "label": "$$ · 209k · Z02",
+        "rooms": 5,
+        "living_sqm": 104.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166985044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8904,
+          53.1776
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-162292719",
+        "price": 115000,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "Haus im Dornröschenschlaf unweit See in der hübschen Uckerma",
+        "location": "Oberuckersee, Uckermark (Kreis)",
+        "label": "$ · 115k · Z01",
+        "rooms": 5,
+        "living_sqm": 167.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/162292719"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0769,
+          53.2534
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167207606",
+        "price": 250000,
+        "budget_flag": "$$",
+        "zone_id": "Z02",
+        "title": "Mehrfamilienhaus im Zentrum von Gramzow!",
+        "location": "Oberuckersee, Uckermark (Kreis)",
+        "label": "$$ · 250k · Z02",
+        "rooms": 13,
+        "living_sqm": 225.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167207606"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0267,
+          53.2557
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167356208",
+        "price": 85000,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "Renovierungsbedürftiges Einfamilienhaus mit Nebengelass in H",
+        "location": "Gartz (Oder), Uckermark (Kreis)",
+        "label": "$ · 85k · Z01",
+        "rooms": 6,
+        "living_sqm": 120.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167356208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0819,
+          53.0169
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166672102",
+        "price": 239000,
+        "budget_flag": "$$",
+        "zone_id": "Z02",
+        "title": "Großer ehemaliger Bauernhof -  2 Wohneinheiten, Scheune - Se",
+        "location": "Casekow, Uckermark (Kreis)",
+        "label": "$$ · 239k · Z02",
+        "rooms": 10,
+        "living_sqm": 210.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166672102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7708,
+          53.2826
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166371370",
+        "price": 173000,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "Gepflegtes Familiendomizil in Pinnow. Machen wir „halbe-halb",
+        "location": "30.5 km | Ahornweg 18, Pinnow, Uckermark (Kreis)",
+        "label": "$ · 173k · Z01",
+        "rooms": 4,
+        "living_sqm": 92.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166371370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1549,
+          53.1376
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167364131",
+        "price": 249000,
+        "budget_flag": "$$",
+        "zone_id": "Z02",
+        "title": "Kleine Familienvilla mit reichlich Platz - in Werbelow",
+        "location": "Uckerland, Uckermark (Kreis)",
+        "label": "$$ · 249k · Z02",
+        "rooms": 4,
+        "living_sqm": 114.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167364131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7075,
+          53.1923
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-165990375",
+        "price": 59000,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "Doppelhaushälfte zu verkaufen",
+        "location": "Prenzlau, Uckermark (Kreis)",
+        "label": "$ · 59k · Z01",
+        "rooms": 4,
+        "living_sqm": 79.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/165990375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3579,
+          53.0735
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166139236",
+        "price": 85000,
+        "budget_flag": "$",
+        "zone_id": "Z02",
+        "title": "EFH zu verkaufen",
+        "location": "Casekow, Uckermark (Kreis)",
+        "label": "$ · 85k · Z02",
+        "rooms": 10,
+        "living_sqm": 210.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166139236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7483,
+          53.1347
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167244236",
+        "price": 229000,
+        "budget_flag": "$$",
+        "zone_id": "Z01",
+        "title": "Massives, voll unterkellertes Haus mit 2 Heizsystemen u. kl.",
+        "location": "23.94 km | Zur Försterei 18, Pasewalk, Vorpommern-",
+        "label": "$$ · 229k · Z01",
+        "rooms": 5,
+        "living_sqm": 138.4,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167244236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2543,
+          53.1642
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-161572034",
+        "price": 65000,
+        "budget_flag": "$",
+        "zone_id": "Z02",
+        "title": "Doppelhaushälfte zu verkaufen",
+        "location": "Angermünde, Uckermark (Kreis)",
+        "label": "$ · 65k · Z02",
+        "rooms": 6,
+        "living_sqm": 100.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/161572034"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9687,
+          53.3051
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166266318",
+        "price": 149000,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "Einfamilienhaus in ruhiger Dorfrandlage in Beenz bei Lychen ",
+        "location": "33.69 km | Chaussee 1, Lychen, Uckermark (Kreis)",
+        "label": "$ · 149k · Z01",
+        "rooms": 6,
+        "living_sqm": 140.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166266318"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1564,
+          53.083
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-158579224",
+        "price": 99000,
+        "budget_flag": "$",
+        "zone_id": "Z02",
+        "title": "Handwerker aufgepasst: Doppelhaushälfte mit Ausbau- und Gest",
+        "location": "Jatznick, Vorpommern-Greifswald (Kreis)",
+        "label": "$ · 99k · Z02",
+        "rooms": 5,
+        "living_sqm": 125.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/158579224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7341,
+          53.4755
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-165298481",
+        "price": 70000,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "Stark sanierungsbedürftige  Doppelhaushälfte in guter Wohnla",
+        "location": "3.9 km | Wiesengrund 24, Prenzlau, Uckermark (Krei",
+        "label": "$ · 70k · Z01",
+        "rooms": 4,
+        "living_sqm": 83.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/165298481"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3688,
+          53.2222
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166177318",
+        "price": 175000,
+        "budget_flag": "$",
+        "zone_id": "Z02",
+        "title": "Ferienhaus am Lübbesee zu verkaufen",
+        "location": "Milmersdorf, Uckermark (Kreis)",
+        "label": "$ · 175k · Z02",
+        "rooms": 3,
+        "living_sqm": 68.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166177318"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7521,
+          53.419
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-161514909",
+        "price": 149900,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "Ferien- und Wochenendhaus am Großen Warthesee",
+        "location": "23.66 km | Jakobshagener Straße 10 b, Boitzenburge",
+        "label": "$ · 149k · Z01",
+        "rooms": 3,
+        "living_sqm": 40.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/161514909"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3656,
+          53.1585
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166363049",
+        "price": 14999,
+        "budget_flag": "$",
+        "zone_id": "Z02",
+        "title": "Kleingartentraum mit einzigartigen Fachwerkhaus vom Tischler",
+        "location": "Schwedt/Oder, Uckermark (Kreis)",
+        "label": "$ · 14k · Z02",
+        "rooms": 3,
+        "living_sqm": 46.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166363049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6777,
+          53.4796
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167664534",
+        "price": 198000,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "HORN IMMOBILIEN ++ modernes Einfamilienhaus mit idyllischem ",
+        "location": "Jatznick, Vorpommern-Greifswald (Kreis)",
+        "label": "$ · 198k · Z01",
+        "rooms": 4,
+        "living_sqm": 135.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167664534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3667,
+          52.9448
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167664295",
+        "price": 90000,
+        "budget_flag": "$",
+        "zone_id": "Z02",
+        "title": "HORN IMMOBILIEN++ kleines gemütliches Zuhause bei Gartz an d",
+        "location": "Gartz (Oder), Uckermark (Kreis)",
+        "label": "$ · 90k · Z02",
+        "rooms": 3,
+        "living_sqm": 70.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167664295"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9714,
+          53.177
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-161597937",
+        "price": 50000,
+        "budget_flag": "$",
+        "zone_id": "Z01",
+        "title": "Landhaus mit Scheune und großem Garten",
+        "location": "Woldegk, Mecklenburgische Seenplatte (Kreis)",
+        "label": "$ · 50k · Z01",
+        "rooms": 3,
+        "living_sqm": 81.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/161597937"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3258,
+          52.9886
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166839776",
+        "price": 199000,
+        "budget_flag": "$",
+        "zone_id": "Z02",
+        "title": "IHR NEUES ZUHAUSE AUF DEM LAND!",
+        "location": "Penkun, Vorpommern-Greifswald (Kreis)",
+        "label": "$ · 199k · Z02",
+        "rooms": 5,
+        "living_sqm": 150.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166839776"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9466,
+          53.1148
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167650435",
+        "price": 67000,
+        "budget_flag": "$",
+        "zone_id": "Z05",
+        "title": "Reihenmittelhaus nebst Garten und Stellplatz",
+        "location": "29.23 km | Dorfstraße XXX, Temnitztal, Ostprignitz",
+        "label": "$ · 67k · Z05",
+        "rooms": 4,
+        "living_sqm": 110.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167650435"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7933,
+          53.2741
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167648562",
+        "price": 181000,
+        "budget_flag": "$",
+        "zone_id": "Z04",
+        "title": "Ihr neues Zuhause - Einfamilienhaus mit Garage",
+        "location": "27.56 km | Am Wiesenhang XXX, Wittstock/Dosse, Ost",
+        "label": "$ · 181k · Z04",
+        "rooms": 3,
+        "living_sqm": 136.6,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167648562"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8878,
+          52.9217
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167648168",
+        "price": 113000,
+        "budget_flag": "$",
+        "zone_id": "Z04",
+        "title": "Einfamilien-Doppelhaushälfte - Ihr neues Zuhause",
+        "location": "23.44 km | Bergstraße XXX, Walsleben, Ostprignitz-",
+        "label": "$ · 113k · Z04",
+        "rooms": 3,
+        "living_sqm": 100.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167648168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9484,
+          53.0557
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167676197",
+        "price": 179000,
+        "budget_flag": "$",
+        "zone_id": "Z04",
+        "title": "Charmantes Einfamilienhaus mit viel Potenzial vor den Toren ",
+        "location": "Fürstenberg/Havel, Oberhavel (Kreis)",
+        "label": "$ · 179k · Z04",
+        "rooms": 3,
+        "living_sqm": 90.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167676197"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7287,
+          52.9031
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167645650",
+        "price": 189000,
+        "budget_flag": "$",
+        "zone_id": "Z05",
+        "title": "Heller moderner Bungalow am See",
+        "location": "Neuruppin, Ostprignitz-Ruppin (Kreis)",
+        "label": "$ · 189k · Z05",
+        "rooms": null,
+        "living_sqm": 33.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167645650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0376,
+          52.9714
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167552193",
+        "price": 229000,
+        "budget_flag": "$$",
+        "zone_id": "Z04",
+        "title": "Idyllisches Einfamilienhaus/Ferienhaus - 4 Zimmer, traumhaft",
+        "location": "Rheinsberg, Ostprignitz-Ruppin (Kreis)",
+        "label": "$$ · 229k · Z04",
+        "rooms": 4,
+        "living_sqm": 80.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167552193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.813,
+          53.1282
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-159771778",
+        "price": 189000,
+        "budget_flag": "$",
+        "zone_id": "Z05",
+        "title": "Provisionsfrei für den Käufer…probier‘s mal mit Ruhe und Gem",
+        "location": "Löwenberger Land, Oberhavel (Kreis)",
+        "label": "$ · 189k · Z05",
+        "rooms": 6,
+        "living_sqm": 106.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/159771778"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8598,
+          53.1375
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166742598",
+        "price": 129000,
+        "budget_flag": "$",
+        "zone_id": "Z04",
+        "title": "Provisionsfrei für den Käufer … Viel Platz in ruhiger Lage …",
+        "location": "Zehdenick, Oberhavel (Kreis)",
+        "label": "$ · 129k · Z04",
+        "rooms": 7,
+        "living_sqm": 132.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166742598"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7594,
+          52.8313
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-162522106",
+        "price": 139000,
+        "budget_flag": "$",
+        "zone_id": "Z05",
+        "title": "Charmante Doppelhaushälfte mit großem Grundstück und viel Po",
+        "location": "Wittstock/Dosse, Ostprignitz-Ruppin (Kreis)",
+        "label": "$ · 139k · Z05",
+        "rooms": 4,
+        "living_sqm": 80.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/162522106"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8097,
+          53.0238
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167461408",
+        "price": 165000,
+        "budget_flag": "$",
+        "zone_id": "Z04",
+        "title": "KENSINGTON - Exklusiv - Modernisiertes Fachwerkhaus mit Hofa",
+        "location": "Rheinsberg, Ostprignitz-Ruppin (Kreis)",
+        "label": "$ · 165k · Z04",
+        "rooms": 3,
+        "living_sqm": 81.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167461408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.641,
+          53.128
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167436348",
+        "price": 67000,
+        "budget_flag": "$",
+        "zone_id": "Z05",
+        "title": "Reihenmittelhaus nebst Garten und Stellplatz",
+        "location": "29.23 km | Dorfstraße xxxx, Temnitztal, Ostprignit",
+        "label": "$ · 67k · Z05",
+        "rooms": 4,
+        "living_sqm": 110.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167436348"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9754,
+          53.1701
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167431930",
+        "price": 181000,
+        "budget_flag": "$",
+        "zone_id": "Z04",
+        "title": "Ihr neues Zuhause - Einfamilienhaus mit Garage",
+        "location": "27.56 km | Am Wiesenhang xxxx, Wittstock/Dosse, Os",
+        "label": "$ · 181k · Z04",
+        "rooms": 3,
+        "living_sqm": 136.6,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167431930"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6453,
+          53.0037
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167431928",
+        "price": 181000,
+        "budget_flag": "$",
+        "zone_id": "Z05",
+        "title": "Landleben - Vierfamilienhaus auf ehem. Dreiseitenhof",
+        "location": "23.79 km | Altthymer Dorfstraße xxxx, Fürstenberg/",
+        "label": "$ · 181k · Z05",
+        "rooms": 3,
+        "living_sqm": 428.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167431928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9091,
+          53.0429
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167430934",
+        "price": 113000,
+        "budget_flag": "$",
+        "zone_id": "Z04",
+        "title": "Einfamilien-Doppelhaushälfte - Ihr neues Zuhause",
+        "location": "23.44 km | Bergstraße xxxx, Walsleben, Ostprignitz",
+        "label": "$ · 113k · Z04",
+        "rooms": 3,
+        "living_sqm": 100.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167430934"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.818,
+          52.85
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166696428",
+        "price": 125000,
+        "budget_flag": "$",
+        "zone_id": "Z05",
+        "title": "Rechlin: Doppelhaushälfte mit Nebengebäuden und Entwicklungs",
+        "location": "Rechlin, Mecklenburgische Seenplatte (Kreis)",
+        "label": "$ · 125k · Z05",
+        "rooms": 5,
+        "living_sqm": 130.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166696428"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9145,
+          53.043
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166934042",
+        "price": 185000,
+        "budget_flag": "$",
+        "zone_id": "Z04",
+        "title": "Ferienhaus in Massivbauweise in erster Seereihe *provisionsf",
+        "location": "24.85 km | Pian 14P, Fürstenberg/Havel, Oberhavel ",
+        "label": "$ · 185k · Z04",
+        "rooms": 3,
+        "living_sqm": 40.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166934042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9553,
+          52.861
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166617212",
+        "price": 199000,
+        "budget_flag": "$",
+        "zone_id": "Z05",
+        "title": "Einfamilienhaus / Ferienhaus",
+        "location": "Rheinsberg, Ostprignitz-Ruppin (Kreis)",
+        "label": "$ · 199k · Z05",
+        "rooms": 3,
+        "living_sqm": 70.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166617212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0621,
+          53.1773
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167383597",
+        "price": 72000,
+        "budget_flag": "$",
+        "zone_id": "Z04",
+        "title": "Provisionsfrei für den Käufer … Großes Grün … Großes Glück …",
+        "location": "Rheinsberg, Ostprignitz-Ruppin (Kreis)",
+        "label": "$ · 72k · Z04",
+        "rooms": 1,
+        "living_sqm": 20.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167383597"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9189,
+          53.0687
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-165324057",
+        "price": 130000,
+        "budget_flag": "$",
+        "zone_id": "Z05",
+        "title": "Vielseitiges Sanierungsobjekt mit Entwicklungspotenzial – Wo",
+        "location": "Mirow, Mecklenburgische Seenplatte (Kreis)",
+        "label": "$ · 130k · Z05",
+        "rooms": 10,
+        "living_sqm": 280.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/165324057"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.744,
+          53.1428
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-161007778",
+        "price": 225000,
+        "budget_flag": "$$",
+        "zone_id": "Z04",
+        "title": "Provisionsfrei für den Käufer – Leben und/oder Arbeiten … im",
+        "location": "Großwoltersdorf, Oberhavel (Kreis)",
+        "label": "$$ · 225k · Z04",
+        "rooms": 5,
+        "living_sqm": 200.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/161007778"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8885,
+          53.231
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-160142072",
+        "price": 229000,
+        "budget_flag": "$$",
+        "zone_id": "Z04",
+        "title": "Idyllischer Bauernhof in Trieplatz: Ihr Naturparadies wartet",
+        "location": "Wusterhausen/Dosse, Ostprignitz-Ruppin (Kreis)",
+        "label": "$$ · 229k · Z04",
+        "rooms": 8,
+        "living_sqm": 244.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/160142072"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9055,
+          52.8496
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166560537",
+        "price": 249000,
+        "budget_flag": "$$",
+        "zone_id": "Z05",
+        "title": "Charmantes Mehrfamilienhaus für Landliebhaber in Zehdenick-M",
+        "location": "Zehdenick, Oberhavel (Kreis)",
+        "label": "$$ · 249k · Z05",
+        "rooms": 8,
+        "living_sqm": 261.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166560537"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8073,
+          53.0739
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-159520644",
+        "price": 249000,
+        "budget_flag": "$$",
+        "zone_id": "Z04",
+        "title": "Idyllischer Vierseitenhof mit Stallungen, Scheune und weitlä",
+        "location": "Löwenberger Land, Oberhavel (Kreis)",
+        "label": "$$ · 249k · Z04",
+        "rooms": 11,
+        "living_sqm": 290.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/159520644"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7151,
+          52.8268
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167147577",
+        "price": 139000,
+        "budget_flag": "$",
+        "zone_id": "Z05",
+        "title": "Provisionsfrei für den Käufer… Leben auf dem Dorfe … !",
+        "location": "Löwenberger Land, Oberhavel (Kreis)",
+        "label": "$ · 139k · Z05",
+        "rooms": 3,
+        "living_sqm": 93.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167147577"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.997,
+          53.2774
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-164752793",
+        "price": 215000,
+        "budget_flag": "$$",
+        "zone_id": "Z04",
+        "title": "Charmantes Naturgrundstück in Seenähe mit Bungalow und Bauwa",
+        "location": "14.06 km | De Höwen 39, Neuruppin, Ostprignitz-Rup",
+        "label": "$$ · 215k · Z04",
+        "rooms": 2,
+        "living_sqm": 65.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/164752793"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8333,
+          52.9291
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-165066770",
+        "price": 150000,
+        "budget_flag": "$",
+        "zone_id": "Z05",
+        "title": "charmantes Bauernhaus mit großen Grundstück",
+        "location": "Wusterhausen/Dosse, Ostprignitz-Ruppin (Kreis)",
+        "label": "$ · 150k · Z05",
+        "rooms": 8,
+        "living_sqm": 250.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/165066770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.722,
+          53.204
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-162974873",
+        "price": 245000,
+        "budget_flag": "$$",
+        "zone_id": "Z04",
+        "title": "Idyllisches Wohnen im Grünen: Großzügig Leben am Waldrand!",
+        "location": "Neuruppin, Ostprignitz-Ruppin (Kreis)",
+        "label": "$$ · 245k · Z04",
+        "rooms": 3,
+        "living_sqm": 109.98,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/162974873"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9782,
+          53.0361
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167655243",
+        "price": 241224,
+        "budget_flag": "$$",
+        "zone_id": "Z05",
+        "title": "Ihr individuell gestaltbares Einfamilienhaus - Flexibilität ",
+        "location": "Heiligengrabe, Ostprignitz-Ruppin (Kreis)",
+        "label": "$$ · 241k · Z05",
+        "rooms": 3,
+        "living_sqm": 119.89,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167655243"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8341,
+          52.9987
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-164277598",
+        "price": 115000,
+        "budget_flag": "$",
+        "zone_id": "Z05",
+        "title": "Historisches Haus für Handwerker innerhalb der alten Stadtma",
+        "location": "Wittstock/Dosse, Ostprignitz-Ruppin (Kreis)",
+        "label": "$ · 115k · Z05",
+        "rooms": 6,
+        "living_sqm": 150.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/164277598"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9047,
+          53.052
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166676259",
+        "price": 48000,
+        "budget_flag": "$",
+        "zone_id": "Z04",
+        "title": "Historisches Haus zur Sanierung und Gestaltung",
+        "location": "Wittstock/Dosse, Ostprignitz-Ruppin (Kreis)",
+        "label": "$ · 48k · Z04",
+        "rooms": 4,
+        "living_sqm": 60.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166676259"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7535,
+          53.1133
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167519364",
+        "price": 90500,
+        "budget_flag": "$",
+        "zone_id": "Z05",
+        "title": "Historischer Dreiseitenhof mit vier Wohneinheiten, Scheune u",
+        "location": "Fürstenberg/Havel, Oberhavel (Kreis)",
+        "label": "$ · 90k · Z05",
+        "rooms": 10,
+        "living_sqm": 428.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167519364"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7487,
+          53.0328
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167509322",
+        "price": 87000,
+        "budget_flag": "$",
+        "zone_id": "Z04",
+        "title": "Top-Lage in erster Reihe, nur ca. 100 m zum Bootsliegeplatz",
+        "location": "15.73 km | In`n Urt 7, Schwarz, Mecklenburgische S",
+        "label": "$ · 87k · Z04",
+        "rooms": 2,
+        "living_sqm": 36.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167509322"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7341,
+          53.1006
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167482398",
+        "price": 94000,
+        "budget_flag": "$",
+        "zone_id": "Z05",
+        "title": "Dorfrandlage mit freien Blick in die Natur, kleine Doppelhau",
+        "location": "Wittstock/Dosse, Ostprignitz-Ruppin (Kreis)",
+        "label": "$ · 94k · Z05",
+        "rooms": 4,
+        "living_sqm": 90.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167482398"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0652,
+          53.1041
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167450522",
+        "price": 233890,
+        "budget_flag": "$$",
+        "zone_id": "Z04",
+        "title": "Dein Zuhause, so individuell wie du.",
+        "location": "Mirow, Mecklenburgische Seenplatte (Kreis)",
+        "label": "$$ · 233k · Z04",
+        "rooms": 3,
+        "living_sqm": 122.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167450522"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9578,
+          52.9737
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167438799",
+        "price": 85000,
+        "budget_flag": "$",
+        "zone_id": "Z05",
+        "title": "Bootshaus am Classee mit Wohnraum",
+        "location": "Rechlin, Mecklenburgische Seenplatte (Kreis)",
+        "label": "$ · 85k · Z05",
+        "rooms": 1,
+        "living_sqm": 33.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167438799"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0428,
+          53.0438
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167367870",
+        "price": 90000,
+        "budget_flag": "$",
+        "zone_id": "Z04",
+        "title": "Vielseitig nutzbarer Bungalow auf schönem Grundstück in Gran",
+        "location": "Gransee, Oberhavel (Kreis)",
+        "label": "$ · 90k · Z04",
+        "rooms": 3,
+        "living_sqm": 50.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167367870"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8627,
+          53.0022
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167223071",
+        "price": 195000,
+        "budget_flag": "$",
+        "zone_id": "Z05",
+        "title": "LÄNDLICH LEBEN MIT FREIRAUM",
+        "location": "Großwoltersdorf, Oberhavel (Kreis)",
+        "label": "$ · 195k · Z05",
+        "rooms": 5,
+        "living_sqm": 120.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167223071"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7776,
+          53.2484
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167147619",
+        "price": 155000,
+        "budget_flag": "$",
+        "zone_id": "Z04",
+        "title": "Ferienhaus am Useriner See im Müritz Nationalpark",
+        "location": "27.48 km | Am Bauernberg 19, Userin, Mecklenburgis",
+        "label": "$ · 155k · Z04",
+        "rooms": 4,
+        "living_sqm": 63.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167147619"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6778,
+          52.9709
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167128997",
+        "price": 175000,
+        "budget_flag": "$",
+        "zone_id": "Z05",
+        "title": "Naturgenuss: Einfamilienhaus im Bungalowstil mit großem Gart",
+        "location": "Mirow, Mecklenburgische Seenplatte (Kreis)",
+        "label": "$ · 175k · Z05",
+        "rooms": 3,
+        "living_sqm": 103.29,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167128997"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7777,
+          53.232
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-162521069",
+        "price": 199000,
+        "budget_flag": "$",
+        "zone_id": "Z04",
+        "title": "Charmantes Einfamilienhaus mit großem Potenzial – ideal für ",
+        "location": "Gransee, Oberhavel (Kreis)",
+        "label": "$ · 199k · Z04",
+        "rooms": 4,
+        "living_sqm": 100.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/162521069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9379,
+          53.0075
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167042451",
+        "price": 140000,
+        "budget_flag": "$",
+        "zone_id": "Z05",
+        "title": "Gepflegtes gemütliches Ferienhaus Typ Möwe in der Mecklenbur",
+        "location": "Mirow, Mecklenburgische Seenplatte (Kreis)",
+        "label": "$ · 140k · Z05",
+        "rooms": 3,
+        "living_sqm": 64.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167042451"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9564,
+          53.0403
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-164692367",
+        "price": 249000,
+        "budget_flag": "$$",
+        "zone_id": "Z04",
+        "title": "Ferienhaus hochwertig modernisiert inkl. zwei Premium-Elektr",
+        "location": "23.36 km | Seeschwalbenstraße 132, Mirow, Mecklenb",
+        "label": "$$ · 249k · Z04",
+        "rooms": 4,
+        "living_sqm": 81.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/164692367"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9543,
+          52.8149
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-160206737",
+        "price": 219000,
+        "budget_flag": "$$",
+        "zone_id": "Z05",
+        "title": "FERIENHAUS AN DER SEEPROMENADE IN MIROW ++ NEUER PREIS  ++",
+        "location": "23.34 km | Seepromenade 4, Mirow, Mecklenburgische",
+        "label": "$$ · 219k · Z05",
+        "rooms": 3,
+        "living_sqm": 70.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/160206737"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0629,
+          53.2477
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-161888212",
+        "price": 65000,
+        "budget_flag": "$",
+        "zone_id": "Z04",
+        "title": "Charmantes Backsteinhaus - 360° Rundgang - kleines Handwerke",
+        "location": "Wusterhausen/Dosse, Ostprignitz-Ruppin (Kreis)",
+        "label": "$ · 65k · Z04",
+        "rooms": null,
+        "living_sqm": 98.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/161888212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6225,
+          52.9331
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-158064246",
+        "price": 99000,
+        "budget_flag": "$",
+        "zone_id": "Z05",
+        "title": "Sanierungsobjekt zum Ein- oder Zweifamilienhaus mit großem G",
+        "location": "Temnitztal, Ostprignitz-Ruppin (Kreis)",
+        "label": "$ · 99k · Z05",
+        "rooms": 6,
+        "living_sqm": 151.6,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/158064246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5701,
+          52.253
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167452804",
+        "price": 249900,
+        "budget_flag": "$$",
+        "zone_id": "Z09",
+        "title": "Ein Zuhause mit Seele: historisches Schuldirektorenhaus im i",
+        "location": "Straach, Wittenberg (Kreis)",
+        "label": "$$ · 249k · Z09",
+        "rooms": 7,
+        "living_sqm": 200.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167452804"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6939,
+          52.2356
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166855673",
+        "price": 145000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Vierseithof mit Schmiede, Backofen und viel mehr...",
+        "location": "Treuenbrietzen, Potsdam-Mittelmark (Kreis)",
+        "label": "$ · 145k · Z09",
+        "rooms": 6,
+        "living_sqm": 150.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166855673"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6827,
+          52.2273
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167648521",
+        "price": 157000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Einfamilienhaus mit Remise",
+        "location": "9.88 km | Grünstraße XXX, Niemegk, Potsdam-Mittelm",
+        "label": "$ · 157k · Z09",
+        "rooms": 3,
+        "living_sqm": 119.45,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167648521"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.554,
+          51.9366
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167648498",
+        "price": 192000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Einfamilienhaus nebst Garage",
+        "location": "25.79 km | Schulstraße XXX, Ziesar, Potsdam-Mittel",
+        "label": "$ · 192k · Z09",
+        "rooms": 3,
+        "living_sqm": 137.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167648498"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.548,
+          51.933
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167646480",
+        "price": 225500,
+        "budget_flag": "$$",
+        "zone_id": "Z09",
+        "title": "Großzügiges Familiendomizil mit 8 Zimmern  – Einfamilienhaus",
+        "location": "Lutherstadt Wittenberg, Wittenberg (Kreis)",
+        "label": "$$ · 225k · Z09",
+        "rooms": 8,
+        "living_sqm": 220.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167646480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3756,
+          52.1196
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166860178",
+        "price": 69500,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Gemütliches Ferienhaus in Seenähe von Kloster Lehnin – ideal",
+        "location": "29.3 km | Sperlingsweg 16, Kloster Lehnin, Potsdam",
+        "label": "$ · 69k · Z09",
+        "rooms": 3,
+        "living_sqm": 46.43,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166860178"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.664,
+          52.107
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166870131",
+        "price": 99000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Provisionsfrei! Viel Platz für Ihre Wohnideen – Haus mit Pot",
+        "location": "Ziesar, Potsdam-Mittelmark (Kreis)",
+        "label": "$ · 99k · Z09",
+        "rooms": 15,
+        "living_sqm": 308.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166870131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4734,
+          52.018
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167072800",
+        "price": 145000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Rückzugsort am Klostersee - Ferienhaus mit Wintergarten und ",
+        "location": "Kloster Lehnin, Potsdam-Mittelmark (Kreis)",
+        "label": "$ · 145k · Z09",
+        "rooms": 4,
+        "living_sqm": 82.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167072800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7031,
+          52.2482
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-152684626",
+        "price": 249000,
+        "budget_flag": "$$",
+        "zone_id": "Z09",
+        "title": "Großes Einfamilienhaus mit Anbau, Nebengebäude und Gewerbefl",
+        "location": "Straach, Wittenberg (Kreis)",
+        "label": "$$ · 249k · Z09",
+        "rooms": 7,
+        "living_sqm": 203.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/152684626"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6944,
+          52.0425
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-159196335",
+        "price": 195000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Historisches Mehrfamilienhaus mit ca. 930 m² Nutzfläche und ",
+        "location": "Niemegk, Potsdam-Mittelmark (Kreis)",
+        "label": "$ · 195k · Z09",
+        "rooms": 14,
+        "living_sqm": 510.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/159196335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5478,
+          52.1471
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167625307",
+        "price": 97000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Gepflegtes Einfamilienhaus in Coswig (Anhalt) zu verkaufen",
+        "location": "24.56 km | Ackerstraße 3, Coswig (Anhalt), Wittenb",
+        "label": "$ · 97k · Z09",
+        "rooms": 4,
+        "living_sqm": 110.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167625307"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6316,
+          51.9796
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167601815",
+        "price": 72000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "großes Einfamilienhaus in Coswig (Anhalt) OT Thießen - in ru",
+        "location": "Thießen, Wittenberg (Kreis)",
+        "label": "$ · 72k · Z09",
+        "rooms": 5,
+        "living_sqm": 130.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167601815"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4446,
+          52.1102
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166110922",
+        "price": 105000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Einfamilienhaus mit vielseitigem Gestaltungspotenzial",
+        "location": "Nedlitz, Anhalt-Bitterfeld (Kreis)",
+        "label": "$ · 105k · Z09",
+        "rooms": 7,
+        "living_sqm": 120.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166110922"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7151,
+          52.1121
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167470619",
+        "price": 159000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "IMMOBERLIN.DE - Sehr großes Entwicklungspotenzial! Charakter",
+        "location": "Buckautal, Potsdam-Mittelmark (Kreis)",
+        "label": "$ · 159k · Z09",
+        "rooms": 8,
+        "living_sqm": 300.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167470619"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6402,
+          52.1861
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167437794",
+        "price": 27500,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "½ Anteil - Wohn- und Geschäftshaus",
+        "location": "22.43 km | Sebastian-Bach-Straße xxxx, Lutherstadt",
+        "label": "$ · 27k · Z09",
+        "rooms": 3,
+        "living_sqm": 1.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167437794"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4956,
+          52.0043
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167433169",
+        "price": 150000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Freistehendes Mehrfamilienhaus mit Nebengebäude",
+        "location": "29.36 km | Dabruner Dorfstraße xxxx, Lutherstadt W",
+        "label": "$ · 150k · Z09",
+        "rooms": 8,
+        "living_sqm": 194.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167433169"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3991,
+          52.0056
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167431839",
+        "price": 157000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Einfamilienhaus mit Remise",
+        "location": "9.88 km | Grünstraße xxxx, Niemegk, Potsdam-Mittel",
+        "label": "$ · 157k · Z09",
+        "rooms": 3,
+        "living_sqm": 119.45,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167431839"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.453,
+          51.9457
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167431786",
+        "price": 192000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Einfamilienhaus nebst Garage",
+        "location": "25.79 km | Schulstraße xxxx, Ziesar, Potsdam-Mitte",
+        "label": "$ · 192k · Z09",
+        "rooms": 3,
+        "living_sqm": 137.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167431786"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6468,
+          51.9293
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166696550",
+        "price": 214000,
+        "budget_flag": "$$",
+        "zone_id": "Z09",
+        "title": "Weitläufiges Traumhaus : Entdecken Sie überraschend viel Pla",
+        "location": "Treuenbrietzen, Potsdam-Mittelmark (Kreis)",
+        "label": "$$ · 214k · Z09",
+        "rooms": 5,
+        "living_sqm": 86.53,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166696550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6839,
+          52.1188
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166918281",
+        "price": 149500,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Provisionsfrei: Gepflegtes EFH mit Kamin, Garage & Garten - ",
+        "location": "25.71 km | Thomas-Mann-Straße 15, Lutherstadt Witt",
+        "label": "$ · 149k · Z09",
+        "rooms": 4,
+        "living_sqm": 95.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166918281"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.452,
+          52.2465
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166213593",
+        "price": 195000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Einfamilienhaus mit großem Grundstück, Nebengelass, Werkstat",
+        "location": "Lutherstadt Wittenberg, Wittenberg (Kreis)",
+        "label": "$ · 195k · Z09",
+        "rooms": 5,
+        "living_sqm": 120.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166213593"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4482,
+          52.001
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-161711459",
+        "price": 190000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Rustikaler Charme - Traditioneller Bauernhof mit Platz",
+        "location": "Niedergörsdorf, Teltow-Fläming (Kreis)",
+        "label": "$ · 190k · Z09",
+        "rooms": 6,
+        "living_sqm": 220.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/161711459"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3815,
+          51.9561
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-165964932",
+        "price": 199000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "freistehendes Haus in Roßlau",
+        "location": "Roßlau, Dessau-Roßlau",
+        "label": "$ · 199k · Z09",
+        "rooms": 7,
+        "living_sqm": 123.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/165964932"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4366,
+          52.0083
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-165062729",
+        "price": 175000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Familienheim mit Ausbaureserve",
+        "location": "Meinsdorf, Dessau-Roßlau",
+        "label": "$ · 175k · Z09",
+        "rooms": 5,
+        "living_sqm": 118.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/165062729"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7135,
+          52.0945
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166738216",
+        "price": 133000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Entkerntes EFH in Stadtrandlage, ideal für Handwerker oder S",
+        "location": "Brück, Potsdam-Mittelmark (Kreis)",
+        "label": "$ · 133k · Z09",
+        "rooms": 5,
+        "living_sqm": 139.44,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166738216"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4608,
+          52.2739
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166605786",
+        "price": 118000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Gestaltungstraum in Wittenberg-Reinsdorf – freistehende Stad",
+        "location": "Lutherstadt Wittenberg, Wittenberg (Kreis)",
+        "label": "$ · 118k · Z09",
+        "rooms": 5,
+        "living_sqm": 140.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166605786"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4939,
+          51.9981
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-160581454",
+        "price": 199000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Grundstück mit Doppelhaushälfte in Treuenbrietzen sucht neue",
+        "location": "Treuenbrietzen, Potsdam-Mittelmark (Kreis)",
+        "label": "$ · 199k · Z09",
+        "rooms": 5,
+        "living_sqm": 138.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/160581454"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5646,
+          52.1879
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167213343",
+        "price": 150000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Zweifamilienhaus mit idyllischem Grundstück und idealer Verk",
+        "location": "Lutherstadt Wittenberg, Wittenberg (Kreis)",
+        "label": "$ · 150k · Z09",
+        "rooms": 8,
+        "living_sqm": 178.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167213343"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4769,
+          52.1551
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-165665015",
+        "price": 120000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Einfamilienwohnhaus in Zahna , teilmodernisiert mit Nebengel",
+        "location": "Zahna, Wittenberg (Kreis)",
+        "label": "$ · 120k · Z09",
+        "rooms": 5,
+        "living_sqm": 150.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/165665015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3792,
+          52.2704
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167095275",
+        "price": 205000,
+        "budget_flag": "$$",
+        "zone_id": "Z09",
+        "title": "Wohnen mit viel Platz im Herzen der Gemeinde Niedergörsdorf",
+        "location": "Niedergörsdorf, Teltow-Fläming (Kreis)",
+        "label": "$$ · 205k · Z09",
+        "rooms": 6,
+        "living_sqm": 165.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167095275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6804,
+          52.2293
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167117250",
+        "price": 190000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Schönes Haus mit viel Nebengelass",
+        "location": "Kloster Lehnin, Potsdam-Mittelmark (Kreis)",
+        "label": "$ · 190k · Z09",
+        "rooms": 3,
+        "living_sqm": 80.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167117250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4581,
+          51.9944
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166370812",
+        "price": 129000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Eigenheim mit Charme und Potenzial",
+        "location": "Kloster Lehnin, Potsdam-Mittelmark (Kreis)",
+        "label": "$ · 129k · Z09",
+        "rooms": 4,
+        "living_sqm": 96.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166370812"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5016,
+          52.1596
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166980344",
+        "price": 199000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Familienfreundliches Einfamilienhaus mit 6 Zimmern, schönem ",
+        "location": "Coswig (Anhalt), Wittenberg (Kreis)",
+        "label": "$ · 199k · Z09",
+        "rooms": 6,
+        "living_sqm": 140.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166980344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3818,
+          51.9469
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166209887",
+        "price": 235000,
+        "budget_flag": "$$",
+        "zone_id": "Z09",
+        "title": "Landlust pur –  Einfamilienhaus zum Wohlfühlen",
+        "location": "Kloster Lehnin, Potsdam-Mittelmark (Kreis)",
+        "label": "$$ · 235k · Z09",
+        "rooms": null,
+        "living_sqm": 110.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166209887"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6568,
+          52.1404
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-164289172",
+        "price": 249000,
+        "budget_flag": "$$",
+        "zone_id": "Z09",
+        "title": "Wohnen am Waldrand – Gepflegtes Einfamilienhaus mit großem P",
+        "location": "Treuenbrietzen, Potsdam-Mittelmark (Kreis)",
+        "label": "$$ · 249k · Z09",
+        "rooms": 4,
+        "living_sqm": 94.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/164289172"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3835,
+          51.9681
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-165069649",
+        "price": 190000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Einfamilienhaus im Bungalowstil in ruhiger Lage",
+        "location": "Zerbst/Anhalt, Anhalt-Bitterfeld (Kreis)",
+        "label": "$ · 190k · Z09",
+        "rooms": 5,
+        "living_sqm": 127.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/165069649"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4364,
+          52.1087
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167043763",
+        "price": 89000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Einfamilienhaus in idyllischer Randlage von Dessau-Roßlau OT",
+        "location": "Streetz/Natho, Dessau-Roßlau",
+        "label": "$ · 89k · Z09",
+        "rooms": 4,
+        "living_sqm": 110.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167043763"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5489,
+          52.1389
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-165770790",
+        "price": 199000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Vermietete Doppelhaushälfte auf eigener Scholle – Kapitalanl",
+        "location": "Neustadt, Brandenburg an der Havel",
+        "label": "$ · 199k · Z09",
+        "rooms": 3,
+        "living_sqm": 82.41,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/165770790"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5157,
+          52.1187
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-159659142",
+        "price": 85000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Haus mit Potenzial in Handwerkerhände abzugeben in Coswig, O",
+        "location": "Hundeluft, Wittenberg (Kreis)",
+        "label": "$ · 85k · Z09",
+        "rooms": 4,
+        "living_sqm": 87.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/159659142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3809,
+          51.9691
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-164840119",
+        "price": 129000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Der Neustart für Mutige : Wohnen + Pension + Gewerbehalle + ",
+        "location": "Thießen, Wittenberg (Kreis)",
+        "label": "$ · 129k · Z09",
+        "rooms": 11,
+        "living_sqm": 305.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/164840119"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3765,
+          52.2677
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167050710",
+        "price": 45000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Wohnen am Wörlitzer Park",
+        "location": "29.8 km | Wörlitzer Markt 8, Wörlitz, Wittenberg (",
+        "label": "$ · 45k · Z09",
+        "rooms": 8,
+        "living_sqm": 174.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167050710"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6695,
+          52.0657
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167278414",
+        "price": 234000,
+        "budget_flag": "$$",
+        "zone_id": "Z09",
+        "title": "Platz für Familie und tierische Freunde - Einfamilienhaus mi",
+        "location": "Kloster Lehnin, Potsdam-Mittelmark (Kreis)",
+        "label": "$$ · 234k · Z09",
+        "rooms": 4,
+        "living_sqm": 122.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167278414"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4188,
+          52.0767
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167650928",
+        "price": 100000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Entkernter Vierseitenhof mit Baugrundstück",
+        "location": "Mühlstedt, Dessau-Roßlau",
+        "label": "$ · 100k · Z09",
+        "rooms": 1,
+        "living_sqm": 150.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167650928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4555,
+          52.0087
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167240327",
+        "price": 53800,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Grundstück in Wiesenburg/Mark mit 450 m² Fläche",
+        "location": "11.1 km | Setzsteig 50, Wiesenburg/Mark, Potsdam-M",
+        "label": "$ · 53k · Z09",
+        "rooms": 2,
+        "living_sqm": 50.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167240327"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4562,
+          52.2538
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167630851",
+        "price": 151000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Einfamilienhaus mit Charakter und großem Potenzial zur indiv",
+        "location": "Lutherstadt Wittenberg, Wittenberg (Kreis)",
+        "label": "$ · 151k · Z09",
+        "rooms": 4,
+        "living_sqm": 118.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167630851"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4154,
+          52.2761
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167630850",
+        "price": 140000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Naturgrundstück mit Bungalow und Teich – großes Areal mit vi",
+        "location": "Möllensdorf, Wittenberg (Kreis)",
+        "label": "$ · 140k · Z09",
+        "rooms": 3,
+        "living_sqm": 80.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167630850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5888,
+          52.1898
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167066099",
+        "price": 35000,
+        "budget_flag": "$",
+        "zone_id": "Z09",
+        "title": "Waldgrundstück mit Bestandsgebäude in Borkheide 799 m² Nähe ",
+        "location": "24.44 km | Auf der Heide 60, Borkheide, Potsdam-Mi",
+        "label": "$ · 35k · Z09",
+        "rooms": 3,
+        "living_sqm": 35.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167066099"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4579,
+          52.7469
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-162672873",
+        "price": 259000,
+        "budget_flag": "$$$",
+        "zone_id": "Z16",
+        "title": "Ein großes Einfamilienhaus mit teilweisem Sanierungsbedarf u",
+        "location": "9.5 km | Schulstraße 4, Biesenthal, Barnim (Kreis)",
+        "label": "$$$ · 259k · Z16",
+        "rooms": 6,
+        "living_sqm": 180.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/162672873"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4833,
+          52.9921
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167647981",
+        "price": 259000,
+        "budget_flag": "$$$",
+        "zone_id": "Z16",
+        "title": "Wochenendhäuschen mit überdachter Terrasse",
+        "location": "21.91 km | Händelstraße XXX, Panketal, Barnim (Kre",
+        "label": "$$$ · 259k · Z16",
+        "rooms": 2,
+        "living_sqm": 25.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167647981"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4477,
+          52.79
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167517375",
+        "price": 195000,
+        "budget_flag": "$",
+        "zone_id": "Z16",
+        "title": "Bezugsfreies Wohn- und Geschäftshaus im Herzen von Biesentha",
+        "location": "Biesenthal, Barnim (Kreis)",
+        "label": "$ · 195k · Z16",
+        "rooms": 7,
+        "living_sqm": 140.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167517375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6968,
+          52.9638
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167646378",
+        "price": 115000,
+        "budget_flag": "$",
+        "zone_id": "Z16",
+        "title": "Ganzjähriges Feriendomizil am Grimnitzsee – naturnah und erh",
+        "location": "Joachimsthal, Barnim (Kreis)",
+        "label": "$ · 115k · Z16",
+        "rooms": 3,
+        "living_sqm": 40.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167646378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6832,
+          53.0083
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167620485",
+        "price": 220000,
+        "budget_flag": "$$",
+        "zone_id": "Z16",
+        "title": "IMMOBERLIN.DE - Sympathisches Haus mit Gestaltungspotenzial ",
+        "location": "Schorfheide, Barnim (Kreis)",
+        "label": "$$ · 220k · Z16",
+        "rooms": 4,
+        "living_sqm": 120.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167620485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4684,
+          52.6884
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166583464",
+        "price": 249000,
+        "budget_flag": "$$",
+        "zone_id": "Z16",
+        "title": "Ein zu renovierendes ehemaliges Bauernhaus in guter Ortslage",
+        "location": "14.32 km | Dorfstraße 11, Rüdnitz, Barnim (Kreis)",
+        "label": "$$ · 249k · Z16",
+        "rooms": 7,
+        "living_sqm": 210.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166583464"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6525,
+          52.9866
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-154110047",
+        "price": 160000,
+        "budget_flag": "$",
+        "zone_id": "Z16",
+        "title": "Lage, Dorfrandlage, Traumlage – Einfamilienhaus in Klandorf ",
+        "location": "2.74 km | Marienwerderweg 15, Schorfheide, Barnim ",
+        "label": "$ · 160k · Z16",
+        "rooms": 4,
+        "living_sqm": 90.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/154110047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5994,
+          52.8437
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167437690",
+        "price": 141000,
+        "budget_flag": "$",
+        "zone_id": "Z16",
+        "title": "Platz für 2 Generationen - Wohnhaus mit 2 Wohnungen",
+        "location": "15.63 km | Handelsstraße xxxx, Chorin, Barnim (Kre",
+        "label": "$ · 141k · Z16",
+        "rooms": 7,
+        "living_sqm": 174.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167437690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4233,
+          52.8168
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167430389",
+        "price": 259000,
+        "budget_flag": "$$$",
+        "zone_id": "Z16",
+        "title": "Wochenendhäuschen mit überdachter Terrasse",
+        "location": "21.91 km | Händelstraße xxxx, Panketal, Barnim (Kr",
+        "label": "$$$ · 259k · Z16",
+        "rooms": 2,
+        "living_sqm": 25.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167430389"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7737,
+          52.8469
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167426357",
+        "price": 299000,
+        "budget_flag": "$$$",
+        "zone_id": "Z16",
+        "title": "IMMOBERLIN.DE - Charmantes Haus mit Sonnenterrasse & Garage ",
+        "location": "Löwenberger Land, Oberhavel (Kreis)",
+        "label": "$$$ · 299k · Z16",
+        "rooms": 3,
+        "living_sqm": 76.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167426357"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.58,
+          52.9881
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166952154",
+        "price": 289000,
+        "budget_flag": "$$$",
+        "zone_id": "Z16",
+        "title": "Charmantes Einfamilienhaus sofort bezugsfertig",
+        "location": "Wandlitz, Barnim (Kreis)",
+        "label": "$$$ · 289k · Z16",
+        "rooms": 3,
+        "living_sqm": 68.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166952154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6263,
+          52.8345
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-161794353",
+        "price": 271000,
+        "budget_flag": "$$$",
+        "zone_id": "Z16",
+        "title": "***Aus Alt mach Wow: Ihr neues Zuhause nahe Campus",
+        "location": "Panketal, Barnim (Kreis)",
+        "label": "$$$ · 271k · Z16",
+        "rooms": 4,
+        "living_sqm": 70.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/161794353"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6104,
+          52.9837
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-165324051",
+        "price": 299999,
+        "budget_flag": "$$$",
+        "zone_id": "Z16",
+        "title": "Moderne Doppelhaushälfte mit Wohlfühlfaktor – Stilvoll, Komf",
+        "location": "Oranienburg, Oberhavel (Kreis)",
+        "label": "$$$ · 299k · Z16",
+        "rooms": 3,
+        "living_sqm": 88.7,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/165324051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4363,
+          52.6899
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167329687",
+        "price": 298000,
+        "budget_flag": "$$$",
+        "zone_id": "Z16",
+        "title": "Modernisiertes 5-Zimmer-Einfamilienhaus mit Garten, Garage &",
+        "location": "Liebenwalde, Oberhavel (Kreis)",
+        "label": "$$$ · 298k · Z16",
+        "rooms": 5,
+        "living_sqm": 108.07,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167329687"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7306,
+          52.8532
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-165057897",
+        "price": 250000,
+        "budget_flag": "$$",
+        "zone_id": "Z16",
+        "title": "Zerpenschleuse - Möbliertes  Haus mit Bootsliegeplatz - Selb",
+        "location": "Wandlitz, Barnim (Kreis)",
+        "label": "$$ · 250k · Z16",
+        "rooms": 3,
+        "living_sqm": 79.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/165057897"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5006,
+          52.926
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166975048",
+        "price": 215000,
+        "budget_flag": "$$",
+        "zone_id": "Z16",
+        "title": "Sanierungsbedürftiges Einfamilienhaus mit 845 m² Grundstück ",
+        "location": "Eberswalde, Barnim (Kreis)",
+        "label": "$$ · 215k · Z16",
+        "rooms": 3,
+        "living_sqm": 110.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166975048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7363,
+          52.9839
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167090909",
+        "price": 299000,
+        "budget_flag": "$$$",
+        "zone_id": "Z16",
+        "title": "IMMOBERLIN.DE - Charmantes Haus mit Sonnenterrasse & Garage ",
+        "location": "Löwenberger Land, Oberhavel (Kreis)",
+        "label": "$$$ · 299k · Z16",
+        "rooms": 3,
+        "living_sqm": 76.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167090909"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6278,
+          52.8527
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167071563",
+        "price": 250000,
+        "budget_flag": "$$",
+        "zone_id": "Z16",
+        "title": "Nahe der Briese und dem Briesesee: Sanierungsbedürftiges Ein",
+        "location": "Birkenwerder, Oberhavel (Kreis)",
+        "label": "$$ · 250k · Z16",
+        "rooms": 3,
+        "living_sqm": 60.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167071563"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4872,
+          52.874
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-162140259",
+        "price": 280000,
+        "budget_flag": "$$$",
+        "zone_id": "Z16",
+        "title": "Einfamilienhaus mit Pool zu verkaufen",
+        "location": "Bernau bei Berlin, Barnim (Kreis)",
+        "label": "$$$ · 280k · Z16",
+        "rooms": 6,
+        "living_sqm": 185.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/162140259"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7684,
+          52.7737
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166983262",
+        "price": 219000,
+        "budget_flag": "$$",
+        "zone_id": "Z16",
+        "title": "Bezugsfrei: Doppelhaushälfte mit viel Potenzial und großem G",
+        "location": "Bernau bei Berlin, Barnim (Kreis)",
+        "label": "$$ · 219k · Z16",
+        "rooms": 4,
+        "living_sqm": 95.6,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166983262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7439,
+          52.7519
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166945354",
+        "price": 149000,
+        "budget_flag": "$",
+        "zone_id": "Z16",
+        "title": "Zehdenick: Handwerkerobjekt mit 697 m²  GST inkl. Garten, Ga",
+        "location": "Zehdenick, Oberhavel (Kreis)",
+        "label": "$ · 149k · Z16",
+        "rooms": 3,
+        "living_sqm": 78.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166945354"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5103,
+          52.9636
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166190033",
+        "price": 279000,
+        "budget_flag": "$$$",
+        "zone_id": "Z16",
+        "title": "Ruhig gelegenes Grundstück mit sanierungsbedürftigen EFH",
+        "location": "Bernau bei Berlin, Barnim (Kreis)",
+        "label": "$$$ · 279k · Z16",
+        "rooms": 5,
+        "living_sqm": 100.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166190033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5014,
+          52.7396
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166920906",
+        "price": 289000,
+        "budget_flag": "$$$",
+        "zone_id": "Z16",
+        "title": "Einfamilienhaus mit Nebengebäude in ruhiger Lage mit großem ",
+        "location": "Eberswalde, Barnim (Kreis)",
+        "label": "$$$ · 289k · Z16",
+        "rooms": null,
+        "living_sqm": 109.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166920906"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7183,
+          52.929
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167669644",
+        "price": 160000,
+        "budget_flag": "$",
+        "zone_id": "Z16",
+        "title": "Idyllisch gelegenes Baugrundstück am Waldrand mit viel Platz",
+        "location": "Marienwerder, Barnim (Kreis)",
+        "label": "$ · 160k · Z16",
+        "rooms": 2,
+        "living_sqm": 50.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167669644"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6836,
+          52.7682
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167663017",
+        "price": 149000,
+        "budget_flag": "$",
+        "zone_id": "Z16",
+        "title": "Grundstück mit Wochenendhaus in ruhiger Lage von Eberswalde",
+        "location": "Eberswalde, Barnim (Kreis)",
+        "label": "$ · 149k · Z16",
+        "rooms": 2,
+        "living_sqm": 50.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167663017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7715,
+          52.9446
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167657443",
+        "price": 225000,
+        "budget_flag": "$$",
+        "zone_id": "Z16",
+        "title": "***Charmantes Haus in grüner Urlaubsidylle***",
+        "location": "Chorin, Barnim (Kreis)",
+        "label": "$$ · 225k · Z16",
+        "rooms": 3,
+        "living_sqm": 70.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167657443"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4504,
+          52.7434
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167605624",
+        "price": 295000,
+        "budget_flag": "$$$",
+        "zone_id": "Z16",
+        "title": "charmantes Einfamilienhaus mit großem Grundstück und Ausbaur",
+        "location": "Wandlitz, Barnim (Kreis)",
+        "label": "$$$ · 295k · Z16",
+        "rooms": 4,
+        "living_sqm": 96.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167605624"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6954,
+          52.9026
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167594570",
+        "price": 198000,
+        "budget_flag": "$",
+        "zone_id": "Z16",
+        "title": "+++Handwerkerobjekt mit viel Potenzial in Liebenwalde+++",
+        "location": "14.1 km | Ernst-Thälmann-Straße 29, Liebenwalde, O",
+        "label": "$ · 198k · Z16",
+        "rooms": 7,
+        "living_sqm": 256.09,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167594570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.434,
+          52.9814
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167548886",
+        "price": 295000,
+        "budget_flag": "$$$",
+        "zone_id": "Z16",
+        "title": "kleines Haus, großes Grundstück nähe Rahmersee",
+        "location": "Wandlitz, Barnim (Kreis)",
+        "label": "$$$ · 295k · Z16",
+        "rooms": 3,
+        "living_sqm": 55.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167548886"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5238,
+          52.6847
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-164455461",
+        "price": 144673,
+        "budget_flag": "$",
+        "zone_id": "Z16",
+        "title": "Bungalow in Schmachtenhagen - Ost auf Wohnbaufläche",
+        "location": "Oranienburg, Oberhavel (Kreis)",
+        "label": "$ · 144k · Z16",
+        "rooms": 1,
+        "living_sqm": 24.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/164455461"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.748,
+          52.7671
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-158265014",
+        "price": 159999,
+        "budget_flag": "$",
+        "zone_id": "Z16",
+        "title": "Handwerkerobjekt für kreative Köpfe!",
+        "location": "Zehdenick, Oberhavel (Kreis)",
+        "label": "$ · 159k · Z16",
+        "rooms": 7,
+        "living_sqm": 239.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/158265014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7601,
+          52.7764
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166829780",
+        "price": 220000,
+        "budget_flag": "$$",
+        "zone_id": "Z16",
+        "title": "Historischer Dreiseitenhof in Liebenwalde",
+        "location": "14.26 km | Rudolf-Breitscheid-Straße 30, Liebenwal",
+        "label": "$$ · 220k · Z16",
+        "rooms": 1,
+        "living_sqm": 360.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166829780"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.421,
+          52.7087
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166931905",
+        "price": 125000,
+        "budget_flag": "$",
+        "zone_id": "Z16",
+        "title": "Doppelhaushälfte mit kleinem Garten und Nebengelass",
+        "location": "Zehdenick, Oberhavel (Kreis)",
+        "label": "$ · 125k · Z16",
+        "rooms": 4,
+        "living_sqm": 97.86,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166931905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6356,
+          52.7677
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-161885539",
+        "price": 269000,
+        "budget_flag": "$$$",
+        "zone_id": "Z16",
+        "title": "Handwerkerhaus in bester Lage in Panketal/ KFW 261 anwendbar",
+        "location": "22.95 km | Brennerstraße 11, Panketal, Barnim (Kre",
+        "label": "$$$ · 269k · Z16",
+        "rooms": 5,
+        "living_sqm": 110.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/161885539"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4247,
+          52.8494
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167388664",
+        "price": 275000,
+        "budget_flag": "$$$",
+        "zone_id": "Z16",
+        "title": "Aus Alt wird Wert - Ihr Projekt mit Perspektive",
+        "location": "Biesenthal, Barnim (Kreis)",
+        "label": "$$$ · 275k · Z16",
+        "rooms": 2,
+        "living_sqm": 60.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167388664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5025,
+          52.6774
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167307706",
+        "price": 265000,
+        "budget_flag": "$$$",
+        "zone_id": "Z16",
+        "title": "Einfamilienhaus zur Modernisierung in Ladeburg: 5Zi, 124m² W",
+        "location": "Bernau bei Berlin, Barnim (Kreis)",
+        "label": "$$$ · 265k · Z16",
+        "rooms": 5,
+        "living_sqm": 124.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167307706"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7794,
+          52.7128
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-161283744",
+        "price": 220000,
+        "budget_flag": "$$",
+        "zone_id": "Z16",
+        "title": "So könnte Ihr neues Heim aussehen!",
+        "location": "Oranienburg, Oberhavel (Kreis)",
+        "label": "$$ · 220k · Z16",
+        "rooms": 3,
+        "living_sqm": 62.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/161283744"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4869,
+          52.8501
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166990237",
+        "price": 240000,
+        "budget_flag": "$$",
+        "zone_id": "Z16",
+        "title": "Idyllisch gelegen! Bungalow auf sonnigem Waldgrundstück mit ",
+        "location": "Wandlitz, Barnim (Kreis)",
+        "label": "$$ · 240k · Z16",
+        "rooms": 2,
+        "living_sqm": 50.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166990237"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4659,
+          52.7086
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-167075402",
+        "price": 220000,
+        "budget_flag": "$$",
+        "zone_id": "Z16",
+        "title": "Urlaubsfeeling! Ferienhaus Zerpenschleuse",
+        "location": "Wandlitz, Barnim (Kreis)",
+        "label": "$$ · 220k · Z16",
+        "rooms": 3,
+        "living_sqm": 71.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/167075402"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6481,
+          53.0138
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166512787",
+        "price": 190000,
+        "budget_flag": "$",
+        "zone_id": "Z16",
+        "title": "Clever bauen & sparen: Modernes EFH mit großem Eigenleistung",
+        "location": "Melchow, Barnim (Kreis)",
+        "label": "$ · 190k · Z16",
+        "rooms": 4,
+        "living_sqm": 120.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166512787"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7557,
+          53.0255
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166963351",
+        "price": 99000,
+        "budget_flag": "$",
+        "zone_id": "Z16",
+        "title": "Haus für Macher mit Vision...",
+        "location": "Joachimsthal, Barnim (Kreis)",
+        "label": "$ · 99k · Z16",
+        "rooms": 2,
+        "living_sqm": 60.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166963351"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7216,
+          52.996
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166730878",
+        "price": 115000,
+        "budget_flag": "$",
+        "zone_id": "Z16",
+        "title": "Ruhiges Einfamilienhaus mit Nebengelass & Entwicklungspotenz",
+        "location": "Höhenland, Märkisch-Oderland (Kreis)",
+        "label": "$ · 115k · Z16",
+        "rooms": 3,
+        "living_sqm": 79.76,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166730878"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7011,
+          52.9806
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166595850",
+        "price": 165000,
+        "budget_flag": "$",
+        "zone_id": "Z16",
+        "title": "Charmante Doppelhaushälfte mit Potenzial",
+        "location": "Liebenwalde, Oberhavel (Kreis)",
+        "label": "$ · 165k · Z16",
+        "rooms": 4,
+        "living_sqm": 100.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166595850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5555,
+          52.7773
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166554218",
+        "price": 149000,
+        "budget_flag": "$",
+        "zone_id": "Z16",
+        "title": "Einfamilienhaus zur vollständigen Sanierung in Bernau-Birkho",
+        "location": "Bernau bei Berlin, Barnim (Kreis)",
+        "label": "$ · 149k · Z16",
+        "rooms": 3,
+        "living_sqm": 95.66,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166554218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7441,
+          52.7814
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166530267",
+        "price": 198800,
+        "budget_flag": "$",
+        "zone_id": "Z16",
+        "title": "Reserviert - Wohnen und Vermieten möglich – DHH mit separate",
+        "location": "Oranienburg, Oberhavel (Kreis)",
+        "label": "$ · 198k · Z16",
+        "rooms": 4,
+        "living_sqm": 98.4,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166530267"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7375,
+          52.8433
+        ]
+      },
+      "properties": {
+        "listing_id": "IS24-166511667",
+        "price": 199000,
+        "budget_flag": "$",
+        "zone_id": "Z16",
+        "title": "Sanierungsbedürftiger Hof mit Haus, 2 Scheunen und Wiesenlan",
+        "location": "Schorfheide, Barnim (Kreis)",
+        "label": "$ · 199k · Z16",
+        "rooms": 5,
+        "living_sqm": 94.0,
+        "date_scraped": "2026-05-12",
+        "source": "IS24",
+        "url": "https://www.immobilienscout24.de/expose/166511667"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.72727,
+          52.96602
+        ]
+      },
+      "properties": {
+        "kompass_id": "KP-0001",
+        "name": "Joachimsthal EFH — €150k",
+        "note": "EFH freistehend, 70m², 672m² plot, 1960, Z16 Schorfheide",
+        "zone": "Z16",
+        "source": "IS24_memo23_J011v3",
+        "url": "https://www.immobilienscout24.de/expose/167686124",
+        "date": "2026-05-12",
+        "status": "pending_review"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.28812,
+          52.52322
+        ]
+      },
+      "properties": {
+        "kompass_id": "KP-0002",
+        "name": "Nennhausen EFH — €235k",
+        "note": "EFH freistehend, 109m², 3149m² plot, 1989, Havelland (outside active zones)",
+        "zone": "D",
+        "source": "IS24_memo23_J011v3",
+        "url": "https://www.immobilienscout24.de/expose/167477178",
+        "date": "2026-05-12",
+        "status": "pending_review"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.28812,
+          52.52322
+        ]
+      },
+      "properties": {
+        "kompass_id": "KP-0003",
+        "name": "Kotzen EFH — €69k",
+        "note": "EFH 1890, 90m², 650m² plot + Baugrundstück, Havelland (outside active zones)",
+        "zone": "D",
+        "source": "IS24_memo23_J011v3",
+        "url": "https://www.immobilienscout24.de/expose/167683823",
+        "date": "2026-05-12",
+        "status": "pending_review"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.27927,
+          52.18442
+        ]
+      },
+      "properties": {
+        "kompass_id": "KP-0006",
+        "name": "Rietz-Neuendorf EFH — €50k",
+        "note": "EFH 1920, 97m², 16724m² plot, Oder-Spree, foreclosure likely",
+        "zone": "B",
+        "source": "IS24_memo23_J011v3",
+        "url": "https://www.immobilienscout24.de/expose/167679383",
+        "date": "2026-05-12",
+        "status": "pending_review"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28507,
+          53.06066
+        ]
+      },
+      "properties": {
+        "kompass_id": "KP-0009",
+        "name": "Fürstenberg/Havel EFH — €179k",
+        "note": "EFH freistehend, 865m² plot, Z02 Uckermark-West, lakeside town",
+        "zone": "Z02",
+        "source": "IS24_memo23_J011v3",
+        "url": "https://www.immobilienscout24.de/expose/167676197",
+        "date": "2026-05-12",
+        "status": "pending_review"
+      }
+    }
+  ]
+}
