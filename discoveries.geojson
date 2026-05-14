@@ -1,7 +1,6 @@
 {
   "type": "FeatureCollection",
   "name": "KOMPASS Discoveries",
-  "description": "Pipeline survivors from J-019 onward. J-008 pins archived to discoveries_j008_archive.geojson.",
   "features": [
     {
       "type": "Feature",
@@ -5292,6 +5291,78 @@
         "karte_score": 6.95,
         "is24_link": "https://www.immobilienscout24.de/expose/167269559",
         "source": "J-020",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8993979,
+          53.1093459
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0045",
+        "title": "Rheinsberg — €230.000",
+        "price": 230000,
+        "plot_sqm": 2696,
+        "score": 4.0,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "zone_id": "Z04",
+        "zone_name": "Rheinsberger Seenland",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/af0d848f-53f8-4da0-b41a-f6453c6ababd",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8135811,
+          53.1310211
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0044",
+        "title": "Rheinsberg Kagar — €179.000",
+        "price": 179000,
+        "plot_sqm": 1090,
+        "score": 3.9,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "zone_id": "Z04",
+        "zone_name": "Rheinsberger Seenland",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/c4e5e643-79d4-452f-afc2-a653269b16b6",
+        "run_date": "2026-05-14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7523372,
+          53.1513059
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0037",
+        "title": "Rheinsberg — €493.620",
+        "price": 493620,
+        "plot_sqm": 875,
+        "score": 5.2,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "zone_id": "Z04",
+        "zone_name": "Rheinsberger Seenland",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/f06d223a-e913-4e13-8780-3f2f8d6d65ce",
         "run_date": "2026-05-14"
       }
     }
