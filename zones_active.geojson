@@ -1,0 +1,348 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.3,
+              53.1
+            ],
+            [
+              14.3,
+              53.7
+            ],
+            [
+              13.7,
+              53.7
+            ],
+            [
+              13.7,
+              53.1
+            ],
+            [
+              14.3,
+              53.1
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "Z01",
+        "name": "Uckermark-Kernland",
+        "landkreis": "Uckermark",
+        "karte_score": 7.65,
+        "tag": "active",
+        "tag_display": "🟢 Active",
+        "landrat": "Karina Dörk",
+        "party": "CDU",
+        "party_colour": "#000000",
+        "political_note": "Re-elected Apr 2025, beat AfD 60%",
+        "fill": "#22c55e",
+        "fill-opacity": 0.15,
+        "stroke": "#000000",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8,
+        "label": "Z01 • Uckermark-Kernland • CDU",
+        "note": "Eastern Uckermark around Prenzlau, Angermünde, Templin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.7,
+              52.9
+            ],
+            [
+              13.7,
+              53.3
+            ],
+            [
+              13.1,
+              53.3
+            ],
+            [
+              13.1,
+              52.9
+            ],
+            [
+              13.7,
+              52.9
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "Z02",
+        "name": "Uckermark-West",
+        "landkreis": "Uckermark",
+        "karte_score": 7.2,
+        "tag": "active",
+        "tag_display": "🟢 Active",
+        "landrat": "Karina Dörk",
+        "party": "CDU",
+        "party_colour": "#000000",
+        "political_note": "Re-elected Apr 2025, beat AfD 60%",
+        "fill": "#22c55e",
+        "fill-opacity": 0.15,
+        "stroke": "#000000",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8,
+        "label": "Z02 • Uckermark-West • CDU",
+        "note": "Western Uckermark around Templin, Boitzenburger Land"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.1,
+              53.0
+            ],
+            [
+              13.1,
+              53.3
+            ],
+            [
+              12.4,
+              53.3
+            ],
+            [
+              12.4,
+              53.0
+            ],
+            [
+              13.1,
+              53.0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "Z04",
+        "name": "Rheinsberger Seenland",
+        "landkreis": "Ostprignitz-Ruppin",
+        "karte_score": 7.5,
+        "tag": "active",
+        "tag_display": "🟢 Active",
+        "landrat": "Ralf Reinhardt",
+        "party": "parteilos",
+        "party_colour": "#888888",
+        "political_note": "Parteilos, SPD/CDU supported",
+        "fill": "#22c55e",
+        "fill-opacity": 0.15,
+        "stroke": "#888888",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8,
+        "label": "Z04 • Rheinsberger Seenland • parteilos",
+        "note": "Around Rheinsberg, Gransee lakes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.1,
+              52.7
+            ],
+            [
+              13.1,
+              53.0
+            ],
+            [
+              12.4,
+              53.0
+            ],
+            [
+              12.4,
+              52.7
+            ],
+            [
+              13.1,
+              52.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "Z05",
+        "name": "Ruppiner Land",
+        "landkreis": "Ostprignitz-Ruppin",
+        "karte_score": 7.0,
+        "tag": "active",
+        "tag_display": "🟢 Active",
+        "landrat": "Ralf Reinhardt",
+        "party": "parteilos",
+        "party_colour": "#888888",
+        "political_note": "Parteilos, SPD/CDU supported",
+        "fill": "#22c55e",
+        "fill-opacity": 0.15,
+        "stroke": "#888888",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8,
+        "label": "Z05 • Ruppiner Land • parteilos",
+        "note": "Around Neuruppin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.2,
+              51.75
+            ],
+            [
+              13.2,
+              52.05
+            ],
+            [
+              12.7,
+              52.05
+            ],
+            [
+              12.7,
+              51.75
+            ],
+            [
+              13.2,
+              51.75
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "Z10",
+        "name": "Fläming-Süd",
+        "landkreis": "Teltow-Fläming",
+        "karte_score": 7.1,
+        "tag": "active",
+        "tag_display": "🟢 Active",
+        "landrat": "Gallandi",
+        "party": "SPD",
+        "party_colour": "#E3000F",
+        "political_note": "SPD Landkreis",
+        "fill": "#22c55e",
+        "fill-opacity": 0.15,
+        "stroke": "#E3000F",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8,
+        "label": "Z10 • Fläming-Süd • SPD",
+        "note": "Jüterbog area, active budget zone"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.1,
+              52.8
+            ],
+            [
+              14.1,
+              53.1
+            ],
+            [
+              13.7,
+              53.1
+            ],
+            [
+              13.7,
+              52.8
+            ],
+            [
+              14.1,
+              52.8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "Z16",
+        "name": "Schorfheide-Süd",
+        "landkreis": "Barnim",
+        "karte_score": 7.3,
+        "tag": "active",
+        "tag_display": "🟢 Active",
+        "landrat": "Daniel Kurth",
+        "party": "SPD",
+        "party_colour": "#E3000F",
+        "political_note": "SPD, Stichwahl May 2025 vs AfD",
+        "fill": "#22c55e",
+        "fill-opacity": 0.15,
+        "stroke": "#E3000F",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8,
+        "label": "Z16 • Schorfheide-Süd • SPD",
+        "note": "Schorfheide forest, Werbellinsee area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.7,
+              51.85
+            ],
+            [
+              12.7,
+              52.28
+            ],
+            [
+              12.35,
+              52.28
+            ],
+            [
+              12.35,
+              51.85
+            ],
+            [
+              12.7,
+              51.85
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "Z18",
+        "name": "Fläming-Mitte",
+        "landkreis": "Teltow-Fläming",
+        "karte_score": 7.2,
+        "tag": "active",
+        "tag_display": "🟢 Active",
+        "landrat": "Gallandi",
+        "party": "SPD",
+        "party_colour": "#E3000F",
+        "political_note": "SPD Landkreis",
+        "fill": "#22c55e",
+        "fill-opacity": 0.15,
+        "stroke": "#E3000F",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8,
+        "label": "Z18 • Fläming-Mitte • SPD",
+        "note": "Niemegk area — cheapest zone avg €201k. Active budget zone."
+      }
+    }
+  ]
+}

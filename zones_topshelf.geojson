@@ -1,0 +1,201 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.2,
+              53.3
+            ],
+            [
+              13.2,
+              53.8
+            ],
+            [
+              12.4,
+              53.8
+            ],
+            [
+              12.4,
+              53.3
+            ],
+            [
+              13.2,
+              53.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "Z03",
+        "name": "Meckl. Seenplatte-Süd",
+        "landkreis": "Mecklenburgische Seenplatte",
+        "karte_score": 6.5,
+        "tag": "top_shelf",
+        "tag_display": "⭐ Top Shelf",
+        "landrat": "Heiko Klöber",
+        "party": "SPD",
+        "party_colour": "#E3000F",
+        "political_note": "SPD",
+        "fill": "#f59e0b",
+        "fill-opacity": 0.15,
+        "stroke": "#E3000F",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8,
+        "label": "Z03 • Meckl. Seenplatte-Süd • SPD",
+        "note": "Southern Meckl. Seenplatte, just north of Uckermark"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.15,
+              52.05
+            ],
+            [
+              13.15,
+              52.38
+            ],
+            [
+              12.7,
+              52.38
+            ],
+            [
+              12.7,
+              52.05
+            ],
+            [
+              13.15,
+              52.05
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "Z09",
+        "name": "Hoher Fläming",
+        "landkreis": "Potsdam-Mittelmark",
+        "karte_score": 6.8,
+        "tag": "top_shelf",
+        "tag_display": "⭐ Top Shelf",
+        "landrat": "Marko Schöneburg",
+        "party": "SPD",
+        "party_colour": "#E3000F",
+        "political_note": "SPD",
+        "fill": "#f59e0b",
+        "fill-opacity": 0.15,
+        "stroke": "#E3000F",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8,
+        "label": "Z09 • Hoher Fläming • SPD",
+        "note": "Fläming hills, reclassified Top Shelf (avg €744k)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.4,
+              52.0
+            ],
+            [
+              14.4,
+              52.3
+            ],
+            [
+              13.75,
+              52.3
+            ],
+            [
+              13.75,
+              52.0
+            ],
+            [
+              14.4,
+              52.0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "Z13",
+        "name": "Oder-Spree-Seen",
+        "landkreis": "Oder-Spree",
+        "karte_score": 6.2,
+        "tag": "top_shelf",
+        "tag_display": "⭐ Top Shelf",
+        "landrat": "Rolf Lindemann",
+        "party": "SPD",
+        "party_colour": "#E3000F",
+        "political_note": "SPD",
+        "fill": "#f59e0b",
+        "fill-opacity": 0.15,
+        "stroke": "#E3000F",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8,
+        "label": "Z13 • Oder-Spree-Seen • SPD",
+        "note": "Lake district, expensive zone — intelligence only"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.2,
+              52.3
+            ],
+            [
+              14.2,
+              52.8
+            ],
+            [
+              13.85,
+              52.8
+            ],
+            [
+              13.85,
+              52.3
+            ],
+            [
+              14.2,
+              52.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "Z14",
+        "name": "Märkische Schweiz",
+        "landkreis": "Märkisch-Oderland",
+        "karte_score": 6.0,
+        "tag": "top_shelf",
+        "tag_display": "⭐ Top Shelf",
+        "landrat": "Görke",
+        "party": "SPD",
+        "party_colour": "#E3000F",
+        "political_note": "SPD",
+        "fill": "#f59e0b",
+        "fill-opacity": 0.15,
+        "stroke": "#E3000F",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8,
+        "label": "Z14 • Märkische Schweiz • SPD",
+        "note": "Bad Saarow area, Märkische Schweiz hills"
+      }
+    }
+  ]
+}

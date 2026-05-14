@@ -1,0 +1,365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.85,
+          53.32
+        ]
+      },
+      "properties": {
+        "zone_id": "Z01",
+        "label": "Z01 | Uckermark-Kernland",
+        "name": "Uckermark-Kernland",
+        "score": "7.65",
+        "tag": "active",
+        "party": "CDU",
+        "landrat": "K. Dörk",
+        "detail": "Z01 • KARTE 7.65 • CDU • Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35,
+          53.1
+        ]
+      },
+      "properties": {
+        "zone_id": "Z02",
+        "label": "Z02 | Uckermark-West",
+        "name": "Uckermark-West",
+        "score": "7.55",
+        "tag": "active",
+        "party": "CDU",
+        "landrat": "K. Dörk",
+        "detail": "Z02 • KARTE 7.55 • CDU • Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8,
+          53.55
+        ]
+      },
+      "properties": {
+        "zone_id": "Z03",
+        "label": "Z03 | Meckl. Seenplatte-S",
+        "name": "Meckl. Seenplatte-S",
+        "score": "6.95",
+        "tag": "top_shelf",
+        "party": "SPD",
+        "landrat": "H. Klöber",
+        "detail": "Z03 • KARTE 6.95 • SPD • Top Shelf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9,
+          53.12
+        ]
+      },
+      "properties": {
+        "zone_id": "Z04",
+        "label": "Z04 | Rheinsberger Seenland",
+        "name": "Rheinsberger Seenland",
+        "score": "7.6",
+        "tag": "active",
+        "party": "parteilos",
+        "landrat": "R. Reinhardt",
+        "detail": "Z04 • KARTE 7.6 • parteilos • Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.75,
+          52.88
+        ]
+      },
+      "properties": {
+        "zone_id": "Z05",
+        "label": "Z05 | Ruppiner Land",
+        "name": "Ruppiner Land",
+        "score": "7.2",
+        "tag": "active",
+        "party": "parteilos",
+        "landrat": "R. Reinhardt",
+        "detail": "Z05 • KARTE 7.2 • parteilos • Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1,
+          53.08
+        ]
+      },
+      "properties": {
+        "zone_id": "Z06",
+        "label": "Z06 | Prignitz-Ost",
+        "name": "Prignitz-Ost",
+        "score": "5.7",
+        "tag": "possible",
+        "party": "SPD",
+        "landrat": "C. Müller",
+        "detail": "Z06 • KARTE 5.7 • SPD • Possible"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.45,
+          53.08
+        ]
+      },
+      "properties": {
+        "zone_id": "Z07",
+        "label": "Z07 | Prignitz-West",
+        "name": "Prignitz-West",
+        "score": "5.15",
+        "tag": "possible",
+        "party": "SPD",
+        "landrat": "C. Müller",
+        "detail": "Z07 • KARTE 5.15 • SPD • Possible"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6,
+          52.58
+        ]
+      },
+      "properties": {
+        "zone_id": "Z08",
+        "label": "Z08 | Havelland",
+        "name": "Havelland",
+        "score": "6.4",
+        "tag": "avoid",
+        "party": "CDU",
+        "landrat": "",
+        "detail": "Z08 • KARTE 6.4 • CDU • Avoid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.78,
+          52.18
+        ]
+      },
+      "properties": {
+        "zone_id": "Z09",
+        "label": "Z09 | Hoher Fläming",
+        "name": "Hoher Fläming",
+        "score": "7.2",
+        "tag": "top_shelf",
+        "party": "SPD",
+        "landrat": "M. Schöneburg",
+        "detail": "Z09 • KARTE 7.2 • SPD • Top Shelf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.08,
+          51.98
+        ]
+      },
+      "properties": {
+        "zone_id": "Z10",
+        "label": "Z10 | Fläming-Süd",
+        "name": "Fläming-Süd",
+        "score": "6.85",
+        "tag": "active",
+        "party": "SPD",
+        "landrat": "Gallandi",
+        "detail": "Z10 • KARTE 6.85 • SPD • Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.55,
+          51.75
+        ]
+      },
+      "properties": {
+        "zone_id": "Z11",
+        "label": "Z11 | Niederlausitz-West",
+        "name": "Niederlausitz-West",
+        "score": "5.3",
+        "tag": "possible",
+        "party": "CDU",
+        "landrat": "C. Heinrich",
+        "detail": "Z11 • KARTE 5.3 • CDU • Possible"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1,
+          51.95
+        ]
+      },
+      "properties": {
+        "zone_id": "Z12",
+        "label": "Z12 | Spreewald",
+        "name": "Spreewald",
+        "score": "6.5",
+        "tag": "possible",
+        "party": "parteilos",
+        "landrat": "S. Herzberger",
+        "detail": "Z12 • KARTE 6.5 • parteilos • Possible"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.05,
+          52.18
+        ]
+      },
+      "properties": {
+        "zone_id": "Z13",
+        "label": "Z13 | Oder-Spree-Seen",
+        "name": "Oder-Spree-Seen",
+        "score": "6.75",
+        "tag": "top_shelf",
+        "party": "SPD",
+        "landrat": "R. Lindemann",
+        "detail": "Z13 • KARTE 6.75 • SPD • Top Shelf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.15,
+          52.55
+        ]
+      },
+      "properties": {
+        "zone_id": "Z14",
+        "label": "Z14 | Märkische Schweiz",
+        "name": "Märkische Schweiz",
+        "score": "6.85",
+        "tag": "top_shelf",
+        "party": "SPD",
+        "landrat": "Görke",
+        "detail": "Z14 • KARTE 6.85 • SPD • Top Shelf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.45,
+          52.6
+        ]
+      },
+      "properties": {
+        "zone_id": "Z15",
+        "label": "Z15 | Oderbruch ⚠️",
+        "name": "Oderbruch ⚠️",
+        "score": "5.2",
+        "tag": "risk_flag",
+        "party": "SPD",
+        "landrat": "Görke",
+        "detail": "Z15 • KARTE 5.2 • SPD • Risk Flag"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.78,
+          52.88
+        ]
+      },
+      "properties": {
+        "zone_id": "Z16",
+        "label": "Z16 | Schorfheide-Süd",
+        "name": "Schorfheide-Süd",
+        "score": "7.15",
+        "tag": "active",
+        "party": "SPD",
+        "landrat": "D. Kurth",
+        "detail": "Z16 • KARTE 7.15 • SPD • Active"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8,
+          52.68
+        ]
+      },
+      "properties": {
+        "zone_id": "Z17",
+        "label": "Z17 | Barnim-Nord",
+        "name": "Barnim-Nord",
+        "score": "6.65",
+        "tag": "possible",
+        "party": "SPD",
+        "landrat": "D. Kurth",
+        "detail": "Z17 • KARTE 6.65 • SPD • Possible"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.68,
+          52.07
+        ]
+      },
+      "properties": {
+        "zone_id": "Z18",
+        "label": "Z18 | Fläming-Mitte",
+        "name": "Fläming-Mitte",
+        "score": "6.6",
+        "tag": "active",
+        "party": "SPD",
+        "landrat": "Gallandi",
+        "detail": "Z18 • KARTE 6.6 • SPD • Active"
+      }
+    }
+  ]
+}

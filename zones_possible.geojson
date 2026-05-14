@@ -1,0 +1,250 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.4,
+              52.9
+            ],
+            [
+              12.4,
+              53.3
+            ],
+            [
+              11.8,
+              53.3
+            ],
+            [
+              11.8,
+              52.9
+            ],
+            [
+              12.4,
+              52.9
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "Z06",
+        "name": "Prignitz-Ost",
+        "landkreis": "Prignitz",
+        "karte_score": 5.8,
+        "tag": "possible",
+        "tag_display": "🟡 Possible",
+        "landrat": "Christian Müller",
+        "party": "SPD",
+        "party_colour": "#E3000F",
+        "political_note": "Elected 2022, 65.5% first round",
+        "fill": "#eab308",
+        "fill-opacity": 0.1,
+        "stroke": "#E3000F",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8,
+        "label": "Z06 • Prignitz-Ost • SPD",
+        "note": "Eastern Prignitz around Wittstock/Dosse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.8,
+              52.9
+            ],
+            [
+              11.8,
+              53.4
+            ],
+            [
+              11.1,
+              53.4
+            ],
+            [
+              11.1,
+              52.9
+            ],
+            [
+              11.8,
+              52.9
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "Z07",
+        "name": "Prignitz-West",
+        "landkreis": "Prignitz",
+        "karte_score": 5.5,
+        "tag": "possible",
+        "tag_display": "🟡 Possible",
+        "landrat": "Christian Müller",
+        "party": "SPD",
+        "party_colour": "#E3000F",
+        "political_note": "Elected 2022, 65.5% first round",
+        "fill": "#eab308",
+        "fill-opacity": 0.1,
+        "stroke": "#E3000F",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8,
+        "label": "Z07 • Prignitz-West • SPD",
+        "note": "Western Prignitz around Perleberg, Pritzwalk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.8,
+              51.5
+            ],
+            [
+              13.8,
+              52.0
+            ],
+            [
+              13.2,
+              52.0
+            ],
+            [
+              13.2,
+              51.5
+            ],
+            [
+              13.8,
+              51.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "Z11",
+        "name": "Niederlausitz-West",
+        "landkreis": "Elbe-Elster",
+        "karte_score": 5.5,
+        "tag": "possible",
+        "tag_display": "🟡 Possible",
+        "landrat": "Christian Heinrich",
+        "party": "CDU",
+        "party_colour": "#000000",
+        "political_note": "CDU",
+        "fill": "#eab308",
+        "fill-opacity": 0.1,
+        "stroke": "#000000",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8,
+        "label": "Z11 • Niederlausitz-West • CDU",
+        "note": "Elbe-Elster, western Niederlausitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.5,
+              51.7
+            ],
+            [
+              14.5,
+              52.0
+            ],
+            [
+              13.8,
+              52.0
+            ],
+            [
+              13.8,
+              51.7
+            ],
+            [
+              14.5,
+              51.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "Z12",
+        "name": "Spreewald",
+        "landkreis": "Dahme-Spreewald",
+        "karte_score": 5.8,
+        "tag": "possible",
+        "tag_display": "🟡 Possible",
+        "landrat": "Sven Herzberger",
+        "party": "parteilos",
+        "party_colour": "#888888",
+        "political_note": "Parteilos, beat AfD 2023",
+        "fill": "#eab308",
+        "fill-opacity": 0.1,
+        "stroke": "#888888",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8,
+        "label": "Z12 • Spreewald • parteilos",
+        "note": "Spreewald, Dahme-Spreewald"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.85,
+              52.5
+            ],
+            [
+              13.85,
+              52.8
+            ],
+            [
+              13.55,
+              52.8
+            ],
+            [
+              13.55,
+              52.5
+            ],
+            [
+              13.85,
+              52.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "Z17",
+        "name": "Barnim-Nord",
+        "landkreis": "Barnim",
+        "karte_score": 5.8,
+        "tag": "possible",
+        "tag_display": "🟡 Possible",
+        "landrat": "Daniel Kurth",
+        "party": "SPD",
+        "party_colour": "#E3000F",
+        "political_note": "SPD, Stichwahl May 2025 vs AfD",
+        "fill": "#eab308",
+        "fill-opacity": 0.1,
+        "stroke": "#E3000F",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8,
+        "label": "Z17 • Barnim-Nord • SPD",
+        "note": "Northern Barnim, closer to Berlin"
+      }
+    }
+  ]
+}
