@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.8,
+              51.5
+            ],
+            [
+              13.8,
+              52.0
+            ],
+            [
+              13.2,
+              52.0
+            ],
+            [
+              13.2,
+              51.5
+            ],
+            [
+              13.8,
+              51.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "Z11",
+        "name": "Niederlausitz-West",
+        "landkreis": "Elbe-Elster",
+        "karte_score": 5.5,
+        "tag": "possible",
+        "tag_display": "🟡 Possible",
+        "landrat": "Christian Heinrich",
+        "party": "CDU",
+        "party_colour": "#000000",
+        "political_note": "CDU",
+        "fill": "#eab308",
+        "fill-opacity": 0.1,
+        "stroke": "#000000",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8,
+        "label": "Z11 • Niederlausitz-West • CDU",
+        "note": "Elbe-Elster, western Niederlausitz"
+      }
+    }
+  ]
+}

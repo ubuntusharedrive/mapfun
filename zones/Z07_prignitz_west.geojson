@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.8,
+              52.9
+            ],
+            [
+              11.8,
+              53.4
+            ],
+            [
+              11.1,
+              53.4
+            ],
+            [
+              11.1,
+              52.9
+            ],
+            [
+              11.8,
+              52.9
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "Z07",
+        "name": "Prignitz-West",
+        "landkreis": "Prignitz",
+        "karte_score": 5.5,
+        "tag": "possible",
+        "tag_display": "🟡 Possible",
+        "landrat": "Christian Müller",
+        "party": "SPD",
+        "party_colour": "#E3000F",
+        "political_note": "Elected 2022, 65.5% first round",
+        "fill": "#eab308",
+        "fill-opacity": 0.1,
+        "stroke": "#E3000F",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8,
+        "label": "Z07 • Prignitz-West • SPD",
+        "note": "Western Prignitz around Perleberg, Pritzwalk"
+      }
+    }
+  ]
+}

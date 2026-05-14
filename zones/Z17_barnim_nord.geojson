@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.85,
+              52.5
+            ],
+            [
+              13.85,
+              52.8
+            ],
+            [
+              13.55,
+              52.8
+            ],
+            [
+              13.55,
+              52.5
+            ],
+            [
+              13.85,
+              52.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "Z17",
+        "name": "Barnim-Nord",
+        "landkreis": "Barnim",
+        "karte_score": 5.8,
+        "tag": "possible",
+        "tag_display": "🟡 Possible",
+        "landrat": "Daniel Kurth",
+        "party": "SPD",
+        "party_colour": "#E3000F",
+        "political_note": "SPD, Stichwahl May 2025 vs AfD",
+        "fill": "#eab308",
+        "fill-opacity": 0.1,
+        "stroke": "#E3000F",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8,
+        "label": "Z17 • Barnim-Nord • SPD",
+        "note": "Northern Barnim, closer to Berlin"
+      }
+    }
+  ]
+}

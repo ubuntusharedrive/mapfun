@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.1,
+              52.7
+            ],
+            [
+              13.1,
+              53.0
+            ],
+            [
+              12.4,
+              53.0
+            ],
+            [
+              12.4,
+              52.7
+            ],
+            [
+              13.1,
+              52.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "Z05",
+        "name": "Ruppiner Land",
+        "landkreis": "Ostprignitz-Ruppin",
+        "karte_score": 7.0,
+        "tag": "active",
+        "tag_display": "🟢 Active",
+        "landrat": "Ralf Reinhardt",
+        "party": "parteilos",
+        "party_colour": "#888888",
+        "political_note": "Parteilos, SPD/CDU supported",
+        "fill": "#22c55e",
+        "fill-opacity": 0.15,
+        "stroke": "#888888",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8,
+        "label": "Z05 • Ruppiner Land • parteilos",
+        "note": "Around Neuruppin"
+      }
+    }
+  ]
+}

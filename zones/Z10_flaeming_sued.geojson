@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.2,
+              51.75
+            ],
+            [
+              13.2,
+              52.05
+            ],
+            [
+              12.7,
+              52.05
+            ],
+            [
+              12.7,
+              51.75
+            ],
+            [
+              13.2,
+              51.75
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "Z10",
+        "name": "Fläming-Süd",
+        "landkreis": "Teltow-Fläming",
+        "karte_score": 7.1,
+        "tag": "active",
+        "tag_display": "🟢 Active",
+        "landrat": "Gallandi",
+        "party": "SPD",
+        "party_colour": "#E3000F",
+        "political_note": "SPD Landkreis",
+        "fill": "#22c55e",
+        "fill-opacity": 0.15,
+        "stroke": "#E3000F",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8,
+        "label": "Z10 • Fläming-Süd • SPD",
+        "note": "Jüterbog area, active budget zone"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.75,
+              52.35
+            ],
+            [
+              14.75,
+              52.85
+            ],
+            [
+              14.2,
+              52.85
+            ],
+            [
+              14.2,
+              52.35
+            ],
+            [
+              14.75,
+              52.35
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "Z15",
+        "name": "Oderbruch",
+        "landkreis": "Märkisch-Oderland",
+        "karte_score": 1.0,
+        "tag": "risk_flag",
+        "tag_display": "⚠️ Risk Flag",
+        "landrat": "Görke",
+        "party": "SPD",
+        "party_colour": "#E3000F",
+        "political_note": "SPD",
+        "fill": "#ef4444",
+        "fill-opacity": 0.15,
+        "stroke": "#E3000F",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8,
+        "label": "Z15 • Oderbruch • SPD",
+        "note": "⚠️ FLOOD RISK — HQ100 confirmed. Intelligence only, no JAGD."
+      }
+    }
+  ]
+}

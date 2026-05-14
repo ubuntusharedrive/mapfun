@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.0,
+              52.38
+            ],
+            [
+              13.0,
+              52.7
+            ],
+            [
+              12.2,
+              52.7
+            ],
+            [
+              12.2,
+              52.38
+            ],
+            [
+              13.0,
+              52.38
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "Z08",
+        "name": "Havelland-Fläming",
+        "landkreis": "Havelland",
+        "karte_score": 3.0,
+        "tag": "avoid",
+        "tag_display": "🔴 Avoid",
+        "landrat": "Roger Lewandowski",
+        "party": "CDU",
+        "party_colour": "#000000",
+        "political_note": "CDU Havelland",
+        "fill": "#6b7280",
+        "fill-opacity": 0.08,
+        "stroke": "#000000",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8,
+        "label": "Z08 • Havelland-Fläming • CDU",
+        "note": "Havelland — Avoid tag (Berlin commuter premium)"
+      }
+    }
+  ]
+}

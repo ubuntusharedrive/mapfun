@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.7,
+              51.85
+            ],
+            [
+              12.7,
+              52.28
+            ],
+            [
+              12.35,
+              52.28
+            ],
+            [
+              12.35,
+              51.85
+            ],
+            [
+              12.7,
+              51.85
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "Z18",
+        "name": "Fläming-Mitte",
+        "landkreis": "Teltow-Fläming",
+        "karte_score": 7.2,
+        "tag": "active",
+        "tag_display": "🟢 Active",
+        "landrat": "Gallandi",
+        "party": "SPD",
+        "party_colour": "#E3000F",
+        "political_note": "SPD Landkreis",
+        "fill": "#22c55e",
+        "fill-opacity": 0.15,
+        "stroke": "#E3000F",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8,
+        "label": "Z18 • Fläming-Mitte • SPD",
+        "note": "Niemegk area — cheapest zone avg €201k. Active budget zone."
+      }
+    }
+  ]
+}

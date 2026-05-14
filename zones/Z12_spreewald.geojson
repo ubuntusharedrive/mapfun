@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.5,
+              51.7
+            ],
+            [
+              14.5,
+              52.0
+            ],
+            [
+              13.8,
+              52.0
+            ],
+            [
+              13.8,
+              51.7
+            ],
+            [
+              14.5,
+              51.7
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "Z12",
+        "name": "Spreewald",
+        "landkreis": "Dahme-Spreewald",
+        "karte_score": 5.8,
+        "tag": "possible",
+        "tag_display": "🟡 Possible",
+        "landrat": "Sven Herzberger",
+        "party": "parteilos",
+        "party_colour": "#888888",
+        "political_note": "Parteilos, beat AfD 2023",
+        "fill": "#eab308",
+        "fill-opacity": 0.1,
+        "stroke": "#888888",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8,
+        "label": "Z12 • Spreewald • parteilos",
+        "note": "Spreewald, Dahme-Spreewald"
+      }
+    }
+  ]
+}

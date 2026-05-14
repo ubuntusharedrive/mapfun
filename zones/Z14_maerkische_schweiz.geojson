@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.2,
+              52.3
+            ],
+            [
+              14.2,
+              52.8
+            ],
+            [
+              13.85,
+              52.8
+            ],
+            [
+              13.85,
+              52.3
+            ],
+            [
+              14.2,
+              52.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "Z14",
+        "name": "Märkische Schweiz",
+        "landkreis": "Märkisch-Oderland",
+        "karte_score": 6.0,
+        "tag": "top_shelf",
+        "tag_display": "⭐ Top Shelf",
+        "landrat": "Görke",
+        "party": "SPD",
+        "party_colour": "#E3000F",
+        "political_note": "SPD",
+        "fill": "#f59e0b",
+        "fill-opacity": 0.15,
+        "stroke": "#E3000F",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8,
+        "label": "Z14 • Märkische Schweiz • SPD",
+        "note": "Bad Saarow area, Märkische Schweiz hills"
+      }
+    }
+  ]
+}

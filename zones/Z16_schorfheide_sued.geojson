@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.1,
+              52.8
+            ],
+            [
+              14.1,
+              53.1
+            ],
+            [
+              13.7,
+              53.1
+            ],
+            [
+              13.7,
+              52.8
+            ],
+            [
+              14.1,
+              52.8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "Z16",
+        "name": "Schorfheide-Süd",
+        "landkreis": "Barnim",
+        "karte_score": 7.3,
+        "tag": "active",
+        "tag_display": "🟢 Active",
+        "landrat": "Daniel Kurth",
+        "party": "SPD",
+        "party_colour": "#E3000F",
+        "political_note": "SPD, Stichwahl May 2025 vs AfD",
+        "fill": "#22c55e",
+        "fill-opacity": 0.15,
+        "stroke": "#E3000F",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8,
+        "label": "Z16 • Schorfheide-Süd • SPD",
+        "note": "Schorfheide forest, Werbellinsee area"
+      }
+    }
+  ]
+}

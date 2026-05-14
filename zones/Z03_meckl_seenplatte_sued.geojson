@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.2,
+              53.3
+            ],
+            [
+              13.2,
+              53.8
+            ],
+            [
+              12.4,
+              53.8
+            ],
+            [
+              12.4,
+              53.3
+            ],
+            [
+              13.2,
+              53.3
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "Z03",
+        "name": "Meckl. Seenplatte-Süd",
+        "landkreis": "Mecklenburgische Seenplatte",
+        "karte_score": 6.5,
+        "tag": "top_shelf",
+        "tag_display": "⭐ Top Shelf",
+        "landrat": "Heiko Klöber",
+        "party": "SPD",
+        "party_colour": "#E3000F",
+        "political_note": "SPD",
+        "fill": "#f59e0b",
+        "fill-opacity": 0.15,
+        "stroke": "#E3000F",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8,
+        "label": "Z03 • Meckl. Seenplatte-Süd • SPD",
+        "note": "Southern Meckl. Seenplatte, just north of Uckermark"
+      }
+    }
+  ]
+}

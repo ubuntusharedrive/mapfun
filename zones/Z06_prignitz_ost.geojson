@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.4,
+              52.9
+            ],
+            [
+              12.4,
+              53.3
+            ],
+            [
+              11.8,
+              53.3
+            ],
+            [
+              11.8,
+              52.9
+            ],
+            [
+              12.4,
+              52.9
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "Z06",
+        "name": "Prignitz-Ost",
+        "landkreis": "Prignitz",
+        "karte_score": 5.8,
+        "tag": "possible",
+        "tag_display": "🟡 Possible",
+        "landrat": "Christian Müller",
+        "party": "SPD",
+        "party_colour": "#E3000F",
+        "political_note": "Elected 2022, 65.5% first round",
+        "fill": "#eab308",
+        "fill-opacity": 0.1,
+        "stroke": "#E3000F",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8,
+        "label": "Z06 • Prignitz-Ost • SPD",
+        "note": "Eastern Prignitz around Wittstock/Dosse"
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.7,
+              52.9
+            ],
+            [
+              13.7,
+              53.3
+            ],
+            [
+              13.1,
+              53.3
+            ],
+            [
+              13.1,
+              52.9
+            ],
+            [
+              13.7,
+              52.9
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "Z02",
+        "name": "Uckermark-West",
+        "landkreis": "Uckermark",
+        "karte_score": 7.2,
+        "tag": "active",
+        "tag_display": "🟢 Active",
+        "landrat": "Karina Dörk",
+        "party": "CDU",
+        "party_colour": "#000000",
+        "political_note": "Re-elected Apr 2025, beat AfD 60%",
+        "fill": "#22c55e",
+        "fill-opacity": 0.15,
+        "stroke": "#000000",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8,
+        "label": "Z02 • Uckermark-West • CDU",
+        "note": "Western Uckermark around Templin, Boitzenburger Land"
+      }
+    }
+  ]
+}
