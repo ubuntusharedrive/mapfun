@@ -5509,6 +5509,246 @@
         "is24_link": "https://www.immowelt.de/expose/ac8c92bf-29ed-40c4-9fe7-1d56919b2275",
         "run_date": "2026-05-14"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1350017,
+          52.4802262
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0110",
+        "title": "Wulkow — €35.000",
+        "price": 35000,
+        "plot_sqm": 21830,
+        "score": 5.3,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "zone_id": "Z05",
+        "zone_name": "Ruppiner Land",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/bb44052a-84ae-44c6-b3ca-2fdfa92b958c",
+        "run_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.76805463414634,
+          52.778142317073176
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0085",
+        "title": "Fehrbellin — €250.000",
+        "price": 250000,
+        "plot_sqm": 1700,
+        "score": 5.2,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "zone_id": "Z05",
+        "zone_name": "Ruppiner Land",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167581340",
+        "run_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8024423,
+          52.9119476
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0125",
+        "title": "Neuruppin — €98.000",
+        "price": 98000,
+        "plot_sqm": 1200,
+        "score": 5.0,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "zone_id": "Z05",
+        "zone_name": "Ruppiner Land",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/732fb7c1-79c8-40e1-bcfe-08e8bfd1c34e",
+        "run_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7795526,
+          52.7792251
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0086",
+        "title": "Fehrbellin — €104.000",
+        "price": 104000,
+        "plot_sqm": 2570,
+        "score": 4.4,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "zone_id": "Z05",
+        "zone_name": "Ruppiner Land",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167437754",
+        "run_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8024423,
+          52.9119476
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0109",
+        "title": "Neuruppin — €53.000",
+        "price": 53000,
+        "plot_sqm": 600,
+        "score": 4.2,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "zone_id": "Z05",
+        "zone_name": "Ruppiner Land",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/186171a3-ebdf-496a-a81c-12976443ebec",
+        "run_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.84974291005291,
+          52.94890243386243
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0097",
+        "title": "Neuruppin — €495.000",
+        "price": 495000,
+        "plot_sqm": 6120,
+        "score": 6.8,
+        "score_label": "🟡 Solid candidate",
+        "tier": "mid",
+        "zone_id": "Z05",
+        "zone_name": "Ruppiner Land",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167066342",
+        "run_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.192221991051454,
+          52.86877657718121
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0094",
+        "title": "Schönermark — €275.000",
+        "price": 275000,
+        "plot_sqm": 4163,
+        "score": 6.6,
+        "score_label": "🟡 Solid candidate",
+        "tier": "mid",
+        "zone_id": "Z05",
+        "zone_name": "Ruppiner Land",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167480186",
+        "run_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8659966,
+          52.9877403
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0119",
+        "title": "Neuruppin — €935.000",
+        "price": 935000,
+        "plot_sqm": 2818,
+        "score": 5.8,
+        "score_label": "🟠 Marginal",
+        "tier": "premium",
+        "zone_id": "Z05",
+        "zone_name": "Ruppiner Land",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/5b0ea8e4-15ab-4fa0-85cb-af7400f0d8d7",
+        "run_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8993979,
+          53.1093459
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0093",
+        "title": "Rheinsberg — €273.000",
+        "price": 273000,
+        "plot_sqm": 1405,
+        "score": 5.2,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "zone_id": "Z05",
+        "zone_name": "Ruppiner Land",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167648440",
+        "run_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8499055,
+          52.9461467
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0111",
+        "title": "Alt Ruppin — €295.000",
+        "price": 295000,
+        "plot_sqm": 681,
+        "score": 4.0,
+        "score_label": "🔴 Weak",
+        "tier": "mid",
+        "zone_id": "Z05",
+        "zone_name": "Ruppiner Land",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/06c2d3ff-0955-438c-9f0b-7ecd22f156f9",
+        "run_date": "2026-05-15"
+      }
     }
   ]
 }
