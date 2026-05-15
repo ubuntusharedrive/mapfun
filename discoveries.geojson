@@ -5749,6 +5749,174 @@
         "is24_link": "https://www.immowelt.de/expose/06c2d3ff-0955-438c-9f0b-7ecd22f156f9",
         "run_date": "2026-05-15"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.613141764705883,
+          51.883583333333334
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0134",
+        "title": "Lutherstadt Wittenberg — €139.000",
+        "price": 139000,
+        "plot_sqm": 742,
+        "score": 3.5,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167278599",
+        "run_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6603502,
+          52.0528399
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0154",
+        "title": "Niemegk — €195.000",
+        "price": 195000,
+        "plot_sqm": 671,
+        "score": 3.4,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/4421514c-11df-4e0e-a560-0fb9f0f69564",
+        "run_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.662104810126582,
+          51.94281
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0131",
+        "title": "Straach — €249.900",
+        "price": 249900,
+        "plot_sqm": 783,
+        "score": 3.3,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167452804",
+        "run_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.863173943661971,
+          52.22736929577464
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0144",
+        "title": "Borkheide — €379.000",
+        "price": 379000,
+        "plot_sqm": 641,
+        "score": 6.1,
+        "score_label": "🟡 Solid candidate",
+        "tier": "mid",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167489799",
+        "run_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.863173943661971,
+          52.22736929577464
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0146",
+        "title": "Borkheide — €349.000",
+        "price": 349000,
+        "plot_sqm": 1800,
+        "score": 6.0,
+        "score_label": "🟡 Solid candidate",
+        "tier": "mid",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167323513",
+        "run_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.436901641791046,
+          51.92302522388059
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0150",
+        "title": "Coswig (Anhalt) — €335.000",
+        "price": 335000,
+        "plot_sqm": 1108,
+        "score": 4.1,
+        "score_label": "🔴 Weak",
+        "tier": "mid",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167241646",
+        "run_date": "2026-05-15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.577707133757961,
+          52.180462197452236
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0145",
+        "title": "Belzig — €550.000",
+        "price": 550000,
+        "plot_sqm": 673,
+        "score": 3.9,
+        "score_label": "🔴 Weak",
+        "tier": "premium",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167524408",
+        "run_date": "2026-05-15"
+      }
     }
   ]
 }
