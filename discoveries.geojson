@@ -6229,6 +6229,462 @@
         "is24_link": "https://www.immowelt.de/expose/48a919be-a6d1-4444-9170-f841b6b2e8f5",
         "run_date": "2026-05-16"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8697133,
+          53.3056769
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0241",
+        "title": "Prenzlau — €135.000",
+        "price": 135000,
+        "plot_sqm": 3400,
+        "score": 4.9,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/9ac864aa-c80a-4265-862e-0b3eeda54e65",
+        "run_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8697133,
+          53.3056769
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0240",
+        "title": "Prenzlau — €83.500",
+        "price": 83500,
+        "plot_sqm": null,
+        "score": 4.7,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/c107dd0a-7965-46fd-8271-425821271a54",
+        "run_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8697133,
+          53.3056769
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0234",
+        "title": "Prenzlau — €207.000",
+        "price": 207000,
+        "plot_sqm": null,
+        "score": 4.0,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/5f9b38de-e97e-488b-9f83-fd1bfcbc3adb",
+        "run_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.77844034883721,
+          53.45208348837209
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0210",
+        "title": "Uckerland — €249.000",
+        "price": 249000,
+        "plot_sqm": 1881,
+        "score": 3.4,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167364131",
+        "run_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.008336788990825,
+          53.51518
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0208",
+        "title": "Papendorf — €249.000",
+        "price": 249000,
+        "plot_sqm": 765,
+        "score": 2.7,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167526283",
+        "run_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8697133,
+          53.3056769
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0224",
+        "title": "Prenzlau — €648.000",
+        "price": 648000,
+        "plot_sqm": null,
+        "score": 4.3,
+        "score_label": "🔴 Weak",
+        "tier": "premium",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/17991a4f-1a78-48a0-97e3-c2dd7eae3228",
+        "run_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8697133,
+          53.3056769
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0227",
+        "title": "Prenzlau — €528.000",
+        "price": 528000,
+        "plot_sqm": null,
+        "score": 4.3,
+        "score_label": "🔴 Weak",
+        "tier": "premium",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/ac0cbc57-4611-4d89-b4d8-4e23bf479a75",
+        "run_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8697133,
+          53.3056769
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0228",
+        "title": "Prenzlau — €533.000",
+        "price": 533000,
+        "plot_sqm": null,
+        "score": 4.3,
+        "score_label": "🔴 Weak",
+        "tier": "premium",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/749ef904-4322-49af-93b2-681c34bbdd87",
+        "run_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8697133,
+          53.3056769
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0230",
+        "title": "Prenzlau — €273.000",
+        "price": 273000,
+        "plot_sqm": null,
+        "score": 4.3,
+        "score_label": "🔴 Weak",
+        "tier": "mid",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/6a4b8e0c-08fa-4650-ba92-16b395b2e921",
+        "run_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8697133,
+          53.3056769
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0231",
+        "title": "Prenzlau — €513.000",
+        "price": 513000,
+        "plot_sqm": null,
+        "score": 4.3,
+        "score_label": "🔴 Weak",
+        "tier": "premium",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/48695451-a332-4d9d-9cab-8caa418e0263",
+        "run_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8697133,
+          53.3056769
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0232",
+        "title": "Prenzlau — €414.000",
+        "price": 414000,
+        "plot_sqm": null,
+        "score": 4.3,
+        "score_label": "🔴 Weak",
+        "tier": "mid",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/f8b9800c-7ddb-4638-90cd-716fdb12fcd1",
+        "run_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8697133,
+          53.3056769
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0233",
+        "title": "Prenzlau — €404.000",
+        "price": 404000,
+        "plot_sqm": null,
+        "score": 4.3,
+        "score_label": "🔴 Weak",
+        "tier": "mid",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/052e4ef1-9464-4fcb-ac21-0278d8ca9e4f",
+        "run_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8697133,
+          53.3056769
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0235",
+        "title": "Prenzlau — €297.000",
+        "price": 297000,
+        "plot_sqm": null,
+        "score": 4.3,
+        "score_label": "🔴 Weak",
+        "tier": "mid",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/8bdee929-c63a-4aef-8ed7-f1b80820eae2",
+        "run_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8697133,
+          53.3056769
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0236",
+        "title": "Prenzlau — €391.000",
+        "price": 391000,
+        "plot_sqm": null,
+        "score": 4.3,
+        "score_label": "🔴 Weak",
+        "tier": "mid",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/1a4197ad-15d0-45d0-bbc7-e19763dc7ddc",
+        "run_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.00269158995816,
+          53.63519046025104
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0211",
+        "title": "Torgelow — €550.000",
+        "price": 550000,
+        "plot_sqm": 1175,
+        "score": 4.2,
+        "score_label": "🔴 Weak",
+        "tier": "premium",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167743482",
+        "run_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8697133,
+          53.3056769
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0237",
+        "title": "Prenzlau — €299.000",
+        "price": 299000,
+        "plot_sqm": null,
+        "score": 4.2,
+        "score_label": "🔴 Weak",
+        "tier": "mid",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/b268543d-9487-4da3-9026-9691bbcd06fb",
+        "run_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8697133,
+          53.3056769
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0242",
+        "title": "Prenzlau — €340.000",
+        "price": 340000,
+        "plot_sqm": null,
+        "score": 4.0,
+        "score_label": "🔴 Weak",
+        "tier": "mid",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/c6631774-62b2-4a8e-9398-80109300135c",
+        "run_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8697133,
+          53.3056769
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0238",
+        "title": "Prenzlau — €423.000",
+        "price": 423000,
+        "plot_sqm": 631,
+        "score": 3.6,
+        "score_label": "🔴 Weak",
+        "tier": "mid",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/c8755123-464a-4ba9-a097-63331b5f00a4",
+        "run_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8697133,
+          53.3056769
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0239",
+        "title": "Prenzlau — €490.000",
+        "price": 490000,
+        "plot_sqm": null,
+        "score": 3.6,
+        "score_label": "🔴 Weak",
+        "tier": "mid",
+        "zone_id": "Z01",
+        "zone_name": "Uckermark-Kernland",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/ecebced2-3cec-4529-85c3-6a7ef7f293a0",
+        "run_date": "2026-05-16"
+      }
     }
   ]
 }
