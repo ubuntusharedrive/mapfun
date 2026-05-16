@@ -6181,6 +6181,54 @@
         "is24_link": "https://www.immowelt.de/expose/b0bb0673-d98c-4ad1-bf4f-07a17704874c",
         "run_date": "2026-05-15"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1761903,
+          53.1492896
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0204",
+        "title": "Pritzwalk — €511.990",
+        "price": 511990,
+        "plot_sqm": 608,
+        "score": 3.4,
+        "score_label": "🔴 Weak",
+        "tier": "premium",
+        "zone_id": "Z04",
+        "zone_name": "Rheinsberger Seenland",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/84dcd61f-6f72-44d8-ab4e-09844bf3cd65",
+        "run_date": "2026-05-16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7523372,
+          53.1513059
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0205",
+        "title": "Rheinsberg — €821.000",
+        "price": 821000,
+        "plot_sqm": 769,
+        "score": 3.4,
+        "score_label": "🔴 Weak",
+        "tier": "premium",
+        "zone_id": "Z04",
+        "zone_name": "Rheinsberger Seenland",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/48a919be-a6d1-4444-9170-f841b6b2e8f5",
+        "run_date": "2026-05-16"
+      }
     }
   ]
 }
