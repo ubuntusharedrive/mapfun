@@ -6805,6 +6805,54 @@
         "is24_link": "https://www.immowelt.de/expose/3cea8d9e-2cc7-4c97-a893-32d51aaa81ea",
         "run_date": "2026-05-17"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.968341032608697,
+          51.80999081521739
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0472",
+        "title": "Jessen (Elster) — €191.000",
+        "price": 191000,
+        "plot_sqm": 1690,
+        "score": 4.1,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/164019576",
+        "run_date": "2026-05-17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.863173943661971,
+          52.22736929577464
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0473",
+        "title": "Borkheide — €753.000",
+        "price": 753000,
+        "plot_sqm": 4006,
+        "score": 7.7,
+        "score_label": "🟡 Solid candidate",
+        "tier": "premium",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167802506",
+        "run_date": "2026-05-17"
+      }
     }
   ]
 }
