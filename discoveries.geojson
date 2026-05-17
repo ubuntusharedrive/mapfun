@@ -6685,6 +6685,126 @@
         "is24_link": "https://www.immowelt.de/expose/ecebced2-3cec-4529-85c3-6a7ef7f293a0",
         "run_date": "2026-05-16"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8024423,
+          52.9119476
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0471",
+        "title": "Neuruppin — €999.000",
+        "price": 999000,
+        "plot_sqm": 2129,
+        "score": 4.5,
+        "score_label": "🟠 Marginal",
+        "tier": "premium",
+        "zone_id": "Z05",
+        "zone_name": "Ruppiner Land",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/9d579821-18be-4109-978c-9a9ff9a94961",
+        "run_date": "2026-05-17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8024423,
+          52.9119476
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0467",
+        "title": "Neuruppin — €431.253",
+        "price": 431253,
+        "plot_sqm": 850,
+        "score": 3.6,
+        "score_label": "🔴 Weak",
+        "tier": "mid",
+        "zone_id": "Z05",
+        "zone_name": "Ruppiner Land",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/8b24f644-abc8-46b9-9d48-a50ff6498e48",
+        "run_date": "2026-05-17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8024423,
+          52.9119476
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0468",
+        "title": "Neuruppin — €431.253",
+        "price": 431253,
+        "plot_sqm": 850,
+        "score": 3.6,
+        "score_label": "🔴 Weak",
+        "tier": "mid",
+        "zone_id": "Z05",
+        "zone_name": "Ruppiner Land",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/d6ca9238-9284-4ad4-b158-3287d7a03622",
+        "run_date": "2026-05-17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8024423,
+          52.9119476
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0469",
+        "title": "Neuruppin — €392.204",
+        "price": 392204,
+        "plot_sqm": 850,
+        "score": 3.6,
+        "score_label": "🔴 Weak",
+        "tier": "mid",
+        "zone_id": "Z05",
+        "zone_name": "Ruppiner Land",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/d1957da9-45b2-424d-9cee-ca2bd5373f87",
+        "run_date": "2026-05-17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8024423,
+          52.9119476
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0470",
+        "title": "Neuruppin — €483.572",
+        "price": 483572,
+        "plot_sqm": 850,
+        "score": 3.6,
+        "score_label": "🔴 Weak",
+        "tier": "mid",
+        "zone_id": "Z05",
+        "zone_name": "Ruppiner Land",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/3cea8d9e-2cc7-4c97-a893-32d51aaa81ea",
+        "run_date": "2026-05-17"
+      }
     }
   ]
 }
