@@ -6901,6 +6901,54 @@
         "is24_link": "https://www.immowelt.de/expose/5f73a0ce-ba2b-4215-8b69-1cd9b3d4572f",
         "run_date": "2026-05-17"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.859005,
+          52.8463997
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0477",
+        "title": "Märkisch Linden — €550.000",
+        "price": 550000,
+        "plot_sqm": 4129,
+        "score": 7.2,
+        "score_label": "🟡 Solid candidate",
+        "tier": "premium",
+        "zone_id": "Z04",
+        "zone_name": "Rheinsberger Seenland",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167831196",
+        "run_date": "2026-05-18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8993979,
+          53.1093459
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0476",
+        "title": "Rheinsberg — €273.000",
+        "price": 273000,
+        "plot_sqm": 1405,
+        "score": 5.2,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "zone_id": "Z04",
+        "zone_name": "Rheinsberger Seenland",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167820895",
+        "run_date": "2026-05-18"
+      }
     }
   ]
 }
