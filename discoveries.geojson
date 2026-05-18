@@ -6949,6 +6949,30 @@
         "is24_link": "https://www.immobilienscout24.de/expose/167820895",
         "run_date": "2026-05-18"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7509084,
+          53.1711535
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0478",
+        "title": "Gerswalde — €1",
+        "price": 1,
+        "plot_sqm": 2730,
+        "score": 4.6,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "zone_id": "Z02",
+        "zone_name": "Uckermark-West",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167821536",
+        "run_date": "2026-05-18"
+      }
     }
   ]
 }
