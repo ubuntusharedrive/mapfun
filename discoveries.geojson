@@ -7309,6 +7309,534 @@
         "is24_link": "https://www.immobilienscout24.de/expose/167524408",
         "run_date": "2026-05-19"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.585269433962264,
+          52.89722
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0497",
+        "title": "Schorfheide — €220.000",
+        "price": 220000,
+        "plot_sqm": 1600,
+        "score": 6.0,
+        "score_label": "🟡 Solid candidate",
+        "tier": "budget",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167852184",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.585269433962264,
+          52.89722
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0498",
+        "title": "Schorfheide — €220.000",
+        "price": 220000,
+        "plot_sqm": 1600,
+        "score": 6.0,
+        "score_label": "🟡 Solid candidate",
+        "tier": "budget",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167620485",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.500381818181818,
+          52.72426
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0494",
+        "title": "Bernau bei Berlin — €89.000",
+        "price": 89000,
+        "plot_sqm": 711,
+        "score": 5.9,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167836560",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.725617074468085,
+          52.839072872340424
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0496",
+        "title": "Eberswalde — €129.000",
+        "price": 129000,
+        "plot_sqm": 656,
+        "score": 5.7,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167663017",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.881218,
+          52.846706
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0495",
+        "title": "Eberswalde — €215.000",
+        "price": 215000,
+        "plot_sqm": 845,
+        "score": 5.5,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167758239",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7929499,
+          52.8235631
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0512",
+        "title": "Eberswalde — €2.614",
+        "price": 2614,
+        "plot_sqm": 12311,
+        "score": 5.5,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/de46c041-a694-497f-b297-5deb91e82f9e",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7929499,
+          52.8235631
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0514",
+        "title": "Eberswalde — €115.995",
+        "price": 115995,
+        "plot_sqm": null,
+        "score": 4.6,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/e4eeff70-0703-4437-95a4-ba94f56f9e84",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7929499,
+          52.8235631
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0515",
+        "title": "Eberswalde — €117.150",
+        "price": 117150,
+        "plot_sqm": null,
+        "score": 4.5,
+        "score_label": "🟠 Marginal",
+        "tier": "budget",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/cc0456fb-40e3-4dc9-aeca-a73b9f859291",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7929499,
+          52.8235631
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0513",
+        "title": "Eberswalde — €136.950",
+        "price": 136950,
+        "plot_sqm": null,
+        "score": 4.4,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/3d5f040f-64ab-48ac-9a6f-50925ea87ba2",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.484831391304347,
+          52.73653747826087
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0504",
+        "title": "Marienwerder — €399.000",
+        "price": 399000,
+        "plot_sqm": 1447,
+        "score": 7.5,
+        "score_label": "🟡 Solid candidate",
+        "tier": "mid",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167642828",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.727265652173912,
+          52.96601996376812
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0503",
+        "title": "Friedrichswalde — €1.670.000",
+        "price": 1670000,
+        "plot_sqm": 4401,
+        "score": 7.4,
+        "score_label": "🟡 Solid candidate",
+        "tier": "dream",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167690947",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.881218,
+          52.846706
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0500",
+        "title": "Eberswalde — €695.000",
+        "price": 695000,
+        "plot_sqm": 1690,
+        "score": 6.3,
+        "score_label": "🟡 Solid candidate",
+        "tier": "premium",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167830632",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52748519736842,
+          53.101003684210525
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0501",
+        "title": "Templin — €300.000",
+        "price": 300000,
+        "plot_sqm": 23824,
+        "score": 6.2,
+        "score_label": "🟡 Solid candidate",
+        "tier": "mid",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/159914978",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.881218,
+          52.846706
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0499",
+        "title": "Eberswalde — €286.000",
+        "price": 286000,
+        "plot_sqm": 896,
+        "score": 6.1,
+        "score_label": "🟡 Solid candidate",
+        "tier": "mid",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167830750",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.629542549019607,
+          52.77528056022409
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0502",
+        "title": "Biesenthal — €459.000",
+        "price": 459000,
+        "plot_sqm": 1003,
+        "score": 5.5,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167692024",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7929499,
+          52.8235631
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0509",
+        "title": "Eberswalde — €480.000",
+        "price": 480000,
+        "plot_sqm": 1279,
+        "score": 5.0,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/be49f6af-2510-40cf-9713-65a9423212d6",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7929499,
+          52.8235631
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0508",
+        "title": "Eberswalde — €695.000",
+        "price": 695000,
+        "plot_sqm": 1690,
+        "score": 4.5,
+        "score_label": "🟠 Marginal",
+        "tier": "premium",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/915829c6-0c2d-4e0a-9c18-b00242abac61",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7929499,
+          52.8235631
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0507",
+        "title": "Eberswalde — €465.000",
+        "price": 465000,
+        "plot_sqm": 1034,
+        "score": 4.0,
+        "score_label": "🔴 Weak",
+        "tier": "mid",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/110d2bdf-2176-405c-81b0-b172fb8df064",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7370075,
+          52.8385284
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0505",
+        "title": "Eberswalde — €444.679",
+        "price": 444679,
+        "plot_sqm": 656,
+        "score": 3.6,
+        "score_label": "🔴 Weak",
+        "tier": "mid",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/665a96fe-b6a3-4425-b8c6-ffcc702731ba",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7929499,
+          52.8235631
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0506",
+        "title": "Eberswalde — €421.997",
+        "price": 421997,
+        "plot_sqm": 692,
+        "score": 3.6,
+        "score_label": "🔴 Weak",
+        "tier": "mid",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/b0bb0673-d98c-4ad1-bf4f-07a17704874c",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7929499,
+          52.8235631
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0510",
+        "title": "Eberswalde — €349.000",
+        "price": 349000,
+        "plot_sqm": 750,
+        "score": 3.6,
+        "score_label": "🔴 Weak",
+        "tier": "mid",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/9a8d96c1-d361-4269-9c6c-da590ddfe492",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7929499,
+          52.8235631
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0511",
+        "title": "Eberswalde — €495.000",
+        "price": 495000,
+        "plot_sqm": 852,
+        "score": 3.6,
+        "score_label": "🔴 Weak",
+        "tier": "mid",
+        "zone_id": "Z16",
+        "zone_name": "Schorfheide-Süd",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/00dedf9e-c6e4-43f3-867a-bde82b6eb6f9",
+        "run_date": "2026-05-19"
+      }
     }
   ]
 }
