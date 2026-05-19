@@ -8365,6 +8365,222 @@
         "is24_link": "https://www.immowelt.de/expose/f118deaf-284a-420d-b5f9-600d59623f75",
         "run_date": "2026-05-19"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.421400364583334,
+          52.07719111979167
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0539",
+        "title": "Wiesenburg/Mark — €138.000",
+        "price": 138000,
+        "plot_sqm": 890,
+        "score": 4.4,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167839913",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6564521,
+          52.0618291
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0545",
+        "title": "Niemegk — €195.000",
+        "price": 195000,
+        "plot_sqm": 671,
+        "score": 3.4,
+        "score_label": "🔴 Weak",
+        "tier": "budget",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/4421514c-11df-4e0e-a560-0fb9f0f69564",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.863173943661971,
+          52.22736929577464
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0541",
+        "title": "Borkheide — €753.000",
+        "price": 753000,
+        "plot_sqm": 4006,
+        "score": 7.7,
+        "score_label": "🟡 Solid candidate",
+        "tier": "premium",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167802506",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.863173943661971,
+          52.22736929577464
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0542",
+        "title": "Borkwalde — €295.000",
+        "price": 295000,
+        "plot_sqm": 2675,
+        "score": 6.6,
+        "score_label": "🟡 Solid candidate",
+        "tier": "mid",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167675261",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.863173943661971,
+          52.22736929577464
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0544",
+        "title": "Borkheide — €349.000",
+        "price": 349000,
+        "plot_sqm": 1800,
+        "score": 6.6,
+        "score_label": "🟡 Solid candidate",
+        "tier": "mid",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167323513",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.863173943661971,
+          52.22736929577464
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0543",
+        "title": "Borkheide — €379.000",
+        "price": 379000,
+        "plot_sqm": 641,
+        "score": 6.1,
+        "score_label": "🟡 Solid candidate",
+        "tier": "mid",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167489799",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6564521,
+          52.0618291
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0546",
+        "title": "Niemegk — €512.055",
+        "price": 512055,
+        "plot_sqm": 3815,
+        "score": 5.2,
+        "score_label": "🟠 Marginal",
+        "tier": "premium",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/d6cd86a8-75f1-4fdc-920e-f32b095759eb",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6564521,
+          52.0618291
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0547",
+        "title": "Niemegk — €512.055",
+        "price": 512055,
+        "plot_sqm": 3815,
+        "score": 5.2,
+        "score_label": "🟠 Marginal",
+        "tier": "premium",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/beb89ba6-cdb6-4465-85a5-82bdcee1346a",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6564521,
+          52.0618291
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0548",
+        "title": "Niemegk — €512.055",
+        "price": 512055,
+        "plot_sqm": 3815,
+        "score": 5.0,
+        "score_label": "🟠 Marginal",
+        "tier": "premium",
+        "zone_id": "Z18",
+        "zone_name": "Fläming-Mitte",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/16835a43-0d57-4147-978f-d05219f7d19c",
+        "run_date": "2026-05-19"
+      }
     }
   ]
 }
