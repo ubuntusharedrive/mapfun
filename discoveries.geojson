@@ -6973,6 +6973,78 @@
         "is24_link": "https://www.immobilienscout24.de/expose/167821536",
         "run_date": "2026-05-18"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.427039897959185,
+          52.98532401360544
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0479",
+        "title": "Kyritz — €420.000",
+        "price": 420000,
+        "plot_sqm": 795,
+        "score": 5.5,
+        "score_label": "🟠 Marginal",
+        "tier": "mid",
+        "zone_id": "Z05",
+        "zone_name": "Ruppiner Land",
+        "source": "IS24",
+        "is24_link": "https://www.immobilienscout24.de/expose/167812743",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8499055,
+          52.9461467
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0480",
+        "title": "Alt Ruppin — €490.000",
+        "price": 490000,
+        "plot_sqm": 1290,
+        "score": 4.3,
+        "score_label": "🔴 Weak",
+        "tier": "mid",
+        "zone_id": "Z05",
+        "zone_name": "Ruppiner Land",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/df1e12db-498a-4262-ad42-13d5cf8e37c8",
+        "run_date": "2026-05-19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8024423,
+          52.9119476
+        ]
+      },
+      "properties": {
+        "kp_id": "KP-0481",
+        "title": "Neuruppin — €334.868",
+        "price": 334868,
+        "plot_sqm": 878,
+        "score": 4.0,
+        "score_label": "🔴 Weak",
+        "tier": "mid",
+        "zone_id": "Z05",
+        "zone_name": "Ruppiner Land",
+        "source": "Immowelt",
+        "is24_link": "https://www.immowelt.de/expose/b604dec7-b663-4df7-a8c9-2196fd851183",
+        "run_date": "2026-05-19"
+      }
     }
   ]
 }
